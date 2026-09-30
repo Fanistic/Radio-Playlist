@@ -1,0 +1,1583 @@
+#EXTM3U
+#EXTINF:0 tvg-type=ignore tvg-id="acac3223-a414-45e6-93a9-b5c6230fa0d9" CUID="7582974" tvg-name="1Mix Radio - EDM (UK)"  group-title="UK: RADIO",1Mix Radio - EDM (UK)
+http://fr2.1mix.co.uk:9000/128h
+#EXTINF:0 tvg-type=ignore tvg-id="4481a946-3f35-4db9-9ea2-a03f4375dea3" CUID="7582975" tvg-name="1Mix Radio - House (UK)"  group-title="UK: RADIO",1Mix Radio - House (UK)
+http://fr2.1mix.co.uk:9000/192hb
+#EXTINF:0 tvg-type=ignore tvg-id="c185e0b2-a543-4d82-ac52-0b57bf862616" CUID="7582976" tvg-name="24k UK Radio"  group-title="UK: RADIO",24k UK Radio
+https://cupcake.citrus3.com:8228/stream
+#EXTINF:0 tvg-type=ignore tvg-id="49ecb2bb-b3fa-4609-937c-db96dc6b3587" CUID="7582977" tvg-name="45 Radio UK"  group-title="UK: RADIO",45 Radio UK
+http://uk7.internet-radio.com:8168/45radio
+#EXTINF:0 tvg-type=ignore tvg-id="93b00ec4-4f73-4386-ac75-042ce18bbe0f" CUID="7582978" tvg-name="75 Derby Radio"  group-title="UK: RADIO",75 Derby Radio
+http://radio.itelects.com:8002/;
+#EXTINF:0 tvg-type=ignore tvg-id="a64180b5-d1af-4956-a30e-cd05886294b1" CUID="7582979" tvg-name="80s 90s 2000s Super Hits UK Chart"  group-title="UK: RADIO",80s 90s 2000s Super Hits UK Chart
+https://streamingv2.shoutcast.com/80s90s2000ssuperhitsukchart
+#EXTINF:0 tvg-type=ignore tvg-id="47c38de6-442c-436f-822f-4ba1cac78d65" CUID="7582980" tvg-name="96.3 Seahaven FM"  group-title="UK: RADIO",96.3 Seahaven FM
+https://stream1.hippynet.co.uk:8107/stream?_=526570
+#EXTINF:0 tvg-type=ignore tvg-id="6b830c77-8950-4ed2-8b9b-2536507cf6d3" CUID="7582981" tvg-name="98.8 Castle FM Scotland"  group-title="UK: RADIO",98.8 Castle FM Scotland
+http://s7.myradiostream.com:10126
+#EXTINF:0 tvg-type=ignore tvg-id="dc96cf3f-b878-49a8-9ae3-117b5c98c461" CUID="7582982" tvg-name="102.1 Swansea Bay Radio"  group-title="UK: RADIO",102.1 Swansea Bay Radio
+https://listen-nation.sharp-stream.com/tcbay.mp3?
+#EXTINF:0 tvg-type=ignore tvg-id="f35ef9c8-1961-4b32-8fa3-aaefb0691d5f" CUID="7582983" tvg-name="1449 AM URB - University Radio Bath"  group-title="UK: RADIO",1449 AM URB - University Radio Bath
+http://urb-ice.bath.ac.uk/urb/320.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="d40e5008-e16e-41e1-9e6e-4dbabbbf56c2" CUID="7582984" tvg-name="Absolute Radio"  group-title="UK: RADIO",Absolute Radio
+http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20
+#EXTINF:0 tvg-type=ignore tvg-id="7a18d635-7f1b-4e47-b80f-e9ee0a04b163" CUID="7582985" tvg-name="Absolute Radio: 00s"  group-title="UK: RADIO",Absolute Radio: 00s
+https://stream-ar.hellorayo.co.uk/absolute00shigh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="db4e6a98-77b0-432a-8086-700189f3e601" CUID="7582986" tvg-name="Absolute Radio: 10s"  group-title="UK: RADIO",Absolute Radio: 10s
+https://stream-ar.hellorayo.co.uk/absolute10shigh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="e68c4ab7-d843-4359-b87d-4fd39c0e5e29" CUID="7582987" tvg-name="Absolute Radio: 20s"  group-title="UK: RADIO",Absolute Radio: 20s
+https://stream-mz.hellorayo.co.uk/webcast3high.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="15cf3c25-0b21-4928-9597-47f872ac94d8" CUID="7582988" tvg-name="Absolute Radio: 70s"  group-title="UK: RADIO",Absolute Radio: 70s
+https://stream-ar.hellorayo.co.uk/absolute70shigh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="e463a21d-32dd-4b4c-82a6-231ca4c48074" CUID="7582989" tvg-name="Absolute Radio: 90s"  group-title="UK: RADIO",Absolute Radio: 90s
+http://stream-ar.planetradio.co.uk/absolute90shigh.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true
+#EXTINF:0 tvg-type=ignore tvg-id="73cb93f4-65eb-4628-898d-78b20f667d08" CUID="7582990" tvg-name="Absolute Radio: Country"  group-title="UK: RADIO",Absolute Radio: Country
+https://stream-ar.hellorayo.co.uk/absolutecountry.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="38b6d246-7082-4930-9cd9-287d82e1e804" CUID="7582991" tvg-name="Academy FM Folkestone"  group-title="UK: RADIO",Academy FM Folkestone
+https://s2.xrad.io:9480/;stream/1
+#EXTINF:0 tvg-type=ignore tvg-id="a0f69317-31a3-4625-a29d-b83eb48cf084" CUID="7582992" tvg-name="Actual Radio Essex"  group-title="UK: RADIO",Actual Radio Essex
+https://securestreams.autopo.st:1174/stream/;
+#EXTINF:0 tvg-type=ignore tvg-id="e758695d-9715-4844-b2c5-5bc12e8dfd89" CUID="7582993" tvg-name="Africana Radio UK"  group-title="UK: RADIO",Africana Radio UK
+https://stream.lensnetworks.com/proxy/africanaradio?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="7ceba99d-02cf-4812-a175-b859dcf64a0a" CUID="7582994" tvg-name="Algorythme UK Garage"  group-title="UK: RADIO",Algorythme UK Garage
+https://ukg.algorythmeradio.com/stream
+#EXTINF:0 tvg-type=ignore tvg-id="7a04c5cc-9932-46c8-8fb0-765827c20cd8" CUID="7582995" tvg-name="Amansan FM UK"  group-title="UK: RADIO",Amansan FM UK
+https://stream.zeno.fm/cgikd89fv0zuv
+#EXTINF:0 tvg-type=ignore tvg-id="bdb3bac8-6489-42fa-ab84-e6dfceb5675e" CUID="7582996" tvg-name="Amber Radio (Norwich)"  group-title="UK: RADIO",Amber Radio (Norwich)
+http://stream3.themediasite.co.uk:8240/vhq
+#EXTINF:0 tvg-type=ignore tvg-id="48abb617-0f10-42af-8a83-92b318a0ceb9" CUID="7582997" tvg-name="Andover Radio"  group-title="UK: RADIO",Andover Radio
+http://s2.xrad.io:8300/stream.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="46177d62-4e03-4648-9ee9-9ddb3e5c266a" CUID="7582998" tvg-name="Anthemic Midlands"  group-title="UK: RADIO",Anthemic Midlands
+https://cast.anthemic.live/listen/anthemic/rm
+#EXTINF:0 tvg-type=ignore tvg-id="fa0aa5ca-2b86-48ce-9e8b-faffde447584" CUID="7582999" tvg-name="Argyll FM"  group-title="UK: RADIO",Argyll FM
+https://live.argyllfm.com/stream
+#EXTINF:0 tvg-type=ignore tvg-id="df1c42d7-86ac-424f-ad5a-27dbaa25e82f" CUID="7583000" tvg-name="Armagh City Radio"  group-title="UK: RADIO",Armagh City Radio
+https://acrlive.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="b2c411ce-5115-4d6e-88db-e6f8be5d8deb" CUID="7583001" tvg-name="Atlantic Radio UK"  group-title="UK: RADIO",Atlantic Radio UK
+https://cwilli00.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="3c33f243-34f4-4f9c-adce-7f853da50728" CUID="7583002" tvg-name="Atlantic Radio UK (80s)"  group-title="UK: RADIO",Atlantic Radio UK (80s)
+http://chasbo1978.radioca.st:9106/stream
+#EXTINF:0 tvg-type=ignore tvg-id="80b067b3-f589-4434-bd33-40035cf7b9ee" CUID="7583003" tvg-name="Aylesbury Radio"  group-title="UK: RADIO",Aylesbury Radio
+https://stream.zeno.fm/9wd9826ek5zuv
+#EXTINF:0 tvg-type=ignore tvg-id="bd0fdb3d-41c3-4f91-b220-60cc8ea1bf29" CUID="7583004" tvg-name="Ayr Hospital Radio"  group-title="UK: RADIO",Ayr Hospital Radio
+https://uksoutha.streaming.broadcast.radio/stream/11820/ayrhr?1699802961222=
+#EXTINF:0 tvg-type=ignore tvg-id="21418181-b215-48f8-b209-8210ebbbcbc9" CUID="7583005" tvg-name="B Radio (Berkshire)"  group-title="UK: RADIO",B Radio (Berkshire)
+https://stream.aiir.com/t4k624qg11kuv
+#EXTINF:0 tvg-type=ignore tvg-id="2c0dd1be-252b-45b7-a894-8b7d8bac9f70" CUID="7583006" tvg-name="Ballina Killaloe Local Radio"  group-title="UK: RADIO",Ballina Killaloe Local Radio
+https://streamer.radio.co/s776d00065/listen
+#EXTINF:0 tvg-type=ignore tvg-id="cc16e920-7755-46b7-a298-2630526d8b61" CUID="7583007" tvg-name="Barnsley Radio"  group-title="UK: RADIO",Barnsley Radio
+https://stream3.themediasite.co.uk:8412/stream?_=97445/;
+#EXTINF:0 tvg-type=ignore tvg-id="d860d28f-0b3f-4420-a6ab-e5e495c72f68" CUID="7583008" tvg-name="Basingstoke Community Radio"  group-title="UK: RADIO",Basingstoke Community Radio
+http://listen.hhcr.org.uk:6450/stream.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="233f42e7-b536-4123-970f-a4def23acd8e" CUID="7583009" tvg-name="Bath Sound"  group-title="UK: RADIO",Bath Sound
+https://streaming.broadcast.radio/bathhr
+#EXTINF:0 tvg-type=ignore tvg-id="4573c499-4898-475d-925d-eaf813729bd5" CUID="7583010" tvg-name="Bayside Radio Colwyn Bay"  group-title="UK: RADIO",Bayside Radio Colwyn Bay
+http://149.255.60.195:8021/stream
+#EXTINF:0 tvg-type=ignore tvg-id="367ea846-f0c9-454a-a5e0-ec69de7a5c5b" CUID="7583011" tvg-name="BCB Radio 106.6FM"  group-title="UK: RADIO",BCB Radio 106.6FM
+https://stream1.bcbradio.co.uk:8443/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c5d7c24d-a915-4865-af6d-09cfc2de8704" CUID="7583012" tvg-name="Bedford Radio"  group-title="UK: RADIO",Bedford Radio
+http://stream6.hippynet.co.uk:8001/stream
+#EXTINF:0 tvg-type=ignore tvg-id="ec0f4675-fe22-4582-981a-82909c5921c2" CUID="7583013" tvg-name="Belfast 89"  group-title="UK: RADIO",Belfast 89
+https://streaming.broadcast.radio/belfastfm
+#EXTINF:0 tvg-type=ignore tvg-id="2abdbd64-af02-4622-a425-5caeccddbfae" CUID="7583014" tvg-name="Belfast 247"  group-title="UK: RADIO",Belfast 247
+https://fast.citrus3.com:8400/stream
+#EXTINF:0 tvg-type=ignore tvg-id="b3daafba-c48e-4485-93f6-9f470e76f08a" CUID="7583015" tvg-name="BFBS (Afghanistan)"  group-title="UK: RADIO",BFBS (Afghanistan)
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs9.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="1a0fd251-8fa2-4f72-a22d-60f77b56fcb9" CUID="7583016" tvg-name="BFBS (Aldershot)"  group-title="UK: RADIO",BFBS (Aldershot)
+https://icy-e-04.sharp-stream.com/ssvcbfbs13.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="bed5c9e6-6e42-4700-ad4e-b58a3c2fd356" CUID="7583017" tvg-name="BFBS (Bahrain)"  group-title="UK: RADIO",BFBS (Bahrain)
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac?platform=tunein
+#EXTINF:0 tvg-type=ignore tvg-id="65d50fd2-53d9-4124-9b64-b19eb3558754" CUID="7583020" tvg-name="BFBS (Blandford)"  group-title="UK: RADIO",BFBS (Blandford)
+https://icy-e-03-boh.sharp-stream.com/ssvcbfbs14.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="9fee2b47-8463-468b-914b-8449d4656c3c" CUID="7583021" tvg-name="BFBS (Brize Norton)"  group-title="UK: RADIO",BFBS (Brize Norton)
+https://icy-e-04.sharp-stream.com/ssvcbfbs25.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6b14edb8-9366-4dee-92f7-88a12424ac8e" CUID="7583022" tvg-name="BFBS (Brunei)"  group-title="UK: RADIO",BFBS (Brunei)
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="90073115-f342-4326-a44a-d2c0bc08aec4" CUID="7583023" tvg-name="BFBS (Canada)"  group-title="UK: RADIO",BFBS (Canada)
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="67ed932f-b139-4044-82ec-30524e0e43d9" CUID="7583024" tvg-name="BFBS (Catterick)"  group-title="UK: RADIO",BFBS (Catterick)
+https://icy-e-03-boh.sharp-stream.com/ssvcbfbs15.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="52a9be3d-1ed7-461b-9805-74b2a1ed90b0" CUID="7583026" tvg-name="BFBS (Colchester)"  group-title="UK: RADIO",BFBS (Colchester)
+https://icy-e-03-boh.sharp-stream.com/ssvcbfbs16.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="2c43277f-e36b-4262-ab2c-5ee6cd75801d" CUID="7583027" tvg-name="BFBS (Cyprus)"  group-title="UK: RADIO",BFBS (Cyprus)
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="0c98864e-e40a-4215-8de9-1535fc440533" CUID="7583029" tvg-name="BFBS (Falkland Islands)"  group-title="UK: RADIO",BFBS (Falkland Islands)
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs6.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="edfa4c33-9530-4177-8a78-3be49b6c301d" CUID="7583030" tvg-name="BFBS (Germany)"  group-title="UK: RADIO",BFBS (Germany)
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac
+#EXTINF:0 tvg-type=ignore tvg-id="fec345df-3732-46aa-8d6e-2d6eb8016cd1" CUID="7583031" tvg-name="BFBS (Gibraltar)"  group-title="UK: RADIO",BFBS (Gibraltar)
+http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="e750357d-8312-4192-a400-51f7b9d51372" CUID="7583033" tvg-name="BFBS (Middle East)"  group-title="UK: RADIO",BFBS (Middle East)
+https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="a3fd9736-d3a4-4500-b6c7-8fa162dd0b66" CUID="7583034" tvg-name="BFBS (Northern Ireland)"  group-title="UK: RADIO",BFBS (Northern Ireland)
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:0 tvg-type=ignore tvg-id="aec79b30-efd8-43f0-bbb8-ec1a436fbd7f" CUID="7583039" tvg-name="BFBS (Samishran)"  group-title="UK: RADIO",BFBS (Samishran)
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs23.aac
+#EXTINF:0 tvg-type=ignore tvg-id="73aaf73d-30b6-4d0e-bf80-34fcdc207c1a" CUID="7583040" tvg-name="BFBS (Scotland)"  group-title="UK: RADIO",BFBS (Scotland)
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
+#EXTINF:0 tvg-type=ignore tvg-id="46bae04f-3bf4-4c66-b7d1-a8ddf483375e" CUID="7583041" tvg-name="BFBS (UK)"  group-title="UK: RADIO",BFBS (UK)
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c70c80ae-610d-4b28-a7eb-a7f746638990" CUID="7583018" tvg-name="BFBS: Beats"  group-title="UK: RADIO",BFBS: Beats
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats
+#EXTINF:0 tvg-type=ignore tvg-id="3ae3cb5c-71ba-4f20-a85d-ccedf939dcfb" CUID="7583019" tvg-name="BFBS: Best of British"  group-title="UK: RADIO",BFBS: Best of British
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs24.mp3?platform=tunein
+#EXTINF:0 tvg-type=ignore tvg-id="b816a068-2724-4301-9161-32c6131cfcf6" CUID="7583025" tvg-name="BFBS: Christmas"  group-title="UK: RADIO",BFBS: Christmas
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs24.aac
+#EXTINF:0 tvg-type=ignore tvg-id="7415f3c1-2f42-4683-a19c-ab48c1544ad9" CUID="7583028" tvg-name="BFBS: Edge"  group-title="UK: RADIO",BFBS: Edge
+http://edge-audio-07-gos2.sharp-stream.com/ssvcbfbs22.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="b393d0ab-140b-4620-ba3f-51daec30f95f" CUID="7583032" tvg-name="BFBS: Gurkha"  group-title="UK: RADIO",BFBS: Gurkha
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.mp3?platform=radiogarden
+#EXTINF:0 tvg-type=ignore tvg-id="e761b6c0-befa-45fb-a4d2-ef24bb7b0ce8" CUID="7583035" tvg-name="BFBS: Ops"  group-title="UK: RADIO",BFBS: Ops
+https://icy-e-04.sharp-stream.com/ssvcbfbs9.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="63eaa561-b1a2-443d-a7db-442050bd5ab3" CUID="7583036" tvg-name="BFBS: Radio"  group-title="UK: RADIO",BFBS: Radio
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:0 tvg-type=ignore tvg-id="43223958-aba5-40c1-8550-61b9f2941d83" CUID="7583037" tvg-name="BFBS: Radio 2"  group-title="UK: RADIO",BFBS: Radio 2
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs2.aac
+#EXTINF:0 tvg-type=ignore tvg-id="37bf6fb0-0696-4788-b646-24debf4bf416" CUID="7583038" tvg-name="BFBS: Rewind"  group-title="UK: RADIO",BFBS: Rewind
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac
+#EXTINF:0 tvg-type=ignore tvg-id="93811907-8710-4520-bacd-e5536dc90221" CUID="7583042" tvg-name="Big Beat Brighton"  group-title="UK: RADIO",Big Beat Brighton
+https://s4.citrus3.com:8366/stream
+#EXTINF:0 tvg-type=ignore tvg-id="d689b478-d2de-42c0-bfc5-766188cb08db" CUID="7583043" tvg-name="Birmingham Sounds Radio"  group-title="UK: RADIO",Birmingham Sounds Radio
+https://streaming.x1hosting.net/stream/drowland
+#EXTINF:0 tvg-type=ignore tvg-id="42ceb62b-fa88-4508-bda1-11bbe62fc59d" CUID="7583044" tvg-name="Blackpool Community Radio"  group-title="UK: RADIO",Blackpool Community Radio
+https://s10.citrus3.com:8596/stream
+#EXTINF:0 tvg-type=ignore tvg-id="f6d9986a-7a0b-4d4d-81cc-3758a4c53479" CUID="7583045" tvg-name="Blackpool Radio"  group-title="UK: RADIO",Blackpool Radio
+https://blackpoolradio.radioca.st/stream/1/
+#EXTINF:0 tvg-type=ignore tvg-id="1df72b96-896d-42a4-ad8c-fe714a3a0df3" CUID="7583046" tvg-name="Blackwood FM"  group-title="UK: RADIO",Blackwood FM
+http://server-06.stream-server.nl:8326/;
+#EXTINF:0 tvg-type=ignore tvg-id="70c8cdf3-89bf-4dd3-97cc-9fd59e4b0fb5" CUID="7583047" tvg-name="Blessed Radio UK"  group-title="UK: RADIO",Blessed Radio UK
+https://stream.zeno.fm/7qz61uuup18uv
+#EXTINF:0 tvg-type=ignore tvg-id="f872a9a0-bbaa-4562-9ff4-637425600bd7" CUID="7583048" tvg-name="Bloop London Radio"  group-title="UK: RADIO",Bloop London Radio
+https://radio.canstream.co.uk:8058/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="b5576009-763d-44ed-83ad-a0228d0c8857" CUID="7583049" tvg-name="BNB London Radio"  group-title="UK: RADIO",BNB London Radio
+http://s4.voscast.com:8662/;
+#EXTINF:0 tvg-type=ignore tvg-id="a4660a7a-50aa-490c-a163-8fe0fb20750d" CUID="7583050" tvg-name="Bolton FM"  group-title="UK: RADIO",Bolton FM
+https://radio.canstream.co.uk:8083/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="0c0cebb5-6a41-48c9-8dba-282500cd3c03" CUID="7583051" tvg-name="Bolton Hindu Forum Radio"  group-title="UK: RADIO",Bolton Hindu Forum Radio
+https://listen.radioking.com/radio/312242/stream/359399
+#EXTINF:0 tvg-type=ignore tvg-id="0ed7e3b4-f5ff-4637-9d36-5c75f0d7e122" CUID="7583052" tvg-name="Boomerang Radio UK"  group-title="UK: RADIO",Boomerang Radio UK
+http://listen.streamaudio.co:4105/aac
+#EXTINF:0 tvg-type=ignore tvg-id="40d89bc1-b984-435d-8e1e-85086f839b9b" CUID="7583053" tvg-name="Borders Hospital Radio Service"  group-title="UK: RADIO",Borders Hospital Radio Service
+https://streaming05.liveboxstream.uk/proxy/bordersh?mp=%2Fstream
+#EXTINF:0 tvg-type=ignore tvg-id="bc62981b-f2c5-4e92-aa06-c39e114924f2" CUID="7583054" tvg-name="Bournemouth One"  group-title="UK: RADIO",Bournemouth One
+https://stream.rcs.revma.com/bq0p6qbnpucwv
+#EXTINF:0 tvg-type=ignore tvg-id="87a14f68-59d5-4590-a0dc-538711edfa64" CUID="7583055" tvg-name="Box UK"  group-title="UK: RADIO",Box UK
+https://boxstream.danceradiouk.com/stream/1/
+#EXTINF:0 tvg-type=ignore tvg-id="0b843a91-d166-46ef-9c46-84b3c7dd093a" CUID="7583056" tvg-name="Bradford Asian Radio"  group-title="UK: RADIO",Bradford Asian Radio
+https://cast1.asurahosting.com/proxy/bradford/stream
+#EXTINF:0 tvg-type=ignore tvg-id="217904cf-7ec7-4191-a185-e18bab5f9443" CUID="7583057" tvg-name="Breeze Essex"  group-title="UK: RADIO",Breeze Essex
+https://chelmer.btsstream.com/stream/chelmer
+#EXTINF:0 tvg-type=ignore tvg-id="38f5a33b-bc28-43e8-a88d-1c6d2b10c1ef" CUID="7583058" tvg-name="Brighton and Hove Community Radio"  group-title="UK: RADIO",Brighton and Hove Community Radio
+http://80.85.84.114:8072/;
+#EXTINF:0 tvg-type=ignore tvg-id="97751650-db21-46b2-a166-2307de1ee6ca" CUID="7583059" tvg-name="Bristol Sound Webradio"  group-title="UK: RADIO",Bristol Sound Webradio
+https://thebristolsoundwebradio.stream.laut.fm/thebristolsoundwebradio
+#EXTINF:0 tvg-type=ignore tvg-id="5850da0c-e2a0-4722-84e0-f6f75ee0de1b" CUID="7583060" tvg-name="BRISTOL UK"  group-title="UK: RADIO",BRISTOL UK
+https://stream.zeno.fm/243pv916ag0uv
+#EXTINF:0 tvg-type=ignore tvg-id="f7b4186c-5445-44c0-ab1e-cc0428d84979" CUID="7583061" tvg-name="Broadland Radio"  group-title="UK: RADIO",Broadland Radio
+https://arqiva-broadlandradio-live-a.edge.audiocdn.com/10002_128mp3
+#EXTINF:0 tvg-type=ignore tvg-id="59133b00-185e-433d-bff5-c27e113bd663" CUID="7583062" tvg-name="Brooklands Radio"  group-title="UK: RADIO",Brooklands Radio
+https://stream4.hippynet.co.uk/stream/brooklandsradio
+#EXTINF:0 tvg-type=ignore tvg-id="5d3f5dfe-083e-4581-904d-9b08107ac6c3" CUID="7583063" tvg-name="Brum Radio (Birmingham)"  group-title="UK: RADIO",Brum Radio (Birmingham)
+http://uk3.internet-radio.com:11168/live
+#EXTINF:0 tvg-type=ignore tvg-id="3a47c220-94df-489c-bb76-f7ac00a8be71" CUID="7583064" tvg-name="Burgess Hill Radio"  group-title="UK: RADIO",Burgess Hill Radio
+https://streaming.broadcastradio.com:9312/burgesshillradio
+#EXTINF:0 tvg-type=ignore tvg-id="232c7a23-74c7-4f97-840d-09fd1ccfd1ae" CUID="7583065" tvg-name="Burnley College Radio"  group-title="UK: RADIO",Burnley College Radio
+https://stream.digilinkconnect.co.uk:8000/bcr
+#EXTINF:0 tvg-type=ignore tvg-id="06cb03e4-4fe5-47af-9e6f-876816427599" CUID="7583066" tvg-name="Burnside Radio UK"  group-title="UK: RADIO",Burnside Radio UK
+https://streaming04.liveboxstream.uk/proxy/burnside?mp=/burnsideradiouk.aac
+#EXTINF:0 tvg-type=ignore tvg-id="233be58a-a28f-4cc8-8e91-d2c285da169b" CUID="7583067" tvg-name="Bute Island Radio"  group-title="UK: RADIO",Bute Island Radio
+http://live.canstream.co.uk:8000/bute.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="e5bb5836-2463-4d18-ab2c-9e576eb2b4c8" CUID="7583068" tvg-name="Caithness FM"  group-title="UK: RADIO",Caithness FM
+https://streamer.radio.co/s2b0b90cfe/listen
+#EXTINF:0 tvg-type=ignore tvg-id="f5105b78-8960-43d7-b6a5-d39605ff32a8" CUID="7583069" tvg-name="Calder Valley Radio"  group-title="UK: RADIO",Calder Valley Radio
+http://ais-sa2.cdnstream1.com/2293_192.mp3?_=276155
+#EXTINF:0 tvg-type=ignore tvg-id="f9cbd458-f00a-42de-a476-9995e37cb509" CUID="7583070" tvg-name="Cambridge 105"  group-title="UK: RADIO",Cambridge 105
+https://stream.cambridge105.co.uk:8443/105-radioplayer-high
+#EXTINF:0 tvg-type=ignore tvg-id="cba65356-6044-426d-9552-0128d0899c73" CUID="7583071" tvg-name="Cambridge University Student Radio"  group-title="UK: RADIO",Cambridge University Student Radio
+http://stream.camfm.co.uk/camfm
+#EXTINF:0 tvg-type=ignore tvg-id="a38bbcd4-677f-42d8-a453-88b5c951feff" CUID="7583072" tvg-name="CamRadio (Derbyshire)"  group-title="UK: RADIO",CamRadio (Derbyshire)
+http://207.180.196.141:8000/CamRadioDerbyshire
+#EXTINF:0 tvg-type=ignore tvg-id="e9703e8f-326b-4676-8ed7-2608565f29a4" CUID="7583073" tvg-name="CamRadio (Lancashire)"  group-title="UK: RADIO",CamRadio (Lancashire)
+http://207.180.196.141:8000/CamRadioLancashire
+#EXTINF:0 tvg-type=ignore tvg-id="7332c44d-f89d-4983-abd7-c03c7992d29c" CUID="7583075" tvg-name="Candid Radio (Bath)"  group-title="UK: RADIO",Candid Radio (Bath)
+https://stream.zeno.fm/0upc7vdtqfhvv
+#EXTINF:0 tvg-type=ignore tvg-id="1ccff59a-fb50-4382-b69c-70c936eb38b6" CUID="7583074" tvg-name="Candid Radio (Birmingham)"  group-title="UK: RADIO",Candid Radio (Birmingham)
+https://stream.zeno.fm/01gg9s8q6x8uv
+#EXTINF:0 tvg-type=ignore tvg-id="d7e956a2-1388-409c-9885-73024b8b1372" CUID="7583076" tvg-name="Candid Radio (Cambridge)"  group-title="UK: RADIO",Candid Radio (Cambridge)
+https://stream.zeno.fm/z13npmdtqfhvv
+#EXTINF:0 tvg-type=ignore tvg-id="062a667f-604e-42fe-9765-b1d6fbdaaa87" CUID="7583077" tvg-name="Candid Radio (Edinburgh)"  group-title="UK: RADIO",Candid Radio (Edinburgh)
+https://stream.zeno.fm/681w4fctqfhvv
+#EXTINF:0 tvg-type=ignore tvg-id="ab7d808d-888e-4ebf-aee8-d2257f6b5e2b" CUID="7583078" tvg-name="Cannock Chase Radio FM"  group-title="UK: RADIO",Cannock Chase Radio FM
+https://streaming.broadcast.radio/cannockchase?1712410831388=
+#EXTINF:0 tvg-type=ignore tvg-id="f2661a42-fa7a-4a0a-be6f-4306feced2ae" CUID="7583079" tvg-name="Capital (Anglesey & Gwynedd)"  group-title="UK: RADIO",Capital (Anglesey & Gwynedd)
+https://media-sov.musicradio.com/CapitalCymruMP3
+#EXTINF:0 tvg-type=ignore tvg-id="7aa8f733-68fe-44b1-9861-0d7a8338e1b7" CUID="7583081" tvg-name="Capital (Birmingham)"  group-title="UK: RADIO",Capital (Birmingham)
+https://media-ssl.musicradio.com/CapitalBirmingham
+#EXTINF:0 tvg-type=ignore tvg-id="5c2837ef-4c86-46e4-9365-fe34139e1d3c" CUID="7583082" tvg-name="Capital (Brighton)"  group-title="UK: RADIO",Capital (Brighton)
+https://media-ssl.musicradio.com/CapitalBrighton
+#EXTINF:0 tvg-type=ignore tvg-id="736938ba-447f-4c80-a82e-a431dd3e040a" CUID="7583083" tvg-name="Capital (Burnley and Pendleton)"  group-title="UK: RADIO",Capital (Burnley and Pendleton)
+https://media-ice.musicradio.com/CapitalBurnley
+#EXTINF:0 tvg-type=ignore tvg-id="cd41d6c3-bb26-414f-b8bd-326dd8a284cd" CUID="7583085" tvg-name="Capital (Coventry)"  group-title="UK: RADIO",Capital (Coventry)
+https://media-ssl.musicradio.com/CapitalCoventry
+#EXTINF:0 tvg-type=ignore tvg-id="17420773-5e9e-4cc6-820d-4f48d107da0d" CUID="7583086" tvg-name="Capital (Cymru)"  group-title="UK: RADIO",Capital (Cymru)
+https://media-ssl.musicradio.com/CapitalCymru
+#EXTINF:0 tvg-type=ignore tvg-id="b7b2bcf6-85bd-4dea-8638-1e273f4048dd" CUID="7583088" tvg-name="Capital (Derbyshire)"  group-title="UK: RADIO",Capital (Derbyshire)
+https://media-ssl.musicradio.com/CapitalDerbyshire
+#EXTINF:0 tvg-type=ignore tvg-id="69f256f5-3517-426c-ad8d-f7d28c64d886" CUID="7583089" tvg-name="Capital (Edinburgh)"  group-title="UK: RADIO",Capital (Edinburgh)
+https://media-ssl.musicradio.com/CapitalEdinburgh
+#EXTINF:0 tvg-type=ignore tvg-id="54fc73d3-cc17-4919-aeb0-21f69b2ec78f" CUID="7583091" tvg-name="Capital (Glasgow)"  group-title="UK: RADIO",Capital (Glasgow)
+https://media-ice.musicradio.com/CapitalGlasgowMP3
+#EXTINF:0 tvg-type=ignore tvg-id="a6778544-18ba-4b24-8eaf-42daab2f2cf5" CUID="7583092" tvg-name="Capital (Lancashire and Preston)"  group-title="UK: RADIO",Capital (Lancashire and Preston)
+https://media-ice.musicradio.com/CapitalPreston
+#EXTINF:0 tvg-type=ignore tvg-id="29f14141-7113-42f6-bac2-1bbb50a40283" CUID="7583093" tvg-name="Capital (Leicestershire)"  group-title="UK: RADIO",Capital (Leicestershire)
+https://media-ice.musicradio.com/CapitalLeicestershireMP3?.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="b74a930f-9148-4df1-b081-fff0df394238" CUID="7583094" tvg-name="Capital (Liverpool)"  group-title="UK: RADIO",Capital (Liverpool)
+https://media-sov.musicradio.com/CapitalLiverpoolMP3
+#EXTINF:0 tvg-type=ignore tvg-id="18ac183e-8ee0-41b2-a691-04401c43f9fa" CUID="7583095" tvg-name="Capital (London)"  group-title="UK: RADIO",Capital (London)
+http://media-ice.musicradio.com/CapitalMP3
+#EXTINF:0 tvg-type=ignore tvg-id="9788eeba-07b5-4f91-a308-a845aa4c2ee9" CUID="7583096" tvg-name="Capital (Manchester)"  group-title="UK: RADIO",Capital (Manchester)
+https://media-ssl.musicradio.com/CapitalManchester
+#EXTINF:0 tvg-type=ignore tvg-id="16292943-4374-4899-aa7b-e4f6388b6d94" CUID="7583097" tvg-name="Capital (North Oxfordshire)"  group-title="UK: RADIO",Capital (North Oxfordshire)
+https://media-ssl.musicradio.com/CapitalNorthOxfordshire
+#EXTINF:0 tvg-type=ignore tvg-id="cbcebc74-6786-482e-b5f5-0e1320390d93" CUID="7583098" tvg-name="Capital (North Wales Coast)"  group-title="UK: RADIO",Capital (North Wales Coast)
+https://media-ssl.musicradio.com/CapitalWalesCoast
+#EXTINF:0 tvg-type=ignore tvg-id="af319d55-db26-4f24-acc5-12b16fc4a386" CUID="7583099" tvg-name="Capital (Nottinghamshire)"  group-title="UK: RADIO",Capital (Nottinghamshire)
+https://media-ice.musicradio.com/CapitalNottinghamshireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="e24f3d48-f068-4159-92d8-0321c60cb25b" CUID="7583100" tvg-name="Capital (Preston and Blackburn)"  group-title="UK: RADIO",Capital (Preston and Blackburn)
+https://media-ssl.musicradio.com/CapitalPreston
+#EXTINF:0 tvg-type=ignore tvg-id="c2b8b098-610b-40fd-8dc8-fcedcf0e4995" CUID="7583101" tvg-name="Capital (Rugby)"  group-title="UK: RADIO",Capital (Rugby)
+https://media-ssl.musicradio.com/CapitalRugby
+#EXTINF:0 tvg-type=ignore tvg-id="bcfd512c-aa1f-46d0-8857-2ebedd0e3f4c" CUID="7583102" tvg-name="Capital (South Coast)"  group-title="UK: RADIO",Capital (South Coast)
+https://media-ssl.musicradio.com/CapitalSouthCoast
+#EXTINF:0 tvg-type=ignore tvg-id="c2b0c7d7-bb6a-458c-b0ed-a217fee59fcc" CUID="7583103" tvg-name="Capital (South East Staffordshire)"  group-title="UK: RADIO",Capital (South East Staffordshire)
+https://media-ssl.musicradio.com/CapitalSouthEastStaffordshire
+#EXTINF:0 tvg-type=ignore tvg-id="c270ca97-8c2a-4074-8ac5-4989c4bc6071" CUID="7583104" tvg-name="Capital (South Wales)"  group-title="UK: RADIO",Capital (South Wales)
+https://media-ice.musicradio.com/CapitalSouthWalesMP3
+#EXTINF:0 tvg-type=ignore tvg-id="0cbc6d67-c26e-45cb-8f19-135b662e10dd" CUID="7583105" tvg-name="Capital (Stratford)"  group-title="UK: RADIO",Capital (Stratford)
+https://media-ssl.musicradio.com/CapitalStratford
+#EXTINF:0 tvg-type=ignore tvg-id="593a6746-1e47-49f8-beb3-17be9bdfb9d8" CUID="7583106" tvg-name="Capital (Teesside)"  group-title="UK: RADIO",Capital (Teesside)
+https://media-ssl.musicradio.com/CapitalTeesside
+#EXTINF:0 tvg-type=ignore tvg-id="588546e7-0205-4815-a1f7-d4e03e6adef2" CUID="7583107" tvg-name="Capital (Tyne & Wear)"  group-title="UK: RADIO",Capital (Tyne & Wear)
+https://media-ssl.musicradio.com/CapitalTyneWear
+#EXTINF:0 tvg-type=ignore tvg-id="37ee7124-bd9b-4501-b8ec-a3ac8f079433" CUID="7583108" tvg-name="Capital (UK)"  group-title="UK: RADIO",Capital (UK)
+http://icecast.thisisdax.com/CapitalUKMP3
+#EXTINF:0 tvg-type=ignore tvg-id="751116fb-6b2b-4ea2-b714-ae5c175ff7af" CUID="7583109" tvg-name="Capital (Warwick)"  group-title="UK: RADIO",Capital (Warwick)
+https://media-ssl.musicradio.com/CapitalWarwick
+#EXTINF:0 tvg-type=ignore tvg-id="5d835efb-1660-4de5-881e-ae23d33589d7" CUID="7583110" tvg-name="Capital (Wirral)"  group-title="UK: RADIO",Capital (Wirral)
+https://media-ssl.musicradio.com/CapitalWirral
+#EXTINF:0 tvg-type=ignore tvg-id="a3ca88dc-2872-443a-b146-e5d0e6c8fb80" CUID="7583111" tvg-name="Capital (Wrexham & Chester)"  group-title="UK: RADIO",Capital (Wrexham & Chester)
+https://media-sov.musicradio.com/CapitalWrexhamMP3
+#EXTINF:0 tvg-type=ignore tvg-id="00fd461c-db1a-4afc-8e8b-2afcaa586e81" CUID="7583115" tvg-name="Capital (Yorkshire - East)"  group-title="UK: RADIO",Capital (Yorkshire - East)
+https://media-ssl.musicradio.com/CapitalYorkshireEast
+#EXTINF:0 tvg-type=ignore tvg-id="6a15a39b-4cbe-4891-ac4c-931024cf65a2" CUID="7583116" tvg-name="Capital (Yorkshire South & West)"  group-title="UK: RADIO",Capital (Yorkshire South & West)
+https://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3
+#EXTINF:0 tvg-type=ignore tvg-id="e62d8175-7add-4675-b3d9-ee30ab58f0c8" CUID="7583090" tvg-name="Capital FM"  group-title="UK: RADIO",Capital FM
+http://ice-the.musicradio.com/Capital
+#EXTINF:0 tvg-type=ignore tvg-id="18c1fd4c-1ae5-41e6-bb73-bc8772c916ba" CUID="7583080" tvg-name="Capital: Anthems"  group-title="UK: RADIO",Capital: Anthems
+https://media-ice.musicradio.com/CapitalAnthemsMP3
+#EXTINF:0 tvg-type=ignore tvg-id="949da320-34b3-4539-9721-9c2b93393b14" CUID="7583084" tvg-name="Capital: Chill"  group-title="UK: RADIO",Capital: Chill
+https://media-ssl.musicradio.com/CapitalChill
+#EXTINF:0 tvg-type=ignore tvg-id="0db6fbe3-fa9f-4b70-8bdf-27c2d0ac57cf" CUID="7583087" tvg-name="Capital: Dance"  group-title="UK: RADIO",Capital: Dance
+https://icecast.thisisdax.com/CapitalDanceMP3
+#EXTINF:0 tvg-type=ignore tvg-id="271183ea-254f-4af0-892c-65dbfdb756eb" CUID="7583112" tvg-name="Capital: XTRA"  group-title="UK: RADIO",Capital: XTRA
+http://media-the.musicradio.com/CapitalXTRALondonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="0753dda0-84e7-4dd8-88a0-da9950434ea4" CUID="7583113" tvg-name="Capital: XTRA (London)"  group-title="UK: RADIO",Capital: XTRA (London)
+https://media-ssl.musicradio.com/CapitalXTRALondonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="8e748c3f-7899-475f-bd27-341caaee569c" CUID="7583114" tvg-name="Capital: XTRA Reloaded"  group-title="UK: RADIO",Capital: XTRA Reloaded
+https://media-ssl.musicradio.com/CapitalXTRAReloaded
+#EXTINF:0 tvg-type=ignore tvg-id="7ebe204f-8495-46d9-bcae-6fd291d24296" CUID="7583117" tvg-name="Carlow FM"  group-title="UK: RADIO",Carlow FM
+https://s21.myradiostream.com/14706/listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="a816d324-5d5a-49b5-87de-86c7a3cd205e" CUID="7583118" tvg-name="CGM UKScene Radio"  group-title="UK: RADIO",CGM UKScene Radio
+http://cgm-stream.noip.me:8000/mpd
+#EXTINF:0 tvg-type=ignore tvg-id="4c70de90-e893-47ed-a62b-89417d159600" CUID="7583119" tvg-name="Chelmsford Community Radio"  group-title="UK: RADIO",Chelmsford Community Radio
+http://cast3.asurahosting.com:9577/stream
+#EXTINF:0 tvg-type=ignore tvg-id="73127de6-92e2-4842-b5e5-33ff2289d203" CUID="7583120" tvg-name="Cheshire Radio"  group-title="UK: RADIO",Cheshire Radio
+https://stream.zeno.fm/g83r2pm2x68uv
+#EXTINF:0 tvg-type=ignore tvg-id="04e9c7ae-b0b0-4336-b317-0250baeaa08a" CUID="7583121" tvg-name="Chester Student Radio"  group-title="UK: RADIO",Chester Student Radio
+https://uksoutha.streaming.broadcast.radio/csr
+#EXTINF:0 tvg-type=ignore tvg-id="db69c0fa-db04-481a-9b8d-18e680957217" CUID="7583122" tvg-name="Chichester Hospital Radio"  group-title="UK: RADIO",Chichester Hospital Radio
+http://webradio.radiomonitor.com/stream/CHR
+#EXTINF:0 tvg-type=ignore tvg-id="c9bb65f2-b893-418a-a36e-ff52caa086e8" CUID="7583123" tvg-name="ChoiceFM UK"  group-title="UK: RADIO",ChoiceFM UK
+https://cdn.choicefm.uk/stream;
+#EXTINF:0 tvg-type=ignore tvg-id="c8a4c8fb-0019-4331-83c6-c599475c83b7" CUID="7583124" tvg-name="Christmas FM Ireland"  group-title="UK: RADIO",Christmas FM Ireland
+https://streaming.live365.com/a59515?player_id=streema
+#EXTINF:0 tvg-type=ignore tvg-id="30749824-3a49-4a59-8369-6dffb2c1894f" CUID="7583125" tvg-name="Christmas Station Kent"  group-title="UK: RADIO",Christmas Station Kent
+http://s33.myradiostream.com:17652/;
+#EXTINF:0 tvg-type=ignore tvg-id="6f1ce4f0-01a1-4021-9d6e-37f75f0156dc" CUID="7583126" tvg-name="Clare FM"  group-title="UK: RADIO",Clare FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FM.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="8232142a-bdb1-426a-9029-ef84aa1df02f" CUID="7583127" tvg-name="Classic FM"  group-title="UK: RADIO",Classic FM
+https://media-ssl.musicradio.com/ClassicFMMP3
+#EXTINF:0 tvg-type=ignore tvg-id="00f05cec-221a-44dd-bc32-78484a64ba48" CUID="7583128" tvg-name="Classical Radio UK"  group-title="UK: RADIO",Classical Radio UK
+https://ec4.yesstreaming.net:2695/stream
+#EXTINF:0 tvg-type=ignore tvg-id="b16996c1-7464-4368-89f1-ffbc17027083" CUID="7583129" tvg-name="Club FM Dublin"  group-title="UK: RADIO",Club FM Dublin
+https://c6.radioboss.fm:8225/stream
+#EXTINF:0 tvg-type=ignore tvg-id="bbe53dd0-76f0-4e75-b131-3bccfb95d285" CUID="7583130" tvg-name="ClubHitsUK - QuestLondonRadio"  group-title="UK: RADIO",ClubHitsUK - QuestLondonRadio
+http://178.211.139.6:8050/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="1b1d1022-c691-4c26-a9f0-8d367dc6c63e" CUID="7583131" tvg-name="Coalville Public Radio"  group-title="UK: RADIO",Coalville Public Radio
+https://uksoutha.streaming.broadcast.radio/cpr
+#EXTINF:0 tvg-type=ignore tvg-id="d8a1f203-5d76-4678-a017-0ac3dfb94db0" CUID="7583132" tvg-name="Community Radio Kilkenny"  group-title="UK: RADIO",Community Radio Kilkenny
+http://rsstreaming.com:8002/Live
+#EXTINF:0 tvg-type=ignore tvg-id="627c00eb-f748-4d88-bc10-022fb74a2803" CUID="7583133" tvg-name="Cork 96 FM"  group-title="UK: RADIO",Cork 96 FM
+http://wg.cdn.tibus.net/96fm
+#EXTINF:0 tvg-type=ignore tvg-id="ef0b6c53-7118-4cee-9f4b-a2e07901fc40" CUID="7583134" tvg-name="Cork Music Station"  group-title="UK: RADIO",Cork Music Station
+https://streamer.radio.co/s1a04f8902/listen
+#EXTINF:0 tvg-type=ignore tvg-id="2670aefd-709f-409f-9c08-ead9f76a38f2" CUID="7583135" tvg-name="Cork's 96FM Fit Mix"  group-title="UK: RADIO",Cork's 96FM Fit Mix
+https://wg.cdn.tibus.net/96fmfitmixHQ
+#EXTINF:0 tvg-type=ignore tvg-id="522800f8-f8e2-4f42-889f-316b9b8705e2" CUID="7583136" tvg-name="Cork's 96MAS"  group-title="UK: RADIO",Cork's 96MAS
+https://wg.cdn.tibus.net/96FMExtra
+#EXTINF:0 tvg-type=ignore tvg-id="3f261e6f-f0ea-4e3a-b470-3812dc0b4f87" CUID="7583137" tvg-name="Cork's Red FM"  group-title="UK: RADIO",Cork's Red FM
+https://edge.audioxi.com/RED
+#EXTINF:0 tvg-type=ignore tvg-id="99f4c026-d50f-4588-87c9-4b2720f09feb" CUID="7583138" tvg-name="Cornwall Rewind"  group-title="UK: RADIO",Cornwall Rewind
+http://s4.radio.co/s2eaa194f6/listen
+#EXTINF:0 tvg-type=ignore tvg-id="9a14968d-b408-41a1-bd2c-16432c4f65e7" CUID="7583139" tvg-name="Cotswold Hospital Radio"  group-title="UK: RADIO",Cotswold Hospital Radio
+http://195.201.166.244:8525/stream
+#EXTINF:0 tvg-type=ignore tvg-id="aa1f35e9-0604-4c78-b07f-cfe4af28361b" CUID="7583140" tvg-name="Coventry Hospital Radio"  group-title="UK: RADIO",Coventry Hospital Radio
+https://eu9.fastcast4u.com/proxy/coventry?fbclid=IwAR0muK0HBmdQufrVbYCQFMi_qf88GlMEtH5VrwToZjqBVXi5qKuWISWyOnU&mp=%2F1
+#EXTINF:0 tvg-type=ignore tvg-id="e8a47627-7535-4195-872d-76b4027c6134" CUID="7583141" tvg-name="CrossRhythms Plymouth"  group-title="UK: RADIO",CrossRhythms Plymouth
+http://stream.crossrhythms.co.uk/plymouth/hq.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="a5270493-594a-43ba-9468-bc533d81c71a" CUID="7583142" tvg-name="Croydon FM"  group-title="UK: RADIO",Croydon FM
+https://cast6.asurahosting.com/proxy/croydonf/stream
+#EXTINF:0 tvg-type=ignore tvg-id="ef2684d4-988c-4c57-991b-6761b9bc88bb" CUID="7583143" tvg-name="Cuillin FM (Isle of Skye)"  group-title="UK: RADIO",Cuillin FM (Isle of Skye)
+http://comet.shoutca.st:8338/stream
+#EXTINF:0 tvg-type=ignore tvg-id="88f3a3d9-25bc-41e2-b8bd-3b20ccdcd49e" CUID="7583144" tvg-name="Cumbernauld fm"  group-title="UK: RADIO",Cumbernauld fm
+http://radio.canstream.co.uk:8104/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="7d78326c-daa3-49f2-8aa4-c0e435a9e95e" CUID="7583145" tvg-name="Dance Nation UK Radio"  group-title="UK: RADIO",Dance Nation UK Radio
+https://broadcast.shoutstream.co.uk/stream/8038/;
+#EXTINF:0 tvg-type=ignore tvg-id="c7fc4e81-914d-4050-b63a-9119f7d73064" CUID="7583146" tvg-name="DANCE RADIO LONDON"  group-title="UK: RADIO",DANCE RADIO LONDON
+https://uk3-vn.mixstream.net/8164/listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c3d63292-dae8-4b35-8319-f8aef5a85650" CUID="7583147" tvg-name="Dance UK"  group-title="UK: RADIO",Dance UK
+http://51.89.148.171:8022/stream/
+#EXTINF:0 tvg-type=ignore tvg-id="7630af63-3170-4ad0-9cbd-c0f1f3d6b176" CUID="7583148" tvg-name="Dancefm UK Hardcore"  group-title="UK: RADIO",Dancefm UK Hardcore
+https://broadcast.dancefmlive.com/radio/8030/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="a493c52b-676a-4831-af4e-ca6dae93e168" CUID="7583149" tvg-name="DDM RADIO IRELAND"  group-title="UK: RADIO",DDM RADIO IRELAND
+http://93.107.98.107:8000/;stream.nsv
+#EXTINF:0 tvg-type=ignore tvg-id="9b2fee6a-a2ef-437b-ab66-2913a276336e" CUID="7583150" tvg-name="Decades Radio Dublin"  group-title="UK: RADIO",Decades Radio Dublin
+https://my2.radiolize.com/radio/8150/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="0c65c4b3-11d7-489b-aa72-9658b43c2f61" CUID="7583151" tvg-name="Derby Sound"  group-title="UK: RADIO",Derby Sound
+https://uk7.internet-radio.com/proxy/in2derbyradio?mp=%2Fstream%3B
+#EXTINF:0 tvg-type=ignore tvg-id="822c43b0-4126-4376-803d-157d3b7817a0" CUID="7583152" tvg-name="DIL FM UK"  group-title="UK: RADIO",DIL FM UK
+https://my4.radiolize.com/radio/8110/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="76f90870-dfc0-4f7d-83d9-dccea341675d" CUID="7583153" tvg-name="Dominion Radio London"  group-title="UK: RADIO",Dominion Radio London
+https://s4.radio.co/s772036c10/listen
+#EXTINF:0 tvg-type=ignore tvg-id="c37c29c9-8fad-4156-9f26-5e42ced9daa4" CUID="7583154" tvg-name="Doncaster Radio"  group-title="UK: RADIO",Doncaster Radio
+https://stream1.themediasite.co.uk:8008/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c967edc9-03e6-4110-849b-0ff58e91d1a2" CUID="7583155" tvg-name="Dorset Riviera Radio"  group-title="UK: RADIO",Dorset Riviera Radio
+http://2radio.shoutcastservices.com:8126/stream
+#EXTINF:0 tvg-type=ignore tvg-id="38c4f4f1-6b63-4b25-9058-4a6e2e4eb5ef" CUID="7583156" tvg-name="Drum and Bass UK Radio"  group-title="UK: RADIO",Drum and Bass UK Radio
+https://radio.drumandbassuk.com/listen/drum_and_bass_uk_radio/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="17f0ce84-bc00-40a4-8384-78366b892f23" CUID="7583157" tvg-name="Dublin City FM"  group-title="UK: RADIO",Dublin City FM
+https://listen-dublincity.sharp-stream.com/dublin_city.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="3e0567b3-9d1e-43c1-b4fe-cdd80ded584b" CUID="7583158" tvg-name="Dublin Digital Radio"  group-title="UK: RADIO",Dublin Digital Radio
+https://dublin-digital-radio.radiocult.fm/stream
+#EXTINF:0 tvg-type=ignore tvg-id="d4d40797-e2aa-4222-aeb7-54f2be0c2887" CUID="7583159" tvg-name="Dublin South FM"  group-title="UK: RADIO",Dublin South FM
+http://pollux.shoutca.st:8057/stream
+#EXTINF:0 tvg-type=ignore tvg-id="0b1e9d95-68e6-4653-b7f3-15dd31111975" CUID="7583160" tvg-name="Dublin's 98 FM"  group-title="UK: RADIO",Dublin's 98 FM
+https://edge2.audioxi.com/98
+#EXTINF:0 tvg-type=ignore tvg-id="c3905cef-387d-4acd-bd0a-dab3f3716fe8" CUID="7583161" tvg-name="Dublin's ABC"  group-title="UK: RADIO",Dublin's ABC
+https://kathy.torontocast.com:2965/stream
+#EXTINF:0 tvg-type=ignore tvg-id="197b37ed-17bc-44b6-b097-d99d620bfae1" CUID="7583162" tvg-name="Dublin's FM104"  group-title="UK: RADIO",Dublin's FM104
+https://onic.dublin.live.stream.broadcasting.news/stream-fm104
+#EXTINF:0 tvg-type=ignore tvg-id="bd26dba1-3965-4550-9337-443b7af26012" CUID="7583163" tvg-name="Dublin's Q102"  group-title="UK: RADIO",Dublin's Q102
+https://onic.dublin.live.stream.broadcasting.news/stream-q102
+#EXTINF:0 tvg-type=ignore tvg-id="06e472f4-0b79-4af7-b70c-eff664df8cf3" CUID="7583164" tvg-name="Dublin's Q102 80's"  group-title="UK: RADIO",Dublin's Q102 80's
+https://wg.cdn.tibus.net/Q10280s
+#EXTINF:0 tvg-type=ignore tvg-id="d8fc5f59-646c-4418-9557-fcdc28738eca" CUID="7583165" tvg-name="Dundalk FM"  group-title="UK: RADIO",Dundalk FM
+http://80.249.249.245:8000/;?1485109331489
+#EXTINF:0 tvg-type=ignore tvg-id="842b458d-beed-41d3-9325-86a0deb66e2f" CUID="7583166" tvg-name="Dundee Radio Club"  group-title="UK: RADIO",Dundee Radio Club
+https://dundee-radio-club.radiocult.fm/stream
+#EXTINF:0 tvg-type=ignore tvg-id="bb0c7b41-39d1-4922-b5c8-bb3c0498c76b" CUID="7583167" tvg-name="Durham OnAir"  group-title="UK: RADIO",Durham OnAir
+https://stream3.themediasite.co.uk:8016/durham
+#EXTINF:0 tvg-type=ignore tvg-id="78b9515d-8eaf-4323-87c8-659669d3e1d2" CUID="7583168" tvg-name="Durham Tamil Radio -"  group-title="UK: RADIO",Durham Tamil Radio -
+http://ec3.yesstreaming.net:3460/stream
+#EXTINF:0 tvg-type=ignore tvg-id="cb30d222-c168-4bca-8870-4994f52c6477" CUID="7583169" tvg-name="East Coast FM Haddington"  group-title="UK: RADIO",East Coast FM Haddington
+http://radio.canstream.co.uk:8117/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="80af70a3-649c-4c6d-b0d3-87415126ff72" CUID="7583170" tvg-name="East Devon Radio"  group-title="UK: RADIO",East Devon Radio
+http://streaming.broadcastradio.com:10320/exmouthmp3
+#EXTINF:0 tvg-type=ignore tvg-id="0e84f05c-925a-4df4-b4d7-7bde0ecd03bb" CUID="7583174" tvg-name="EAST KENT RADIO"  group-title="UK: RADIO",EAST KENT RADIO
+https://ekr.digital/proxy/ekr6/stream
+#EXTINF:0 tvg-type=ignore tvg-id="a75a5c88-ea5e-4d2d-a359-56563bac93f3" CUID="7583171" tvg-name="East London Radio"  group-title="UK: RADIO",East London Radio
+http://188.165.215.64:8123/stream
+#EXTINF:0 tvg-type=ignore tvg-id="8c8ce18e-60f5-4fe1-ac7f-4f20cd9b4371" CUID="7583172" tvg-name="Easy Radio Ireland"  group-title="UK: RADIO",Easy Radio Ireland
+https://live.btsstream.com/stream/easyradio
+#EXTINF:0 tvg-type=ignore tvg-id="eb103f91-81d8-4403-8eef-e9159ab12c18" CUID="7583173" tvg-name="Easy Radio Ireland, Easy Mix"  group-title="UK: RADIO",Easy Radio Ireland, Easy Mix
+https://streaming.exclusive.radio/uber/easymix/icecast.audio
+#EXTINF:0 tvg-type=ignore tvg-id="b3758253-66a1-4425-ad75-a7d13fa20426" CUID="7583175" tvg-name="Electric Lion Radio London"  group-title="UK: RADIO",Electric Lion Radio London
+https://streaming04.liveboxstream.uk/proxy/electric?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="2d8ae351-d969-4fd1-8125-6b02e1ff98dc" CUID="7583176" tvg-name="Eruption Radio UK"  group-title="UK: RADIO",Eruption Radio UK
+https://cosmo.shoutca.st/proxy/eruptionradio/stream
+#EXTINF:0 tvg-type=ignore tvg-id="02c26544-b310-48e6-8644-a1aed958bcbe" CUID="7583177" tvg-name="EWTN (Ireland)"  group-title="UK: RADIO",EWTN (Ireland)
+https://ewtn-sgrewind.streamguys1.com/sgrewind/sky/playlist.m3u8
+#EXTINF:0 tvg-type=ignore tvg-id="3905d7ee-7da6-4f84-a090-72ce29bd265c" CUID="7583178" tvg-name="Expat Radio Scotland"  group-title="UK: RADIO",Expat Radio Scotland
+https://stream.shoutcastservices.com/proxy/expatradioscotland/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c614f38a-ca32-4c9f-b761-3c5025f6bbc0" CUID="7583179" tvg-name="Express FM 93.7 Portsmouth"  group-title="UK: RADIO",Express FM 93.7 Portsmouth
+http://london-ics01.broadcast.meteoric.net/expressfm.mp3?.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="4f871be5-7c73-4735-926b-70ae63973a99" CUID="7583180" tvg-name="Fantastic Radio UK"  group-title="UK: RADIO",Fantastic Radio UK
+http://178.159.3.22:8181/stream
+#EXTINF:0 tvg-type=ignore tvg-id="3b8c6607-0206-4bf8-b7e9-144fcc5b02dc" CUID="7583181" tvg-name="Fantasy Radio UK"  group-title="UK: RADIO",Fantasy Radio UK
+https://fantasyradionew.radioca.st/;
+#EXTINF:0 tvg-type=ignore tvg-id="92603a86-a9c9-4129-9786-0cbb265dda02" CUID="7583182" tvg-name="FCR Plymouth"  group-title="UK: RADIO",FCR Plymouth
+https://streams.radio.co/sde86bbbbf/low
+#EXTINF:0 tvg-type=ignore tvg-id="b213420f-f20f-4d0e-9f61-70019930a195" CUID="7583183" tvg-name="Fiesta FM Southampton"  group-title="UK: RADIO",Fiesta FM Southampton
+http://hyades.shoutca.st:8317/stream/1/
+#EXTINF:0 tvg-type=ignore tvg-id="c8b45186-dd0b-4e17-9e51-c66e992d8584" CUID="7583184" tvg-name="Finn Valley FM"  group-title="UK: RADIO",Finn Valley FM
+http://visual.shoutca.st:8000/;
+#EXTINF:0 tvg-type=ignore tvg-id="191191f1-5f2f-4c5f-b435-53b262ba4f85" CUID="7583185" tvg-name="First FM Oxford"  group-title="UK: RADIO",First FM Oxford
+https://stream.readyformed.com:8443/first1
+#EXTINF:0 tvg-type=ignore tvg-id="df864690-6a29-4a3d-90ed-df2d36c452ca" CUID="7583186" tvg-name="Flex FM Radio Birmingham"  group-title="UK: RADIO",Flex FM Radio Birmingham
+https://s52.radiolize.com/radio/8000/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="03b279e1-0c15-49b9-9bb7-e5110cf8c3e2" CUID="7583187" tvg-name="FOM RADIO UK"  group-title="UK: RADIO",FOM RADIO UK
+https://stream.zeno.fm/ako8jujttsbvv
+#EXTINF:0 tvg-type=ignore tvg-id="8976196c-7892-47dc-b73b-2a88e8e62173" CUID="7583188" tvg-name="Free FM Ireland"  group-title="UK: RADIO",Free FM Ireland
+https://rocafmadrid.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="aee025ff-2de0-4d04-9d42-82715e8a3e05" CUID="7583189" tvg-name="Free Fm UK"  group-title="UK: RADIO",Free Fm UK
+https://r23.freefm.uk/listen/live/radio.ogg
+#EXTINF:0 tvg-type=ignore tvg-id="b6f1f8e3-9211-47b9-b48b-977caf2239cb" CUID="7583190" tvg-name="Free Radio Liverpool"  group-title="UK: RADIO",Free Radio Liverpool
+http://centauri.shoutca.st:8075/stream
+#EXTINF:0 tvg-type=ignore tvg-id="dc16f37b-bc47-45fe-9248-ba8e71ffcada" CUID="7583191" tvg-name="Fresh Leeds"  group-title="UK: RADIO",Fresh Leeds
+http://88.198.70.25:8033/stream
+#EXTINF:0 tvg-type=ignore tvg-id="3e032fb2-1809-4b83-b0fc-7a86aeaff0b3" CUID="7583192" tvg-name="FreshFm Radio London"  group-title="UK: RADIO",FreshFm Radio London
+https://eu4.fastcast4u.com/proxy/blacka/stream/;
+#EXTINF:0 tvg-type=ignore tvg-id="94488d07-8a07-4ab9-bdc3-8be3989937d0" CUID="7583193" tvg-name="FUNKY RADIO (UK)"  group-title="UK: RADIO",FUNKY RADIO (UK)
+https://funkyradio.streamingmedia.it/uk
+#EXTINF:0 tvg-type=ignore tvg-id="ddf2f8e1-4c0e-401e-9884-eed1e42eb206" CUID="7583194" tvg-name="FUSE FM (Ballymoney)"  group-title="UK: RADIO",FUSE FM (Ballymoney)
+https://fusefm.radioca.st/stream?type=http&nocache=10028
+#EXTINF:0 tvg-type=ignore tvg-id="eb0c7d7d-d8ca-4d76-848a-d3c32794f0af" CUID="7583195" tvg-name="Galway Bay FM"  group-title="UK: RADIO",Galway Bay FM
+https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="7b319b39-657a-4fc7-96eb-3e513b9f7428" CUID="7583196" tvg-name="Gaydio (Birmingham)"  group-title="UK: RADIO",Gaydio (Birmingham)
+https://listen-gaydio.sharp-stream.com/467_gaydio_birmingham_320_mp3
+#EXTINF:0 tvg-type=ignore tvg-id="b252ea4c-01de-4af0-af93-261cbacb95ef" CUID="7583197" tvg-name="Gaydio (Brighton)"  group-title="UK: RADIO",Gaydio (Brighton)
+https://listen-gaydio.sharp-stream.com/gaydioschq.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c7015d4c-1cdf-455a-b757-4670c7682cd8" CUID="7583198" tvg-name="Gaydio (London)"  group-title="UK: RADIO",Gaydio (London)
+https://listen-gaydio.sharp-stream.com/472_gaydio_london_320_mp3
+#EXTINF:0 tvg-type=ignore tvg-id="e6962f7d-945f-452d-880b-58b872bc9bb0" CUID="7583199" tvg-name="Gaydio (Manchester)"  group-title="UK: RADIO",Gaydio (Manchester)
+https://listen-gaydio.sharp-stream.com/gaydionw.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="43e856cc-f1c7-4d16-aefa-d331b792d1b3" CUID="7583200" tvg-name="Gaydio (Scotland)"  group-title="UK: RADIO",Gaydio (Scotland)
+https://listen-gaydio.sharp-stream.com/76_gaydio_scotland_320
+#EXTINF:0 tvg-type=ignore tvg-id="a2360444-81dc-41bf-a0f4-6a8f70d67de7" CUID="7583201" tvg-name="Gaydio UK"  group-title="UK: RADIO",Gaydio UK
+https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="2ff9f8ae-06c3-4d29-b04e-3cd016d74291" CUID="7583202" tvg-name="GB News"  group-title="UK: RADIO",GB News
+http://listen-gbnews.sharp-stream.com/gbnews.aac
+#EXTINF:0 tvg-type=ignore tvg-id="60dd87d4-839c-46e1-a1bb-2175e67e4744" CUID="7583203" tvg-name="Global Radio Cork (Ireland)"  group-title="UK: RADIO",Global Radio Cork (Ireland)
+http://media2.streambrothers.com:8186/Global
+#EXTINF:0 tvg-type=ignore tvg-id="167eeaa6-d6f6-4b78-b6ca-c46e134b24b8" CUID="7583204" tvg-name="Gloucester FM 96.6"  group-title="UK: RADIO",Gloucester FM 96.6
+http://icecast.commedia.org.uk:8000/gloucesterfm.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6a616cda-ad3d-4011-b45f-dd994e6f58e9" CUID="7583205" tvg-name="Go Radio (Glasgow)"  group-title="UK: RADIO",Go Radio (Glasgow)
+http://streaming.broadcastradio.com:8250/goradio
+#EXTINF:0 tvg-type=ignore tvg-id="45909511-ed79-4ab7-b5d1-f0813637dbc8" CUID="7583206" tvg-name="Gold"  group-title="UK: RADIO",Gold
+https://media-ssl.musicradio.com/GoldMP3
+#EXTINF:0 tvg-type=ignore tvg-id="2b6bc056-bb55-45f2-b614-19362726aa35" CUID="7583207" tvg-name="Gold London"  group-title="UK: RADIO",Gold London
+https://media-ssl.musicradio.com/Gold?isLoggedIn=false&dax_version=release_2019&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1612127423858_0.6253666805372976&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1612127423&aw_0_req.userConsentV2=CPA5x3uPA5x3uAGABCENBLCgAAAAAAAAAATIAAAAAAAA.YAAAAAAAAAAA
+#EXTINF:0 tvg-type=ignore tvg-id="7cfd3968-1b2a-4d54-858b-ec5864d2f320" CUID="7583208" tvg-name="Gospel Radio UK"  group-title="UK: RADIO",Gospel Radio UK
+https://media2.streambrothers.com:2020/stream/8192
+#EXTINF:0 tvg-type=ignore tvg-id="35ced30c-7b28-4da5-9869-370e090176a4" CUID="7583209" tvg-name="Great Driffield Radio"  group-title="UK: RADIO",Great Driffield Radio
+https://stream1.superstreaming.co.uk/proxy/greatdriffield/stream?rp_source=1&=&&___cb=720015281299521
+#EXTINF:0 tvg-type=ignore tvg-id="2222e29b-3f45-4035-8ba2-fe055b784575" CUID="7583210" tvg-name="Great Yorkshire Radio"  group-title="UK: RADIO",Great Yorkshire Radio
+https://stream1.superstreaming.co.uk/proxy/greatyorkshire/stream
+#EXTINF:0 tvg-type=ignore tvg-id="f62f5688-bedb-45fc-9bb3-d2460275d4a5" CUID="7583212" tvg-name="Greatest Hits Radio"  group-title="UK: RADIO",Greatest Hits Radio
+https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
+#EXTINF:0 tvg-type=ignore tvg-id="35433a9a-6309-4752-b06a-74277e195f81" CUID="7583222" tvg-name="Greatest Hits Radio (Aylesbury)"  group-title="UK: RADIO",Greatest Hits Radio (Aylesbury)
+https://stream-mz.hellorayo.co.uk/net2aylesbury.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="32995524-430d-4245-92bc-4870a7d4fdfa" CUID="7583216" tvg-name="Greatest Hits Radio (Ayrshire)"  group-title="UK: RADIO",Greatest Hits Radio (Ayrshire)
+https://stream-mz.hellorayo.co.uk/westsound.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="a30c0ae1-c59e-4ec8-8778-7936770fee4c" CUID="7583217" tvg-name="Greatest Hits Radio (Bath & The South West)"  group-title="UK: RADIO",Greatest Hits Radio (Bath & The South West)
+https://stream-mz.hellorayo.co.uk/net2bath.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=gax
+#EXTINF:0 tvg-type=ignore tvg-id="7ba1a7ad-91ab-4f9c-b1ae-af7707a007c1" CUID="7583218" tvg-name="Greatest Hits Radio (Berkshire & North Hampshire)"  group-title="UK: RADIO",Greatest Hits Radio (Berkshire & North Hampshire)
+https://stream-mz.hellorayo.co.uk/net2berkshire.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="43c67c05-1f34-474a-8abb-f3be19cc7993" CUID="7583229" tvg-name="Greatest Hits Radio (Bournemouth)"  group-title="UK: RADIO",Greatest Hits Radio (Bournemouth)
+https://stream-mz.hellorayo.co.uk/net2bournemouth.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="0bf08f4d-03f7-4f83-9f52-520e5f75b18a" CUID="7583221" tvg-name="Greatest Hits Radio (Bristol)"  group-title="UK: RADIO",Greatest Hits Radio (Bristol)
+https://stream-mz.hellorayo.co.uk/net2bristol.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="44c3c066-e80f-4e62-b01f-b9c12642f525" CUID="7583223" tvg-name="Greatest Hits Radio (Cambridge)"  group-title="UK: RADIO",Greatest Hits Radio (Cambridge)
+https://stream-mz.hellorayo.co.uk/net2cambridge.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="4f6d68f9-cbe5-4483-bfd7-090e0f880c5a" CUID="7583247" tvg-name="Greatest Hits Radio (Chesterfield)"  group-title="UK: RADIO",Greatest Hits Radio (Chesterfield)
+https://stream-mz.hellorayo.co.uk/net2chesterfield.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="bf65f73d-8351-44e1-ac4c-69cb8b1393c6" CUID="7583224" tvg-name="Greatest Hits Radio (Cornwall)"  group-title="UK: RADIO",Greatest Hits Radio (Cornwall)
+https://stream-mz.hellorayo.co.uk/net2cornwall.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="4fd35f7e-08f6-4a68-bceb-a82bb500f443" CUID="7583225" tvg-name="Greatest Hits Radio (Coventry)"  group-title="UK: RADIO",Greatest Hits Radio (Coventry)
+https://stream-mz.hellorayo.co.uk/net2coventry.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="9e79e53d-8077-49e4-9f7e-8b10fb4f4f7c" CUID="7583234" tvg-name="Greatest Hits Radio (Cylde)"  group-title="UK: RADIO",Greatest Hits Radio (Cylde)
+https://stream-al.hellorayo.co.uk/clyde2.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=ghg
+#EXTINF:0 tvg-type=ignore tvg-id="f3a7fd86-71e2-4cc7-882a-4ff4e43f3772" CUID="7583226" tvg-name="Greatest Hits Radio (Devon)"  group-title="UK: RADIO",Greatest Hits Radio (Devon)
+http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850
+#EXTINF:0 tvg-type=ignore tvg-id="3c05a327-dc77-4384-8d6b-0e0fc6d7d7e3" CUID="7583227" tvg-name="Greatest Hits Radio (Dorset)"  group-title="UK: RADIO",Greatest Hits Radio (Dorset)
+https://stream-mz.hellorayo.co.uk/net2dorset.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="49d7ef60-416b-4fdc-94dd-23bf0622afe1" CUID="7583228" tvg-name="Greatest Hits Radio (Dumfries & Galloway)"  group-title="UK: RADIO",Greatest Hits Radio (Dumfries & Galloway)
+https://stream-mz.hellorayo.co.uk/westsoundfm.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined&listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="0ade0af0-7dc0-471f-b991-8ce2cea74245" CUID="7583230" tvg-name="Greatest Hits Radio (East Midlands)"  group-title="UK: RADIO",Greatest Hits Radio (East Midlands)
+https://stream-mz.hellorayo.co.uk/net2eastmidlands.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="a026193c-ffd8-44e2-9a59-3a3d59ae4064" CUID="7583233" tvg-name="Greatest Hits Radio (Essex)"  group-title="UK: RADIO",Greatest Hits Radio (Essex)
+https://stream-mz.hellorayo.co.uk/net2essex.aac?aw_0_1st.skey=1770461314
+#EXTINF:0 tvg-type=ignore tvg-id="6ca43c10-975e-4847-a442-ff479df8d134" CUID="7583232" tvg-name="Greatest Hits Radio (Forth)"  group-title="UK: RADIO",Greatest Hits Radio (Forth)
+https://stream-al.hellorayo.co.uk/forth2.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=ghl
+#EXTINF:0 tvg-type=ignore tvg-id="48a2b692-47ae-4ca9-bd9a-6fd95cf4b649" CUID="7583235" tvg-name="Greatest Hits Radio (Gloucestershire)"  group-title="UK: RADIO",Greatest Hits Radio (Gloucestershire)
+https://stream-mz.hellorayo.co.uk/net2gloucester.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="e186ca8b-7be6-4235-843a-bc54c6395bb9" CUID="7583257" tvg-name="Greatest Hits Radio (Hampshire)"  group-title="UK: RADIO",Greatest Hits Radio (Hampshire)
+https://listen-nation.sharp-stream.com/samfmhampshire.aac
+#EXTINF:0 tvg-type=ignore tvg-id="35cf3859-100a-4f5d-9a9a-348f2ad5656c" CUID="7583236" tvg-name="Greatest Hits Radio (Harrogate)"  group-title="UK: RADIO",Greatest Hits Radio (Harrogate)
+https://stream-mz.hellorayo.co.uk/net2harrogate.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="c7b27e98-88be-4335-8d76-3103c6786168" CUID="7583231" tvg-name="Greatest Hits Radio (Hull)"  group-title="UK: RADIO",Greatest Hits Radio (Hull)
+https://stream-mz.hellorayo.co.uk/net2hull.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=gh8
+#EXTINF:0 tvg-type=ignore tvg-id="e91a3f40-81a8-4736-a5f9-eeb4edef65e6" CUID="7583240" tvg-name="Greatest Hits Radio (Kent)"  group-title="UK: RADIO",Greatest Hits Radio (Kent)
+https://stream-mz.hellorayo.co.uk/net2kent.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="00e367f4-37de-45bf-92b7-6632b821a12d" CUID="7583241" tvg-name="Greatest Hits Radio (Lancashire)"  group-title="UK: RADIO",Greatest Hits Radio (Lancashire)
+https://stream-mz.hellorayo.co.uk/magic999.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="7eef280e-1a90-479a-a6dd-e704ac0310eb" CUID="7583242" tvg-name="Greatest Hits Radio (Lincolnshire)"  group-title="UK: RADIO",Greatest Hits Radio (Lincolnshire)
+https://stream-mz.hellorayo.co.uk/net2lincoln.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="8e7d296c-8807-4678-be67-093ed300e159" CUID="7583243" tvg-name="Greatest Hits Radio (Liverpool & the North West)"  group-title="UK: RADIO",Greatest Hits Radio (Liverpool & the North West)
+https://stream-mz.hellorayo.co.uk/magic1548.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="e5900b31-f7ab-4069-ac34-8284ec825f94" CUID="7583244" tvg-name="Greatest Hits Radio (London)"  group-title="UK: RADIO",Greatest Hits Radio (London)
+https://stream-mz.hellorayo.co.uk/net2london.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="74787775-e8f6-4bc7-95c4-0a1c0650e5ed" CUID="7583245" tvg-name="Greatest Hits Radio (North East)"  group-title="UK: RADIO",Greatest Hits Radio (North East)
+https://stream-mz.hellorayo.co.uk/magic1152m.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="6abf6951-ebc6-4f0a-a16e-531afcec620f" CUID="7583246" tvg-name="Greatest Hits Radio (Norfolk)"  group-title="UK: RADIO",Greatest Hits Radio (Norfolk)
+https://stream-mz.hellorayo.co.uk/net2norfolk.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="be98cb1d-0876-4e22-b2a3-009ca6568fa8" CUID="7583248" tvg-name="Greatest Hits Radio (Newcastle)"  group-title="UK: RADIO",Greatest Hits Radio (Newcastle)
+https://stream-mz.hellorayo.co.uk/magic1152n.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="791bedc4-5c5e-4b28-bf8e-598b68b25119" CUID="7583250" tvg-name="Greatest Hits Radio (Northamptonshire)"  group-title="UK: RADIO",Greatest Hits Radio (Northamptonshire)
+https://stream-mz.hellorayo.co.uk/net2northants.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="853467f9-2650-446c-83b3-7bfc8f9140a0" CUID="7583251" tvg-name="Greatest Hits Radio (Northern Ireland)"  group-title="UK: RADIO",Greatest Hits Radio (Northern Ireland)
+https://stream-mz.hellorayo.co.uk/net2ni.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=gni
+#EXTINF:0 tvg-type=ignore tvg-id="146724a2-736e-4abc-a333-d812554d22b2" CUID="7583252" tvg-name="Greatest Hits Radio (Oxfordshire)"  group-title="UK: RADIO",Greatest Hits Radio (Oxfordshire)
+https://stream-mz.hellorayo.co.uk/net2oxford.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=ghq
+#EXTINF:0 tvg-type=ignore tvg-id="31f4c48b-3136-43ac-9b9f-74f447a474f9" CUID="7583253" tvg-name="Greatest Hits Radio (Peterborough)"  group-title="UK: RADIO",Greatest Hits Radio (Peterborough)
+https://stream-mz.hellorayo.co.uk/net2rutland.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=gag
+#EXTINF:0 tvg-type=ignore tvg-id="d177e17c-9450-4f37-a59c-58123f8cc0a5" CUID="7583254" tvg-name="Greatest Hits Radio (Plymouth)"  group-title="UK: RADIO",Greatest Hits Radio (Plymouth)
+https://stream-mz.hellorayo.co.uk/net2plymouth.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="06351cb4-236a-47ef-9013-60c2e5a76810" CUID="7583255" tvg-name="Greatest Hits Radio (Salisbury)"  group-title="UK: RADIO",Greatest Hits Radio (Salisbury)
+https://stream-mz.hellorayo.co.uk/net2salisbury.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="348f17df-2b64-470b-be4e-a9d74a43d87b" CUID="7583249" tvg-name="Greatest Hits Radio (Scotland - North East)"  group-title="UK: RADIO",Greatest Hits Radio (Scotland - North East)
+https://stream-mz.hellorayo.co.uk/northsound2.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined&listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="d16b9bb1-e857-45f1-ac62-6ce28700278f" CUID="7583265" tvg-name="Greatest Hits Radio (Scotland - Borders)"  group-title="UK: RADIO",Greatest Hits Radio (Scotland - Borders)
+https://stream-al.hellorayo.co.uk/borders.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="e795ddb3-4bb9-4085-8da1-d333aa0a2068" CUID="7583256" tvg-name="Greatest Hits Radio (Somerset)"  group-title="UK: RADIO",Greatest Hits Radio (Somerset)
+https://stream-mz.hellorayo.co.uk/net2somerset.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="ebed89b9-db0c-483e-862a-e3c52aa31bba" CUID="7583259" tvg-name="Greatest Hits Radio (Stoke)"  group-title="UK: RADIO",Greatest Hits Radio (Stoke)
+https://stream-mz.hellorayo.co.uk/net2stoke.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="f8e7b52b-e751-4b8e-8e75-3572a43d4354" CUID="7583239" tvg-name="Greatest Hits Radio (Suffolk)"  group-title="UK: RADIO",Greatest Hits Radio (Suffolk)
+https://stream-mz.hellorayo.co.uk/net2suffolk.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="2d9dba37-dcd8-4714-8806-b3e132ade7ef" CUID="7583260" tvg-name="Greatest Hits Radio (Surrey)"  group-title="UK: RADIO",Greatest Hits Radio (Surrey)
+https://stream-mz.hellorayo.co.uk/net2surrey.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="682a85b9-b33f-4e64-9566-3cb6efae235e" CUID="7583261" tvg-name="Greatest Hits Radio (Sussex)"  group-title="UK: RADIO",Greatest Hits Radio (Sussex)
+https://stream-mz.hellorayo.co.uk/net2sussex.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=gan
+#EXTINF:0 tvg-type=ignore tvg-id="d5fc1d30-85e2-4602-b3d2-ff430c14ac7e" CUID="7583262" tvg-name="Greatest Hits Radio (Swindon)"  group-title="UK: RADIO",Greatest Hits Radio (Swindon)
+https://stream-mz.hellorayo.co.uk/net2swindon.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="3abd3c69-b4e1-420c-83de-cfffc6b0479c" CUID="7583263" tvg-name="Greatest Hits Radio (Tayside & Fife)"  group-title="UK: RADIO",Greatest Hits Radio (Tayside & Fife)
+https://stream-mz.hellorayo.co.uk/tayam.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=ghf
+#EXTINF:0 tvg-type=ignore tvg-id="4c148ee3-7fe4-4ea1-97e1-00647ece7d8d" CUID="7583271" tvg-name="Greatest Hits Radio (Teesside)"  group-title="UK: RADIO",Greatest Hits Radio (Teesside)
+https://stream-mz.hellorayo.co.uk/magic1170.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="051ed7a1-fec2-48df-87c3-8d4058331548" CUID="7583264" tvg-name="Greatest Hits Radio (Scotland - North)"  group-title="UK: RADIO",Greatest Hits Radio (Scotland - North)
+https://stream-mz.hellorayo.co.uk/mfram.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=ghs
+#EXTINF:0 tvg-type=ignore tvg-id="6be2a9c6-2cc2-45dd-a971-5addcd6340f2" CUID="7583258" tvg-name="Greatest Hits Radio (Wales - South)"  group-title="UK: RADIO",Greatest Hits Radio (Wales - South)
+https://stream-mz.hellorayo.co.uk/net2southwales.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="00fd5881-454d-4b7f-997e-d98e90e7f3ad" CUID="7583219" tvg-name="Greatest Hits Radio (West Midlands)"  group-title="UK: RADIO",Greatest Hits Radio (West Midlands)
+https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="2ec52c8b-2397-4ab6-9280-da27f7396e8c" CUID="7583266" tvg-name="Greatest Hits Radio (West Norfolk)"  group-title="UK: RADIO",Greatest Hits Radio (West Norfolk)
+https://stream-mz.hellorayo.co.uk/net2westnorfolk.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="6c08fba2-bfff-4a9e-a112-900ace29bf28" CUID="7583272" tvg-name="Greatest Hits Radio (Yorkshire - West)"  group-title="UK: RADIO",Greatest Hits Radio (Yorkshire - West)
+https://stream-mz.hellorayo.co.uk/magic828.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="d28daec9-77e6-42d4-8203-18fdb889981b" CUID="7583220" tvg-name="Greatest Hits Radio (Wolverhampton)"  group-title="UK: RADIO",Greatest Hits Radio (Wolverhampton)
+https://stream-mz.hellorayo.co.uk/net2wolverhampton.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="47a2bed0-5142-4fee-a5f6-bb9f7a2644b5" CUID="7583237" tvg-name="Greatest Hits Radio (Worcester)"  group-title="UK: RADIO",Greatest Hits Radio (Worcester)
+https://stream-mz.hellorayo.co.uk/net2worcester.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="c0944521-90a8-4f1e-8d3b-c03133723490" CUID="7583268" tvg-name="Greatest Hits Radio (York)"  group-title="UK: RADIO",Greatest Hits Radio (York)
+https://stream-mz.hellorayo.co.uk/net2york.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="74c49ed8-24c7-4e88-8a09-995686827c46" CUID="7583270" tvg-name="Greatest Hits Radio (Yorkshire - South)"  group-title="UK: RADIO",Greatest Hits Radio (Yorkshire - South)
+https://stream-mz.hellorayo.co.uk/magicam.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="88644b09-fd95-444a-83fa-ec4942e9f589" CUID="7583269" tvg-name="Greatest Hits Radio (Yorkshire Coast)"  group-title="UK: RADIO",Greatest Hits Radio (Yorkshire Coast)
+https://stream-mz.hellorayo.co.uk/net2yorkshirecoast.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="bac429b7-d27d-410a-8ed9-320a5e6da736" CUID="7583213" tvg-name="Greatest Hits Radio: 60s"  group-title="UK: RADIO",Greatest Hits Radio: 60s
+https://stream-al.hellorayo.co.uk/ghr60s.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
+#EXTINF:0 tvg-type=ignore tvg-id="c2c28c5f-2a4e-4f6a-8b36-a2bd15ad7207" CUID="7583214" tvg-name="Greatest Hits Radio: 70s"  group-title="UK: RADIO",Greatest Hits Radio: 70s
+https://stream-al.hellorayo.co.uk/ghr70s.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
+#EXTINF:0 tvg-type=ignore tvg-id="08db0c4d-2ebe-41d4-be43-9ca1348e1467" CUID="7583215" tvg-name="Greatest Hits Radio: 80s"  group-title="UK: RADIO",Greatest Hits Radio: 80s
+https://stream-al.hellorayo.co.uk/ghr80s.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
+#EXTINF:0 tvg-type=ignore tvg-id="3fe26065-c30a-4418-b5f7-7074766c43ab" CUID="7583211" tvg-name="Greatest Hits Radio: Non-Stop"  group-title="UK: RADIO",Greatest Hits Radio: Non-Stop
+https://s8.myradiostream.com/58238//listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="a2643055-0c82-4623-90cb-edb2479a40ea" CUID="7583273" tvg-name="Greenwich UK Radio"  group-title="UK: RADIO",Greenwich UK Radio
+https://streaming.live365.com/a78504?player_id=streema
+#EXTINF:0 tvg-type=ignore tvg-id="e81a08ba-03d1-47d6-8b01-ab0f685560d7" CUID="7583274" tvg-name="Grimsby Hospital Radio"  group-title="UK: RADIO",Grimsby Hospital Radio
+http://centauri.shoutca.st:8229/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c2e31a07-e8e3-4e72-b8f1-a880d1f30da8" CUID="7583275" tvg-name="Groove London Radio"  group-title="UK: RADIO",Groove London Radio
+http://eu10.fastcast4u.com/groovelondon
+#EXTINF:0 tvg-type=ignore tvg-id="e5a486fb-1fee-4679-bd83-3e23e8e7e39f" CUID="7583276" tvg-name="Gwent Radio"  group-title="UK: RADIO",Gwent Radio
+https://stream4.themediasite.co.uk:8092/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c79c60e8-57c9-48df-96d8-87d77f8f3848" CUID="7583277" tvg-name="Happy Radio UK"  group-title="UK: RADIO",Happy Radio UK
+https://stream.aiir.com/yofqmvmgihuuv
+#EXTINF:0 tvg-type=ignore tvg-id="efb598d4-c9c0-468d-8f4d-71350a27d718" CUID="7583278" tvg-name="Harlow Hospital Radio"  group-title="UK: RADIO",Harlow Hospital Radio
+https://ukwesta.streaming.broadcast.radio/harlow
+#EXTINF:0 tvg-type=ignore tvg-id="b865613a-a1f8-4bcf-a1a9-08d96e057593" CUID="7583279" tvg-name="Harrogate Hospital Radio"  group-title="UK: RADIO",Harrogate Hospital Radio
+http://uksoutha.streaming.broadcast.radio:26750/harrogatehospitalradio
+#EXTINF:0 tvg-type=ignore tvg-id="7802552d-e85e-44be-b33d-cc509170d36f" CUID="7583280" tvg-name="Hayes FM"  group-title="UK: RADIO",Hayes FM
+http://s19.myradiostream.com:8026/;
+#EXTINF:0 tvg-type=ignore tvg-id="239ab664-fbe6-417d-883c-57610832cb3b" CUID="7583281" tvg-name="Hazard FM UK"  group-title="UK: RADIO",Hazard FM UK
+http://pegasus.nucast.co.uk:8052/stream
+#EXTINF:0 tvg-type=ignore tvg-id="9a7bd187-8271-4307-adab-7c97ef411f8c" CUID="7583282" tvg-name="Heart"  group-title="UK: RADIO",Heart
+https://media-ssl.musicradio.com/HeartUK
+#EXTINF:0 tvg-type=ignore tvg-id="883ac842-bd6a-457a-94af-3cb447ff4b2b" CUID="7583288" tvg-name="Heart (Bath)"  group-title="UK: RADIO",Heart (Bath)
+https://media-ssl.musicradio.com/HeartBath
+#EXTINF:0 tvg-type=ignore tvg-id="5f13373b-a721-4440-82a4-93ddac477f79" CUID="7583289" tvg-name="Heart (Bedfordshire)"  group-title="UK: RADIO",Heart (Bedfordshire)
+https://media-ssl.musicradio.com/HeartBedfordshire
+#EXTINF:0 tvg-type=ignore tvg-id="ca8142e9-941a-42a5-b2da-a023c777daf6" CUID="7583290" tvg-name="Heart (Beds, Bucks and Herts)"  group-title="UK: RADIO",Heart (Beds, Bucks and Herts)
+https://media-ssl.musicradio.com/HeartBedsBucksHertsMP3
+#EXTINF:0 tvg-type=ignore tvg-id="d96449ae-c80e-417c-bf47-99a5adc75330" CUID="7583291" tvg-name="Heart (Berkshire)"  group-title="UK: RADIO",Heart (Berkshire)
+https://media-ssl.musicradio.com/HeartBerkshire
+#EXTINF:0 tvg-type=ignore tvg-id="5c68351d-e80f-449f-8905-2b23981d867f" CUID="7583292" tvg-name="Heart (Bristol)"  group-title="UK: RADIO",Heart (Bristol)
+https://media-ssl.musicradio.com/HeartBristol
+#EXTINF:0 tvg-type=ignore tvg-id="19a94bec-432d-4a12-a8e4-7525a121f69b" CUID="7583293" tvg-name="Heart (Cambridge)"  group-title="UK: RADIO",Heart (Cambridge)
+https://media-ssl.musicradio.com/HeartCambridgeMP3
+#EXTINF:0 tvg-type=ignore tvg-id="659e3167-9acf-4705-8f74-4a342c7d2d3d" CUID="7583294" tvg-name="Heart (Colchester)"  group-title="UK: RADIO",Heart (Colchester)
+https://media-ssl.musicradio.com/HeartColchester
+#EXTINF:0 tvg-type=ignore tvg-id="2e03757d-5ea6-47e8-bab3-6fdc30954974" CUID="7583295" tvg-name="Heart (Cornwall)"  group-title="UK: RADIO",Heart (Cornwall)
+https://media-ssl.musicradio.com/HeartCornwall
+#EXTINF:0 tvg-type=ignore tvg-id="ee701031-a8f4-4d99-9f90-54666a022314" CUID="7583296" tvg-name="Heart (Crawley)"  group-title="UK: RADIO",Heart (Crawley)
+https://media-ssl.musicradio.com/HeartCrawley
+#EXTINF:0 tvg-type=ignore tvg-id="d076f31b-ca26-4452-b6de-b947d3c1ad79" CUID="7583297" tvg-name="Heart (Dorset)"  group-title="UK: RADIO",Heart (Dorset)
+https://media-ssl.musicradio.com/HeartDorset
+#EXTINF:0 tvg-type=ignore tvg-id="9b28015d-774e-4ac1-bee1-566290d69cf3" CUID="7583298" tvg-name="Heart (East Devon)"  group-title="UK: RADIO",Heart (East Devon)
+https://media-ssl.musicradio.com/HeartEastDevonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="9ce314fb-b0b7-4d54-94d0-306d134c9a1c" CUID="7583300" tvg-name="Heart (Edinburgh)"  group-title="UK: RADIO",Heart (Edinburgh)
+https://ice-the.musicradio.com/HeartEdinburghMP3
+#EXTINF:0 tvg-type=ignore tvg-id="41c086e5-e6ab-4875-ae46-f1a41276b3fc" CUID="7583301" tvg-name="Heart (Essex)"  group-title="UK: RADIO",Heart (Essex)
+http://ice-sov.musicradio.com/HeartEssexMP3
+#EXTINF:0 tvg-type=ignore tvg-id="9591cd24-3fa5-4057-8d1c-697e7c0c5fef" CUID="7583302" tvg-name="Heart (Glasgow)"  group-title="UK: RADIO",Heart (Glasgow)
+http://media-the.musicradio.com/HeartGlasgow
+#EXTINF:0 tvg-type=ignore tvg-id="f664d480-db12-4fa7-8863-e86dc9b5002a" CUID="7583303" tvg-name="Heart (Gloucestershire)"  group-title="UK: RADIO",Heart (Gloucestershire)
+https://media-ice.musicradio.com/HeartGloucestershireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="dc239892-7dd4-418c-9fb7-489b83ba0712" CUID="7583304" tvg-name="Heart (Hampshire)"  group-title="UK: RADIO",Heart (Hampshire)
+https://media-ssl.musicradio.com/HeartHampshire
+#EXTINF:0 tvg-type=ignore tvg-id="d554b688-99a7-48bc-8e72-d75c4fedf8eb" CUID="7583305" tvg-name="Heart (Harlow)"  group-title="UK: RADIO",Heart (Harlow)
+https://media-ice.musicradio.com/HeartHarlowMP3
+#EXTINF:0 tvg-type=ignore tvg-id="dff78498-b80e-4b17-8999-11ed55c78ee7" CUID="7583306" tvg-name="Heart (Kent)"  group-title="UK: RADIO",Heart (Kent)
+https://media-ice.musicradio.com/HeartKentMP3
+#EXTINF:0 tvg-type=ignore tvg-id="91eb2117-fd33-4f22-953e-786ec6344d02" CUID="7583315" tvg-name="Heart (London)"  group-title="UK: RADIO",Heart (London)
+https://media-ssl.musicradio.com/HeartLondonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="7a7355fb-d655-42fe-bec6-10ff98eec876" CUID="7583317" tvg-name="Heart (Milton Keynes)"  group-title="UK: RADIO",Heart (Milton Keynes)
+https://media-ssl.musicradio.com/HeartMiltonKeynes
+#EXTINF:0 tvg-type=ignore tvg-id="3307401e-dfd5-401a-b5dd-2b3657a1e04f" CUID="7583320" tvg-name="Heart (Norfolk)"  group-title="UK: RADIO",Heart (Norfolk)
+https://media-ssl.musicradio.com/HeartNorfolk
+#EXTINF:0 tvg-type=ignore tvg-id="7feecee9-3492-4693-9ce5-40ed4c5f2452" CUID="7583308" tvg-name="Heart (North Devon)"  group-title="UK: RADIO",Heart (North Devon)
+https://media-ssl.musicradio.com/HeartNorthDevonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="4e0f8134-c67a-4e8f-b5f8-2dbfbb2d6a93" CUID="7583322" tvg-name="Heart (North Lancashire & Cumbria)"  group-title="UK: RADIO",Heart (North Lancashire & Cumbria)
+https://media-ice.musicradio.com/HeartNorthLancsCumbriaMP3
+#EXTINF:0 tvg-type=ignore tvg-id="d07eaadf-444c-46c7-9fb0-dc4b6d4bb97f" CUID="7583323" tvg-name="Heart (Northamptonshire)"  group-title="UK: RADIO",Heart (Northamptonshire)
+https://media-ssl.musicradio.com/HeartNorthamptonshireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="908321d0-aa3c-4457-be9f-4784876bb6cf" CUID="7583324" tvg-name="Heart (Oxfordshire)"  group-title="UK: RADIO",Heart (Oxfordshire)
+https://media-ssl.musicradio.com/HeartOxfordshire
+#EXTINF:0 tvg-type=ignore tvg-id="791b931a-a79c-48bd-8d80-066b6f11c0b4" CUID="7583325" tvg-name="Heart (Peterborough)"  group-title="UK: RADIO",Heart (Peterborough)
+https://media-ssl.musicradio.com/HeartPeterboroughMP3
+#EXTINF:0 tvg-type=ignore tvg-id="d4617479-c21d-4581-a99b-151b1338ef38" CUID="7583326" tvg-name="Heart (Plymouth)"  group-title="UK: RADIO",Heart (Plymouth)
+https://media-ssl.musicradio.com/HeartPlymouth
+#EXTINF:0 tvg-type=ignore tvg-id="f70decac-3c45-4823-9ae3-ff9303cc7108" CUID="7583327" tvg-name="Heart (Scotland - East)"  group-title="UK: RADIO",Heart (Scotland - East)
+https://media-ssl.musicradio.com/HeartEdinburgh
+#EXTINF:0 tvg-type=ignore tvg-id="1fc78526-7df0-44f8-a5c6-c1913caf3940" CUID="7583328" tvg-name="Heart (Scotland - West)"  group-title="UK: RADIO",Heart (Scotland - West)
+https://media-ssl.musicradio.com/HeartGlasgow
+#EXTINF:0 tvg-type=ignore tvg-id="428f088f-fe49-4a16-8827-67b083d0d9ea" CUID="7583329" tvg-name="Heart (Somerset)"  group-title="UK: RADIO",Heart (Somerset)
+https://media-ssl.musicradio.com/HeartSomerset
+#EXTINF:0 tvg-type=ignore tvg-id="5cf64a37-5bc4-4369-b5c8-1ac332171df8" CUID="7583330" tvg-name="Heart (South Coast)"  group-title="UK: RADIO",Heart (South Coast)
+http://media-sov.musicradio.com/HeartHampshire
+#EXTINF:0 tvg-type=ignore tvg-id="5c3c30cb-8547-4538-bb16-ded154cc5fa0" CUID="7583309" tvg-name="Heart (South Hams)"  group-title="UK: RADIO",Heart (South Hams)
+https://media-ssl.musicradio.com/HeartSouthHamsMP3
+#EXTINF:0 tvg-type=ignore tvg-id="3a41a405-6fa1-40df-946d-253b71641583" CUID="7583332" tvg-name="Heart (South Hertfordshire)"  group-title="UK: RADIO",Heart (South Hertfordshire)
+https://media-ssl.musicradio.com/HeartWatfordMP3
+#EXTINF:0 tvg-type=ignore tvg-id="e236f230-2ff3-4179-958f-103528c4b770" CUID="7583333" tvg-name="Heart (South West)"  group-title="UK: RADIO",Heart (South West)
+http://media-the.musicradio.com/HeartCornwall
+#EXTINF:0 tvg-type=ignore tvg-id="8c9aacdd-8c67-4541-b3d9-5b6c800d3a21" CUID="7583310" tvg-name="Heart (Suffolk)"  group-title="UK: RADIO",Heart (Suffolk)
+https://media-ice.musicradio.com/HeartSuffolkMP3
+#EXTINF:0 tvg-type=ignore tvg-id="82b56f3c-9bc7-443c-8461-67052cd02add" CUID="7583336" tvg-name="Heart (Sussex)"  group-title="UK: RADIO",Heart (Sussex)
+https://ice-sov.musicradio.com/HeartSussexMP3
+#EXTINF:0 tvg-type=ignore tvg-id="90fbc0bf-704d-487d-94df-b3223dae5709" CUID="7583337" tvg-name="Heart (Teesside)"  group-title="UK: RADIO",Heart (Teesside)
+https://media-ssl.musicradio.com/HeartTeesside
+#EXTINF:0 tvg-type=ignore tvg-id="c01c3edb-b7b5-4452-a3e2-d782b331531d" CUID="7583311" tvg-name="Heart (Torbay)"  group-title="UK: RADIO",Heart (Torbay)
+https://media-ssl.musicradio.com/HeartTorbayMP3
+#EXTINF:0 tvg-type=ignore tvg-id="e73f8b75-06a4-48ea-8310-210205a5972d" CUID="7583339" tvg-name="Heart (Tyne and Wear)"  group-title="UK: RADIO",Heart (Tyne and Wear)
+https://media-ssl.musicradio.com/HeartTyneWear
+#EXTINF:0 tvg-type=ignore tvg-id="6902742d-6a3f-4ba9-abec-263fe35f7ace" CUID="7583340" tvg-name="Heart (UK)"  group-title="UK: RADIO",Heart (UK)
+https://media-ssl.musicradio.com/HeartUKMP3
+#EXTINF:0 tvg-type=ignore tvg-id="2b360528-dbb4-46e6-8a0b-916d5924ca1c" CUID="7583342" tvg-name="Heart (Wales - North)"  group-title="UK: RADIO",Heart (Wales - North)
+https://media-ssl.musicradio.com/HeartNorthWalesMP3
+#EXTINF:0 tvg-type=ignore tvg-id="6625822a-6498-4353-8c03-a30a1c2f54d5" CUID="7583343" tvg-name="Heart (Wales - South)"  group-title="UK: RADIO",Heart (Wales - South)
+https://media-ssl.musicradio.com/HeartSouthWalesMP3
+#EXTINF:0 tvg-type=ignore tvg-id="63abd2a2-9c6b-4d3f-9699-e214018ae3b6" CUID="7583344" tvg-name="Heart (Wales - West)"  group-title="UK: RADIO",Heart (Wales - West)
+https://media-ssl.musicradio.com/HeartWestWalesMP3
+#EXTINF:0 tvg-type=ignore tvg-id="0ef02f73-7d58-4d86-8a12-3b9403c79de4" CUID="7583341" tvg-name="Heart (Wales)"  group-title="UK: RADIO",Heart (Wales)
+https://media-sov.musicradio.com/HeartWestWalesMP3
+#EXTINF:0 tvg-type=ignore tvg-id="e1d256b1-8ac0-45bf-b59f-7be6f7085328" CUID="7583345" tvg-name="Heart (Watford & Hemel)"  group-title="UK: RADIO",Heart (Watford & Hemel)
+https://media-ice.musicradio.com/HeartWatford
+#EXTINF:0 tvg-type=ignore tvg-id="c5d969a0-96cb-4f50-9c73-d3f891f5bcfd" CUID="7583312" tvg-name="Heart (Watford)"  group-title="UK: RADIO",Heart (Watford)
+https://media-ssl.musicradio.com/HeartWatford
+#EXTINF:0 tvg-type=ignore tvg-id="92a6cb74-0025-44b7-92b3-179f50c50dcc" CUID="7583346" tvg-name="Heart (West Country)"  group-title="UK: RADIO",Heart (West Country)
+https://ice-sov.musicradio.com/HeartSomersetMP3
+#EXTINF:0 tvg-type=ignore tvg-id="c93ce876-0d21-4c01-a4f3-5324b9c295f4" CUID="7583313" tvg-name="Heart (West Midlands)"  group-title="UK: RADIO",Heart (West Midlands)
+https://media-ssl.musicradio.com/HeartWestMids
+#EXTINF:0 tvg-type=ignore tvg-id="c93ce876-0d21-4c01-a4f3-5324b9c295f4" CUID="7583347" tvg-name="Heart (West Midlands)"  group-title="UK: RADIO",Heart (West Midlands)
+https://media-ssl.musicradio.com/HeartWestMidsMP3
+#EXTINF:0 tvg-type=ignore tvg-id="c10ef2f4-77a5-4643-b532-f1a6ede578cb" CUID="7583348" tvg-name="Heart (Wiltshire)"  group-title="UK: RADIO",Heart (Wiltshire)
+https://media-ssl.musicradio.com/HeartWiltshireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="3eec44df-9179-4c76-94f7-2599f3a64c9e" CUID="7583349" tvg-name="Heart (Wrexham)"  group-title="UK: RADIO",Heart (Wrexham)
+https://media-ice.musicradio.com/CapitalWrexhamMP3
+#EXTINF:0 tvg-type=ignore tvg-id="2ae59e31-c122-46de-ab22-f0b99a47a562" CUID="7583351" tvg-name="Heart (Yorkshire)"  group-title="UK: RADIO",Heart (Yorkshire)
+https://media-ssl.musicradio.com/HeartYorkshireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="12a9e668-e3a3-4d8c-8c34-ce4a9874178b" CUID="7583283" tvg-name="Heart: 00s"  group-title="UK: RADIO",Heart: 00s
+https://media-ssl.musicradio.com/Heart00sMP3
+#EXTINF:0 tvg-type=ignore tvg-id="08e65a17-6dcf-41fb-9774-17f0a9a0cc09" CUID="7583284" tvg-name="Heart: 10s"  group-title="UK: RADIO",Heart: 10s
+https://media-ice.musicradio.com/Heart10sMP3
+#EXTINF:0 tvg-type=ignore tvg-id="ab0bfdc1-59e8-4a52-b33a-a11c714e45af" CUID="7583285" tvg-name="Heart: 70s"  group-title="UK: RADIO",Heart: 70s
+https://media-ssl.musicradio.com/Heart70s
+#EXTINF:0 tvg-type=ignore tvg-id="e341f86d-e309-40b0-969e-8c37af3e0ceb" CUID="7583286" tvg-name="Heart: 80s"  group-title="UK: RADIO",Heart: 80s
+http://media-ice.musicradio.com/Heart80sMP3
+#EXTINF:0 tvg-type=ignore tvg-id="19c52b94-ea17-41e8-9431-4a1dd87bb2e5" CUID="7583287" tvg-name="Heart: 90s"  group-title="UK: RADIO",Heart: 90s
+https://media-ssl.musicradio.com/Heart90sMP3
+#EXTINF:0 tvg-type=ignore tvg-id="f10bfd09-904c-4809-9547-6b2ef75217e8" CUID="7583314" tvg-name="Heart: Dance"  group-title="UK: RADIO",Heart: Dance
+https://media-ssl.musicradio.com/HeartDanceMP3
+#EXTINF:0 tvg-type=ignore tvg-id="8fe752e7-c75d-46ea-82d6-c86b8d4bc72a" CUID="7583316" tvg-name="Heart: Love"  group-title="UK: RADIO",Heart: Love
+https://media-ice.musicradio.com/HeartLoveMP3
+#EXTINF:0 tvg-type=ignore tvg-id="fbf790d9-fc5d-4938-9015-836b1d322abf" CUID="7583318" tvg-name="Heart: Musicals"  group-title="UK: RADIO",Heart: Musicals
+https://media-ice.musicradio.com/HeartMusicalsMP3
+#EXTINF:0 tvg-type=ignore tvg-id="f5d652ab-9f92-4ec5-b388-107c1c2b79c6" CUID="7583319" tvg-name="Heart: MX"  group-title="UK: RADIO",Heart: MX
+https://streaming.servicioswebmx.com/8068/stream
+#EXTINF:0 tvg-type=ignore tvg-id="e0f90c6e-4ed1-4ff8-ad3e-2078eabd1f72" CUID="7583350" tvg-name="Heart: Xmas"  group-title="UK: RADIO",Heart: Xmas
+https://media-ssl.musicradio.com/HeartXmasMP3
+#EXTINF:0 tvg-type=ignore tvg-id="d462eedb-38f6-4d3b-959c-d52314c5c5d5" CUID="7583352" tvg-name="Hellas Radio UK"  group-title="UK: RADIO",Hellas Radio UK
+https://cast3.my-control-panel.com/proxy/efthimio/live
+#EXTINF:0 tvg-type=ignore tvg-id="0fb8ae05-f920-4122-87bf-bd6a4861923b" CUID="7583353" tvg-name="Hereford FC"  group-title="UK: RADIO",Hereford FC
+https://stream.radio.co/s025ead1b9/listen
+#EXTINF:0 tvg-type=ignore tvg-id="d9248696-ae72-48c8-962a-e7d0ec26c046" CUID="7583354" tvg-name="Hereford Hospital Radio"  group-title="UK: RADIO",Hereford Hospital Radio
+https://webradio.radiomonitor.com/stream/HHRtunein
+#EXTINF:0 tvg-type=ignore tvg-id="00c0e394-3005-40e7-b5e0-812ed904f9b7" CUID="7583355" tvg-name="Hitmix Radio Ireland"  group-title="UK: RADIO",Hitmix Radio Ireland
+https://a8.asurahosting.com:7180/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="3a4a952b-6e24-446b-9eec-c15971e6dc36" CUID="7583356" tvg-name="Hits Radio (Birmingham)"  group-title="UK: RADIO",Hits Radio (Birmingham)
+https://stream-al.hellorayo.co.uk/freebirmingham.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hri
+#EXTINF:0 tvg-type=ignore tvg-id="46355a5b-8c2f-47a7-97c7-cc19631141a8" CUID="7583357" tvg-name="Hits Radio (Black Country and Shropshire)"  group-title="UK: RADIO",Hits Radio (Black Country and Shropshire)
+https://stream-al.hellorayo.co.uk/freeblackcountry.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrx
+#EXTINF:0 tvg-type=ignore tvg-id="e8fe5104-c24a-42cc-bf6b-7c115d528c77" CUID="7583358" tvg-name="Hits Radio (Bristol & The South West)"  group-title="UK: RADIO",Hits Radio (Bristol & The South West)
+https://stream-mz.hellorayo.co.uk/net1bristol.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrb
+#EXTINF:0 tvg-type=ignore tvg-id="620b66e0-8c06-4ac2-8cac-adfd3081cb5e" CUID="7583359" tvg-name="Hits Radio (Cornwall)"  group-title="UK: RADIO",Hits Radio (Cornwall)
+https://stream-mz.planetradio.co.uk/net1cornwall.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933
+#EXTINF:0 tvg-type=ignore tvg-id="fdbe9837-18e0-4e0b-aef6-3b012980b059" CUID="7583360" tvg-name="Hits Radio (Coventry and Warwickshire)"  group-title="UK: RADIO",Hits Radio (Coventry and Warwickshire)
+https://stream-al.hellorayo.co.uk/freecoventry.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrj
+#EXTINF:0 tvg-type=ignore tvg-id="8ff2e370-4c21-4c44-8b8c-4a80c12a2fc3" CUID="7583361" tvg-name="Hits Radio (East Midlands)"  group-title="UK: RADIO",Hits Radio (East Midlands)
+https://stream-al.hellorayo.co.uk/gem106.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hru
+#EXTINF:0 tvg-type=ignore tvg-id="91ee897c-3b02-4f21-b51c-1b6144370b8d" CUID="7583362" tvg-name="Hits Radio (East Yorkshire)"  group-title="UK: RADIO",Hits Radio (East Yorkshire)
+https://stream-mz.hellorayo.co.uk/viking.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrk
+#EXTINF:0 tvg-type=ignore tvg-id="60442c58-785f-4c96-bafe-5a3e42a0f2d3" CUID="7583373" tvg-name="Hits Radio (Ireland)"  group-title="UK: RADIO",Hits Radio (Ireland)
+https://uk7.internet-radio.com/proxy/hitsradioireland?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="9328c8cc-aead-44ae-8cba-eeed39358c69" CUID="7583363" tvg-name="Hits Radio (Lancashire)"  group-title="UK: RADIO",Hits Radio (Lancashire)
+https://stream-mz.hellorayo.co.uk/rock.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrg
+#EXTINF:0 tvg-type=ignore tvg-id="3df838a8-4038-4476-9069-3a4268e6a6d3" CUID="7583364" tvg-name="Hits Radio (Lincolnshire)"  group-title="UK: RADIO",Hits Radio (Lincolnshire)
+https://stream-mz.hellorayo.co.uk/net1lincoln.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hli
+#EXTINF:0 tvg-type=ignore tvg-id="6a52fe01-40b8-4f91-95b3-b2f5bda97133" CUID="7583365" tvg-name="Hits Radio (Liverpool)"  group-title="UK: RADIO",Hits Radio (Liverpool)
+https://stream-al.hellorayo.co.uk/city.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrf
+#EXTINF:0 tvg-type=ignore tvg-id="9aac8c09-e522-4c90-abfc-88a77c7fd564" CUID="7583366" tvg-name="Hits Radio (Manchester)"  group-title="UK: RADIO",Hits Radio (Manchester)
+https://stream-al.hellorayo.co.uk/key.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrm
+#EXTINF:0 tvg-type=ignore tvg-id="9371feb3-8f93-4e7e-b8ea-7bffbb1d16f7" CUID="7583367" tvg-name="Hits Radio (North East)"  group-title="UK: RADIO",Hits Radio (North East)
+https://stream-mz.hellorayo.co.uk/metro.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrn
+#EXTINF:0 tvg-type=ignore tvg-id="a1b3e595-3d76-430b-9a80-9b3656987a9d" CUID="7583368" tvg-name="Hits Radio (South Wales)"  group-title="UK: RADIO",Hits Radio (South Wales)
+https://stream-mz.hellorayo.co.uk/net1swansea.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrv
+#EXTINF:0 tvg-type=ignore tvg-id="2c98bbb9-1456-4e63-b146-85e8854b1b99" CUID="7583369" tvg-name="Hits Radio (South Yorkshire)"  group-title="UK: RADIO",Hits Radio (South Yorkshire)
+https://stream-al.hellorayo.co.uk/hallam.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hra
+#EXTINF:0 tvg-type=ignore tvg-id="c2ad06ed-de21-4a42-b928-4ad6fe15d9c2" CUID="7583370" tvg-name="Hits Radio (Staffordshire & Cheshire)"  group-title="UK: RADIO",Hits Radio (Staffordshire & Cheshire)
+https://stream-mz.hellorayo.co.uk/net1stoke.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrs
+#EXTINF:0 tvg-type=ignore tvg-id="1dc2c7f9-f7d9-40d5-8551-71a95e4d28eb" CUID="7583371" tvg-name="Hits Radio (Teesside)"  group-title="UK: RADIO",Hits Radio (Teesside)
+https://stream-mz.hellorayo.co.uk/tfm.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrt
+#EXTINF:0 tvg-type=ignore tvg-id="6aa3dc67-b0a1-473f-a075-04bf210152f2" CUID="7583372" tvg-name="Hits Radio (West Yorkshire)"  group-title="UK: RADIO",Hits Radio (West Yorkshire)
+https://stream-mz.hellorayo.co.uk/net1bradford.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=hrh
+#EXTINF:0 tvg-type=ignore tvg-id="9ce6a290-ef08-4040-9b68-18eea0e9b494" CUID="7583374" tvg-name="Hope FM UK"  group-title="UK: RADIO",Hope FM UK
+https://radio.hopefm.org.uk/listen/hopefmuk/live
+#EXTINF:0 tvg-type=ignore tvg-id="89fd2d5b-29ef-47aa-81a6-379d5be4152f" CUID="7583375" tvg-name="Hope Radio Ireland"  group-title="UK: RADIO",Hope Radio Ireland
+https://cast3.asurahosting.com/proxy/alg/stream
+#EXTINF:0 tvg-type=ignore tvg-id="95f4022d-b589-48e6-832e-5b3df5468512" CUID="7583376" tvg-name="Hospital Broadcasting Service (Glasgow)"  group-title="UK: RADIO",Hospital Broadcasting Service (Glasgow)
+https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="e6fa196a-c7c0-48b2-b2ec-2b47b72326a8" CUID="7583377" tvg-name="Hospital Radio (Basingstoke)"  group-title="UK: RADIO",Hospital Radio (Basingstoke)
+http://webradio.radiomonitor.com/stream/HRBasingstoke
+#EXTINF:0 tvg-type=ignore tvg-id="d79ee819-2ad6-4afe-90b2-d63d55289833" CUID="7583378" tvg-name="Hospital Radio (Bedford)"  group-title="UK: RADIO",Hospital Radio (Bedford)
+http://kepler.shoutca.st:8295/hrb
+#EXTINF:0 tvg-type=ignore tvg-id="9b77b7ec-b040-4201-a5bb-a88a37652599" CUID="7583379" tvg-name="Hospital Radio (Chelmsford)"  group-title="UK: RADIO",Hospital Radio (Chelmsford)
+https://solid55.streamupsolutions.com/proxy/mmbdfslu?mp=//stream
+#EXTINF:0 tvg-type=ignore tvg-id="a82557f9-7577-4010-bc82-e291cf51e52d" CUID="7583380" tvg-name="Hospital Radio (Colchester)"  group-title="UK: RADIO",Hospital Radio (Colchester)
+https://streaming.broadcastradio.com:10905/hrcolchester
+#EXTINF:0 tvg-type=ignore tvg-id="75384aa1-d948-4ebb-af0c-15c42b5f9f2c" CUID="7583381" tvg-name="Hospital Radio (Exeter)"  group-title="UK: RADIO",Hospital Radio (Exeter)
+http://uk4-vn.mixstream.net:8130/listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="afc93df0-c5f0-4b4a-86a6-abae5db5aabd" CUID="7583382" tvg-name="Hospital Radio (Glamorgan)"  group-title="UK: RADIO",Hospital Radio (Glamorgan)
+http://mp3streaming.planetwideradio.com:8000/glamorg
+#EXTINF:0 tvg-type=ignore tvg-id="4ae2c9ca-e000-4358-a4f7-eb337bcc88e5" CUID="7583383" tvg-name="Hospital Radio (Hillingdon)"  group-title="UK: RADIO",Hospital Radio (Hillingdon)
+http://streaming.broadcastradio.com:10040/hrhillingdonmp3
+#EXTINF:0 tvg-type=ignore tvg-id="ede447ed-7381-4e48-9a3d-97c3f58969a4" CUID="7583384" tvg-name="Hospital Radio (Ipswich)"  group-title="UK: RADIO",Hospital Radio (Ipswich)
+http://webradio.radiomonitor.com/stream/HRI
+#EXTINF:0 tvg-type=ignore tvg-id="f9260fc9-63d5-4ac1-a1a5-c6d6ca26b698" CUID="7583385" tvg-name="Hospital Radio (Norwich)"  group-title="UK: RADIO",Hospital Radio (Norwich)
+https://hospita1.radioca.st/;
+#EXTINF:0 tvg-type=ignore tvg-id="d08847fa-bcec-45e4-9385-1e9ddac48d4c" CUID="7583386" tvg-name="Hospital Radio (Perth)"  group-title="UK: RADIO",Hospital Radio (Perth)
+http://streaming.broadcastradio.com:9222/perth
+#EXTINF:0 tvg-type=ignore tvg-id="fc74e03f-1d14-4e41-907c-11a16f047575" CUID="7583387" tvg-name="Hospital Radio (Plymouth)"  group-title="UK: RADIO",Hospital Radio (Plymouth)
+https://hospitalradioplymouth.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="a7d1a61e-68e8-49e7-ac26-df1c21c98793" CUID="7583388" tvg-name="Hospital Radio (Reading)"  group-title="UK: RADIO",Hospital Radio (Reading)
+http://samson.streamerr.co:8024/stream
+#EXTINF:0 tvg-type=ignore tvg-id="0d419688-9a75-4c12-be41-62eeb12e9381" CUID="7583389" tvg-name="Hot FM Dance"  group-title="UK: RADIO",Hot FM Dance
+https://s3.radio.co/s5e2a9c54b/listen
+#EXTINF:0 tvg-type=ignore tvg-id="1ceb2a21-3589-4d11-ba5f-c54067d6ff40" CUID="7583390" tvg-name="Hot FM UK"  group-title="UK: RADIO",Hot FM UK
+http://chandra.shoutca.st:8009/;
+#EXTINF:0 tvg-type=ignore tvg-id="61ac519f-8126-43be-aa85-f17f6090964a" CUID="7583391" tvg-name="Hot Hits UK"  group-title="UK: RADIO",Hot Hits UK
+https://443-1.autopo.st/54/stream.mp3?_=1
+#EXTINF:0 tvg-type=ignore tvg-id="a62e1df6-9917-4db6-aab1-ac6949102a4b" CUID="7583392" tvg-name="Hotdigitalonline (London)"  group-title="UK: RADIO",Hotdigitalonline (London)
+https://hotdigital-friskydj.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="e171ec77-f44e-4b82-842b-30630c7abe84" CUID="7583393" tvg-name="House Music Radio UK"  group-title="UK: RADIO",House Music Radio UK
+http://uk4-vn.mixstream.net:8128/;
+#EXTINF:0 tvg-type=ignore tvg-id="69cd8646-221e-4ebe-a0a4-4cbdc851ffcb" CUID="7583394" tvg-name="Hull Kingston Radio"  group-title="UK: RADIO",Hull Kingston Radio
+https://hkradio.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="84064f2d-c955-47b2-b418-73a38a005f79" CUID="7583395" tvg-name="Huntingdon Community Radio"  group-title="UK: RADIO",Huntingdon Community Radio
+https://listen.streamaudio.co/proxy/hcr/stream
+#EXTINF:0 tvg-type=ignore tvg-id="a394ffab-d9eb-4579-806d-f4482ad8df8f" CUID="7583396" tvg-name="HWD Hospital Radio"  group-title="UK: RADIO",HWD Hospital Radio
+https://streaming04.liveboxstream.uk/proxy/hwdhospi?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="afc5a88e-f944-4e25-b6c0-986de5b3f71e" CUID="7583397" tvg-name="Instore Radio Newcastle"  group-title="UK: RADIO",Instore Radio Newcastle
+http://www.instorestreaming.co.uk:8000/sl_newcastle
+#EXTINF:0 tvg-type=ignore tvg-id="215d0aa2-5566-456d-b03b-09ab76fdb953" CUID="7583398" tvg-name="Intamixx 80s 90s Radio UK"  group-title="UK: RADIO",Intamixx 80s 90s Radio UK
+https://intamixx.no-ip.com:8002/stream/2/
+#EXTINF:0 tvg-type=ignore tvg-id="b11de2c2-2746-4db4-b7c2-b6a1d3b33218" CUID="7583399" tvg-name="INTune Radio (Shropshire)"  group-title="UK: RADIO",INTune Radio (Shropshire)
+https://s4.radio.co/s009f00674/listen
+#EXTINF:0 tvg-type=ignore tvg-id="f3fbb85b-746b-469a-824a-561e4f394f94" CUID="7583400" tvg-name="Inverness Hospital Radio"  group-title="UK: RADIO",Inverness Hospital Radio
+https://uksoutha.streaming.broadcast.radio/invernesshr?1699799769753=
+#EXTINF:0 tvg-type=ignore tvg-id="2c42d0dc-d2ff-435f-8891-326fc0bc34cc" CUID="7583401" tvg-name="Ipswich Community Radio 105.7 FM"  group-title="UK: RADIO",Ipswich Community Radio 105.7 FM
+https://streams.happyhits.co.uk/ICR
+#EXTINF:0 tvg-type=ignore tvg-id="9daefdbe-901a-42db-8fb0-854062c63040" CUID="7583402" tvg-name="iRadio (Northeast and Midlands)"  group-title="UK: RADIO",iRadio (Northeast and Midlands)
+https://live-bauerie.sharp-stream.com/IRADNW
+#EXTINF:0 tvg-type=ignore tvg-id="25e6076a-0309-4ed1-bda6-cd296e9f46b4" CUID="7583403" tvg-name="Irish Country Music Radio"  group-title="UK: RADIO",Irish Country Music Radio
+http://46.28.49.164:7502/
+#EXTINF:0 tvg-type=ignore tvg-id="ac681a97-b210-43be-aa2b-ede6da570639" CUID="7583404" tvg-name="Irish Pub Radio"  group-title="UK: RADIO",Irish Pub Radio
+http://solid24.streamupsolutions.com:8026/stream
+#EXTINF:0 tvg-type=ignore tvg-id="8dec93c1-35a6-42cd-a77d-4395ddf6d455" CUID="7583405" tvg-name="Irvine Beat FM"  group-title="UK: RADIO",Irvine Beat FM
+https://solid2.streamupsolutions.com/proxy/nijbzfrv?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="9de3fe15-2f76-4167-b748-53ac77940bab" CUID="7583406" tvg-name="Isle of Wight Radio"  group-title="UK: RADIO",Isle of Wight Radio
+https://s2.xrad.io:9598/listen.mp3?=&&___cb=275280937051671
+#EXTINF:0 tvg-type=ignore tvg-id="4516f6de-9a70-4a0c-ae1b-224230dd1ee8" CUID="7583407" tvg-name="Jam Radio UK"  group-title="UK: RADIO",Jam Radio UK
+https://antares.dribbcast.com/proxy/jamradio?mp=%2Fstream
+#EXTINF:0 tvg-type=ignore tvg-id="fb37eaa5-f3b9-49a9-8e96-d3dee99825b6" CUID="7583408" tvg-name="Jazz London Radio"  group-title="UK: RADIO",Jazz London Radio
+https://radio.canstream.co.uk:8075/live.aac
+#EXTINF:0 tvg-type=ignore tvg-id="79e9a587-da8a-41ae-b578-75ccb91d1be8" CUID="7583409" tvg-name="Jazz Radio Ireland"  group-title="UK: RADIO",Jazz Radio Ireland
+https://carina.streamerr.co:8116/stream
+#EXTINF:0 tvg-type=ignore tvg-id="3cdc121e-bbf4-4a5d-ad21-b4eb4bff73c9" CUID="7583411" tvg-name="Juice Belfast"  group-title="UK: RADIO",Juice Belfast
+https://streaming.gnl.fm/juice/juice-aac-HQ
+#EXTINF:0 tvg-type=ignore tvg-id="6263f263-da89-43bf-bd21-e401f81e550f" CUID="7583412" tvg-name="Juice FM (Cork)"  group-title="UK: RADIO",Juice FM (Cork)
+https://stream.rcs.revma.com/a8mqrmhcyy8uv
+#EXTINF:0 tvg-type=ignore tvg-id="8fbbab30-ad7b-45ef-9073-b4cd43f123e7" CUID="7583413" tvg-name="Juice Liverpool"  group-title="UK: RADIO",Juice Liverpool
+https://uksouth1.juiceboxradio.com/JuiceLiverpool
+#EXTINF:0 tvg-type=ignore tvg-id="b9d2ed00-6ad8-4e9a-809f-d2f56f9364a7" CUID="7583414" tvg-name="KCLR (Carlow)"  group-title="UK: RADIO",KCLR (Carlow)
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCLR_CARLOWAAC.aac
+#EXTINF:0 tvg-type=ignore tvg-id="8dfb61a9-1850-4b22-9712-bb11f9aa7a23" CUID="7583415" tvg-name="KCLR (Kilkenny)"  group-title="UK: RADIO",KCLR (Kilkenny)
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCLRAAC.aac
+#EXTINF:0 tvg-type=ignore tvg-id="0b9caf33-f11f-4c09-b6e9-c0b2662398f4" CUID="7583416" tvg-name="Kent FM 95.5"  group-title="UK: RADIO",Kent FM 95.5
+https://kentfm955.ozelip.com/9306/stream
+#EXTINF:0 tvg-type=ignore tvg-id="68992a89-8635-40fe-9caa-b8718d8fcae7" CUID="7583417" tvg-name="Kerrang! Radio"  group-title="UK: RADIO",Kerrang! Radio
+https://stream-al.hellorayo.co.uk/kerrang.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="82ecfc1a-63c1-4939-8003-b1b2e11a4c93" CUID="7583418" tvg-name="KISS"  group-title="UK: RADIO",KISS
+https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+#EXTINF:0 tvg-type=ignore tvg-id="c2d84bc5-231a-4d74-991b-79ee05470105" CUID="7583420" tvg-name="Kiss FM (Ireland)"  group-title="UK: RADIO",Kiss FM (Ireland)
+https://kathy.torontocast.com:4175/stream
+#EXTINF:0 tvg-type=ignore tvg-id="0d698564-4491-4a95-a138-4f912284a70c" CUID="7583421" tvg-name="Kiss Me Radio London"  group-title="UK: RADIO",Kiss Me Radio London
+http://radio22.servidorderadio.net:8148/stream
+#EXTINF:0 tvg-type=ignore tvg-id="21bab22e-df51-4143-847b-526096b3edf6" CUID="7583419" tvg-name="KISS: DANCE"  group-title="UK: RADIO",KISS: DANCE
+https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+#EXTINF:0 tvg-type=ignore tvg-id="cfb538c6-6885-4cd4-ac24-6d14c9a46b40" CUID="7583422" tvg-name="KISS: Xtra"  group-title="UK: RADIO",KISS: Xtra
+https://stream-kiss.hellorayo.co.uk/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
+#EXTINF:0 tvg-type=ignore tvg-id="f1786e74-95c9-4259-bb3a-ddab06b1e578" CUID="7583423" tvg-name="KISSTORY"  group-title="UK: RADIO",KISSTORY
+http://stream-kiss.planetradio.co.uk/kisstory.mp3?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+#EXTINF:0 tvg-type=ignore tvg-id="592d1053-354c-44c1-9955-a635c91a690a" CUID="7583424" tvg-name="KISSTORY: R&B"  group-title="UK: RADIO",KISSTORY: R&B
+https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+#EXTINF:0 tvg-type=ignore tvg-id="ba21923f-2f5b-4d92-8d72-cb2682387c56" CUID="7583425" tvg-name="kmfm (Ashford)"  group-title="UK: RADIO",kmfm (Ashford)
+http://listen-kmfm.sharp-stream.com/kmfmashford.mp3?ref=RB
+#EXTINF:0 tvg-type=ignore tvg-id="facbb344-d0d1-4ae2-bca8-8fd73fc350a3" CUID="7583426" tvg-name="kmfm (Canterbury)"  group-title="UK: RADIO",kmfm (Canterbury)
+http://listen-kmfm.sharp-stream.com/kmfmcanterbury.mp3?ref=RB
+#EXTINF:0 tvg-type=ignore tvg-id="d4379be8-eeb2-4f9d-b502-7fe54aba8ecc" CUID="7583427" tvg-name="kmfm (Maidstone)"  group-title="UK: RADIO",kmfm (Maidstone)
+http://listen-kmfm.sharp-stream.com/kmfmmaidstone.mp3?ref=RB
+#EXTINF:0 tvg-type=ignore tvg-id="d8e9f37f-13a5-4ae3-98a5-3b90b3575bc9" CUID="7583428" tvg-name="kmfm (Medway)"  group-title="UK: RADIO",kmfm (Medway)
+http://listen-kmfm.sharp-stream.com/kmfmmedway.mp3?ref=RB
+#EXTINF:0 tvg-type=ignore tvg-id="3000a1b6-6e85-4e49-b9f3-d058b5bfac61" CUID="7583429" tvg-name="kmfm (West Kent)"  group-title="UK: RADIO",kmfm (West Kent)
+https://listen-kmfm.sharp-stream.com/kmfmwestkent.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="2ce70058-cde5-44f6-83b5-444bea4424ca" CUID="7583430" tvg-name="KMG London"  group-title="UK: RADIO",KMG London
+https://stream.radio.co/s827cc8d65/listen
+#EXTINF:0 tvg-type=ignore tvg-id="26ea9e3d-2339-42ff-ba9a-b0b5e752fa0a" CUID="7583431" tvg-name="Kool FM"  group-title="UK: RADIO",Kool FM
+https://admin.stream.rinse.fm/proxy/kool/stream
+#EXTINF:0 tvg-type=ignore tvg-id="abb760e0-d003-40c7-9696-13dd9e94740a" CUID="7583432" tvg-name="Lancaster Baptist Church"  group-title="UK: RADIO",Lancaster Baptist Church
+https://n05.radiojar.com/u4w54a159v5tv?rj-ttl=5&rj-tok=AAABfahosEIAZB1HL-S06IppWw
+#EXTINF:0 tvg-type=ignore tvg-id="e2fbda5d-2c6b-4187-a5c2-4166196f209a" CUID="7583433" tvg-name="LB-Radio UK"  group-title="UK: RADIO",LB-Radio UK
+http://solid67.streamupsolutions.com:15538/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c7086864-1535-4db4-af85-c09997ea0c8d" CUID="7583434" tvg-name="LBC London"  group-title="UK: RADIO",LBC London
+https://media-ssl.musicradio.com/LBCLondonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="faec825f-6191-4ff1-b1e9-806ef20e6233" CUID="7583435" tvg-name="LBC Radio"  group-title="UK: RADIO",LBC Radio
+http://media-sov.musicradio.com/LBC973MP3Low
+#EXTINF:0 tvg-type=ignore tvg-id="15b8ce47-8a38-4734-ba1d-f4c21443da3e" CUID="7583437" tvg-name="Leeds Hospital Radio"  group-title="UK: RADIO",Leeds Hospital Radio
+http://13437.cloudrad.io:9034/live
+#EXTINF:0 tvg-type=ignore tvg-id="99384f2f-d4ef-4282-8fdf-6d0f4ab4574c" CUID="7583438" tvg-name="Leeds Student Radio"  group-title="UK: RADIO",Leeds Student Radio
+https://streamer.radio.co/s986435880/listen
+#EXTINF:0 tvg-type=ignore tvg-id="cba39d15-bd59-47bc-924d-f15badf7f2fe" CUID="7583439" tvg-name="Leicester Community Radio"  group-title="UK: RADIO",Leicester Community Radio
+http://icecast.maxxwave.co.uk:8000/lcr_hq
+#EXTINF:0 tvg-type=ignore tvg-id="f154f874-d025-40d3-9355-c913cf703269" CUID="7583440" tvg-name="Leicester Community Radio 1"  group-title="UK: RADIO",Leicester Community Radio 1
+https://global2.citrus3.com:2020/stream/leicestercommunityradio
+#EXTINF:0 tvg-type=ignore tvg-id="72b7049d-da98-40b0-9447-baab66bb0247" CUID="7583441" tvg-name="Leicester Community Radio 2"  group-title="UK: RADIO",Leicester Community Radio 2
+http://icecast.maxxwave.co.uk/lcr2?ver=73546
+#EXTINF:0 tvg-type=ignore tvg-id="0b89f0de-bfee-448d-afec-26f514e4bb3b" CUID="7583442" tvg-name="Limerick City Community Radio"  group-title="UK: RADIO",Limerick City Community Radio
+https://stream.lccr.ie/high
+#EXTINF:0 tvg-type=ignore tvg-id="c12659ac-2334-4410-a569-33d863912884" CUID="7583443" tvg-name="Limerick's Live 95FM"  group-title="UK: RADIO",Limerick's Live 95FM
+https://wg.cdn.tibus.net/Live95fm
+#EXTINF:0 tvg-type=ignore tvg-id="b36f3b7b-4ba3-4178-8e2d-380dfdac3295" CUID="7583444" tvg-name="Lisburn's 98FM"  group-title="UK: RADIO",Lisburn's 98FM
+http://radio.canstream.co.uk:8050/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="bb0089b2-ff66-428c-aea3-8f8a124afea7" CUID="7583445" tvg-name="Liskeard Radio"  group-title="UK: RADIO",Liskeard Radio
+https://my4.radiolize.com/radio/8150/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="5463a216-09ec-4801-8d58-696dea4153b2" CUID="7583446" tvg-name="Live95 Limerick"  group-title="UK: RADIO",Live95 Limerick
+https://live.onic.ie/stream-live95
+#EXTINF:0 tvg-type=ignore tvg-id="5d347293-b603-4b72-b97d-194e33134dae" CUID="7583448" tvg-name="LiveIreland"  group-title="UK: RADIO",LiveIreland
+http://192.111.140.11:8058/stream
+#EXTINF:0 tvg-type=ignore tvg-id="ebb42470-a730-47a0-93f6-e3aa3a5bbcff" CUID="7583449" tvg-name="LiveIreland 1"  group-title="UK: RADIO",LiveIreland 1
+http://192.111.140.11:8058/stream/1/
+#EXTINF:0 tvg-type=ignore tvg-id="21cabbaa-be15-4dcb-ba0c-679e931424e6" CUID="7583447" tvg-name="LiveIreland 2"  group-title="UK: RADIO",LiveIreland 2
+http://lynx.prostreaming.net:8058/stream/;
+#EXTINF:0 tvg-type=ignore tvg-id="7c374abf-12cf-482d-b63e-bffd6f552677" CUID="7583436" tvg-name="Liverpool Community Radio"  group-title="UK: RADIO",Liverpool Community Radio
+https://stream.radiojar.com/0p8xfnpxfnzuv
+#EXTINF:0 tvg-type=ignore tvg-id="17bc3069-c036-4453-9bef-4e3ae38d00f4" CUID="7583450" tvg-name="Liverpool Live Radio"  group-title="UK: RADIO",Liverpool Live Radio
+https://stream.aiir.com/xbmvsamvpnluv
+#EXTINF:0 tvg-type=ignore tvg-id="887b0567-6ffa-4a30-9b2d-1184a54078e5" CUID="7583451" tvg-name="LockDown Radio (London)"  group-title="UK: RADIO",LockDown Radio (London)
+http://s11.citrus3.com:8154/stream
+#EXTINF:0 tvg-type=ignore tvg-id="081d9ba9-8337-4a23-8be9-20a35473d668" CUID="7583452" tvg-name="LockDown Radio (UK)"  group-title="UK: RADIO",LockDown Radio (UK)
+http://loveradio.stream:8100/;
+#EXTINF:0 tvg-type=ignore tvg-id="72516075-a761-4d8c-a319-55019849bbcf" CUID="7583453" tvg-name="London Christmas Radio"  group-title="UK: RADIO",London Christmas Radio
+https://stream.zeno.fm/xkyvftapsqruv
+#EXTINF:0 tvg-type=ignore tvg-id="7eabe75f-9327-4443-961d-0e45878d4dea" CUID="7583454" tvg-name="London Greek Radio"  group-title="UK: RADIO",London Greek Radio
+https://streaming.radioai.co.uk/lgr320
+#EXTINF:0 tvg-type=ignore tvg-id="313ccd4a-9d69-4199-a55c-660c76af63cf" CUID="7583455" tvg-name="London Malayalam Radio"  group-title="UK: RADIO",London Malayalam Radio
+https://ais-edge105-live365-dal02.cdnstream.com/a50671
+#EXTINF:0 tvg-type=ignore tvg-id="8a9b0d6b-2287-4cd2-b1fa-7b53798904e1" CUID="7583456" tvg-name="London Music Radio"  group-title="UK: RADIO",London Music Radio
+https://solid24.streamupsolutions.com/proxy/iutrxeff/stream
+#EXTINF:0 tvg-type=ignore tvg-id="276448a9-06e8-47e5-ba48-b3c3cfe4ec05" CUID="7583457" tvg-name="London Radio"  group-title="UK: RADIO",London Radio
+http://stream.zeno.fm/3q8g15yqxmruv
+#EXTINF:0 tvg-type=ignore tvg-id="c6799216-f851-43fc-a2fc-b338740df21e" CUID="7583458" tvg-name="London Soul Radio"  group-title="UK: RADIO",London Soul Radio
+http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a
+#EXTINF:0 tvg-type=ignore tvg-id="0305351a-240d-43bd-8936-7f8bf1463d72" CUID="7583459" tvg-name="London Tamil Radio"  group-title="UK: RADIO",London Tamil Radio
+http://eu10.fastcast4u.com:18200/;
+#EXTINF:0 tvg-type=ignore tvg-id="29839cec-b3ec-4972-955b-c8d2ec252866" CUID="7583460" tvg-name="London Telugu Radio"  group-title="UK: RADIO",London Telugu Radio
+https://c8.radioboss.fm/stream/33
+#EXTINF:0 tvg-type=ignore tvg-id="2eda5ebf-5964-4ca4-98a3-1da37f0bb635" CUID="7583461" tvg-name="London Turkish Radio"  group-title="UK: RADIO",London Turkish Radio
+https://s2.radio.co/s899a861e2/listen
+#EXTINF:0 tvg-type=ignore tvg-id="2313979a-5f00-462f-9931-2f2cdc85c626" CUID="7583462" tvg-name="Londons Energy Radio"  group-title="UK: RADIO",Londons Energy Radio
+https://sonic.onlineaudience.co.uk/8000/stream#.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="708ca370-4b56-4f44-ade4-326fce5cc8e5" CUID="7583463" tvg-name="Louth Meath FM"  group-title="UK: RADIO",Louth Meath FM
+https://wg.cdn.tibus.net/LMFM?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true
+#EXTINF:0 tvg-type=ignore tvg-id="22c9a61b-f10a-43f0-a584-35f09d07a19e" CUID="7583464" tvg-name="Love 80's Liverpool"  group-title="UK: RADIO",Love 80's Liverpool
+https://stream.rcs.revma.com/f498pgutna3vv?_=92465
+#EXTINF:0 tvg-type=ignore tvg-id="6dac9dc5-96ea-497a-a35d-b9550a256777" CUID="7583465" tvg-name="Love Soul Radio London"  group-title="UK: RADIO",Love Soul Radio London
+https://s1.citrus3.com:8018/stream
+#EXTINF:0 tvg-type=ignore tvg-id="bb7dd2f3-2e5c-4f52-b47b-8738ba137423" CUID="7583466" tvg-name="Lyca Radio (Greater Manchester)"  group-title="UK: RADIO",Lyca Radio (Greater Manchester)
+https://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_48_he_aac_v2
+#EXTINF:0 tvg-type=ignore tvg-id="7328579a-8474-495b-be1c-9c1ddad3bc8b" CUID="7583467" tvg-name="Made in Kent Radio"  group-title="UK: RADIO",Made in Kent Radio
+http://streaming.broadcastradio.com:11510/creation
+#EXTINF:0 tvg-type=ignore tvg-id="92f47b92-bf2c-48d0-810b-570648284d6f" CUID="7583468" tvg-name="Magic (Chilled)"  group-title="UK: RADIO",Magic (Chilled)
+https://stream-mz.hellorayo.co.uk/magicchilled.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933
+#EXTINF:0 tvg-type=ignore tvg-id="66222508-1f85-470f-af72-780c89f3e63a" CUID="7583471" tvg-name="Magic (Soul)"  group-title="UK: RADIO",Magic (Soul)
+https://stream-mz.hellorayo.co.uk/magicsoul.aac?direct=true&aw_0_1st.skey=1602676850
+#EXTINF:0 tvg-type=ignore tvg-id="0dbe0f54-fc05-4b68-ae3e-b3ba7be9bf7b" CUID="7583469" tvg-name="Magic FM (London)"  group-title="UK: RADIO",Magic FM (London)
+http://edge-bauermz-01-gos2.sharp-stream.com/magic1054.mp3?aw_0_1st.skey=1657298076
+#EXTINF:0 tvg-type=ignore tvg-id="582cbb56-3a58-4eaa-b1bd-051d50d920e3" CUID="7583470" tvg-name="Magic Radio"  group-title="UK: RADIO",Magic Radio
+https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933
+#EXTINF:0 tvg-type=ignore tvg-id="f89ff44f-8d72-4e4e-af2a-f7ac1235a175" CUID="7583472" tvg-name="Manchester Radio Online"  group-title="UK: RADIO",Manchester Radio Online
+http://broadcast.shoutcheap.com:8866/stream
+#EXTINF:0 tvg-type=ignore tvg-id="1a2af82d-b205-42bc-9d59-b93036654163" CUID="7583473" tvg-name="Massive Hits UK"  group-title="UK: RADIO",Massive Hits UK
+https://stream4.themediasite.co.uk:8024/smartspeaker
+#EXTINF:0 tvg-type=ignore tvg-id="b0558ddb-6304-4bb7-885e-fb4dd2890c67" CUID="7583474" tvg-name="Mega Radio London"  group-title="UK: RADIO",Mega Radio London
+http://s10.voscast.com:10348/;
+#EXTINF:0 tvg-type=ignore tvg-id="f05bd1a4-d35f-4c9b-8b2c-2dd380ac46be" CUID="7583475" tvg-name="Mellow Magic"  group-title="UK: RADIO",Mellow Magic
+https://stream-mz.hellorayo.co.uk/magicmellow.aac?direct=true&aw_0_1st.skey=1602676850
+#EXTINF:0 tvg-type=ignore tvg-id="b3f3837a-346b-4904-bd4a-004876981061" CUID="7583476" tvg-name="Mid Sussex Radio"  group-title="UK: RADIO",Mid Sussex Radio
+http://mp3streaming.planetwideradio.com:9310/burgesshillradio
+#EXTINF:0 tvg-type=ignore tvg-id="baa5580f-74a2-40c1-ad37-8ded5a6965bd" CUID="7583477" tvg-name="Midlands 103"  group-title="UK: RADIO",Midlands 103
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103AAC.aac
+#EXTINF:0 tvg-type=ignore tvg-id="a10025ec-52b0-4d71-87af-a9143f267f18" CUID="7583478" tvg-name="Midlands Radio"  group-title="UK: RADIO",Midlands Radio
+https://stream-153.zeno.fm/2mn7tdzkug0uv
+#EXTINF:0 tvg-type=ignore tvg-id="be9df6ad-ed0e-4f1a-badd-e2fec1e8bad2" CUID="7583479" tvg-name="Midlands Radio: 70s"  group-title="UK: RADIO",Midlands Radio: 70s
+https://stream.zeno.fm/2n6y5nq3tm0uv
+#EXTINF:0 tvg-type=ignore tvg-id="ccd9caf0-3a06-4b80-9ed7-5af289b3fdfe" CUID="7583480" tvg-name="Midlands Radio: 80s"  group-title="UK: RADIO",Midlands Radio: 80s
+https://stream.zeno.fm/nkcgrhhr97zuv
+#EXTINF:0 tvg-type=ignore tvg-id="a1dc9033-39ec-4083-962d-89473de2f78d" CUID="7583481" tvg-name="Midlands Radio: Christmas"  group-title="UK: RADIO",Midlands Radio: Christmas
+https://stream.zeno.fm/b0ykm1bpb78uv
+#EXTINF:0 tvg-type=ignore tvg-id="d9a47e17-4cc1-488e-8796-8a14d1ac28f6" CUID="7583482" tvg-name="Mighty Radio (Leeds)"  group-title="UK: RADIO",Mighty Radio (Leeds)
+http://proxima.shoutca.st:8122/stream
+#EXTINF:0 tvg-type=ignore tvg-id="2d71be9a-6e69-4014-996c-989fdcf5719d" CUID="7583483" tvg-name="Mighty Radio (Southport)"  group-title="UK: RADIO",Mighty Radio (Southport)
+http://streaming04.liveboxstream.uk:8014/;stream.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="7920ecb9-1390-4e02-85d7-893e29458332" CUID="7583484" tvg-name="Millside Hospital Radio"  group-title="UK: RADIO",Millside Hospital Radio
+http://millsideradio.co.uk:8000/
+#EXTINF:0 tvg-type=ignore tvg-id="1d8e8deb-7c30-4ebc-9c24-2a099d236fa9" CUID="7583485" tvg-name="Milton Keynes Hospital Radio"  group-title="UK: RADIO",Milton Keynes Hospital Radio
+http://uk3.internet-radio.com:8347/stream
+#EXTINF:0 tvg-type=ignore tvg-id="1180803d-9651-416b-9aac-3d14b5914053" CUID="7583486" tvg-name="Mix FM (Glasgow)"  group-title="UK: RADIO",Mix FM (Glasgow)
+https://radio.mixfmonline.com:8443/listen/mix_fm/radio.aac
+#EXTINF:0 tvg-type=ignore tvg-id="2cdfbd1d-4b79-44be-a5ba-915d6eeefd44" CUID="7583487" tvg-name="Mode Radio (London)"  group-title="UK: RADIO",Mode Radio (London)
+https://mode-london.radiocult.fm/stream
+#EXTINF:0 tvg-type=ignore tvg-id="70ac8ddd-4488-4802-9fe6-8319ef4f3726" CUID="7583488" tvg-name="More Radio (Mid Sussex)"  group-title="UK: RADIO",More Radio (Mid Sussex)
+http://s2.xrad.io:8194/;stream.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c48ab601-cc44-4e58-b77c-04883668cfa3" CUID="7583489" tvg-name="More Radio (Worthing)"  group-title="UK: RADIO",More Radio (Worthing)
+https://s2.xrad.io:9596/listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="07951bd3-6fc3-442f-ba1b-a9e1159ccf86" CUID="7583490" tvg-name="MPB Radio Ulster"  group-title="UK: RADIO",MPB Radio Ulster
+https://live.one-tv.co.uk/listen/radioulster/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="cfc7a91e-b0ae-44cf-8687-1118e9597a4d" CUID="7583491" tvg-name="Multi Radio UK"  group-title="UK: RADIO",Multi Radio UK
+https://stream.zeno.fm/41eb0w2hq2zuv
+#EXTINF:0 tvg-type=ignore tvg-id="cf29637f-eb2a-4a4b-bdc6-12fccc1d0e20" CUID="7583492" tvg-name="Music Box Radio UK"  group-title="UK: RADIO",Music Box Radio UK
+https://uk5.internet-radio.com/proxy/musicboxradio/stream
+#EXTINF:0 tvg-type=ignore tvg-id="e58438a5-4b9c-4a16-8def-d2d2712d716c" CUID="7583493" tvg-name="MZ Radio London"  group-title="UK: RADIO",MZ Radio London
+https://securestreams.autopo.st:1173/stream
+#EXTINF:0 tvg-type=ignore tvg-id="468ebff4-4474-4af7-8445-1584ca454360" CUID="7583494" tvg-name="Naspa Radio UK"  group-title="UK: RADIO",Naspa Radio UK
+https://stream.zenolive.com/480z3etk3d5tv
+#EXTINF:0 tvg-type=ignore tvg-id="029afecb-51c6-4552-9acf-2fbec0139780" CUID="7583501" tvg-name="Nation Radio"  group-title="UK: RADIO",Nation Radio
+http://listen-nation.sharp-stream.com/nationhulldab.mp3?ref=RF
+#EXTINF:0 tvg-type=ignore tvg-id="30275e29-7800-4d0a-a331-047b10fa23f9" CUID="7583502" tvg-name="Nation Radio (Ceredigion)"  group-title="UK: RADIO",Nation Radio (Ceredigion)
+https://listen-nation.sharp-stream.com/tcceredigion.aac
+#EXTINF:0 tvg-type=ignore tvg-id="0b5c8375-9afd-423c-9e6d-a8b85357af3a" CUID="7583503" tvg-name="Nation Radio (London)"  group-title="UK: RADIO",Nation Radio (London)
+http://tx.sharp-stream.com/http_live.php?i=thamesradio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="0be6d61a-b96f-49b1-9cba-e8940456fcb8" CUID="7583505" tvg-name="Nation Radio (North East)"  group-title="UK: RADIO",Nation Radio (North East)
+https://listen-nation.sharp-stream.com/sunfm.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="8fb49f36-c07c-40a8-899d-dc934d9ca07d" CUID="7583506" tvg-name="Nation Radio (Rocks)"  group-title="UK: RADIO",Nation Radio (Rocks)
+https://listen-nation.sharp-stream.com/nationrocks.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="417666ea-ccc6-4006-b034-c195ba25b3a3" CUID="7583507" tvg-name="Nation Radio (Scotland)"  group-title="UK: RADIO",Nation Radio (Scotland)
+http://tx.sharp-stream.com/icecast.php?i=nationscotlandi.aac&&___cb=354499296267956
+#EXTINF:0 tvg-type=ignore tvg-id="b25d2e0b-3178-4b3d-910b-07048187d822" CUID="7583509" tvg-name="Nation Radio (South Coast Dorset)"  group-title="UK: RADIO",Nation Radio (South Coast Dorset)
+http://listen-nation.sharp-stream.com/nationdorsetdab.mp3?ref=RF
+#EXTINF:0 tvg-type=ignore tvg-id="0e52ff73-3118-4574-9e0e-59138e8ec95e" CUID="7583508" tvg-name="Nation Radio (South)"  group-title="UK: RADIO",Nation Radio (South)
+https://listen-nation.sharp-stream.com/nationhampshire.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c8e704c7-a0bb-44b7-a789-cfe4e41a30a9" CUID="7583510" tvg-name="Nation Radio (Suffolk)"  group-title="UK: RADIO",Nation Radio (Suffolk)
+https://listen-nation.sharp-stream.com/nationsuffolk.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="20262a04-9700-49cd-ba96-da4fb3b26eec" CUID="7583511" tvg-name="Nation Radio (UK)"  group-title="UK: RADIO",Nation Radio (UK)
+https://edge-ads-03-gos2.sharp-stream.com/thamesradio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="73e130f7-df6d-4020-9169-39f021883751" CUID="7583512" tvg-name="Nation Radio (Wales)"  group-title="UK: RADIO",Nation Radio (Wales)
+https://edge-ads-05-gos2.sharp-stream.com/tcnationi.aac
+#EXTINF:0 tvg-type=ignore tvg-id="4e4851dc-6b13-4a2e-96a3-45bf638c5af9" CUID="7583514" tvg-name="Nation's Easy Radio Wales"  group-title="UK: RADIO",Nation's Easy Radio Wales
+http://listen-nation.sharp-stream.com/tcbay.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="10cc75fe-9d8a-4336-a0bf-232c7107707f" CUID="7583495" tvg-name="Nation: 00s"  group-title="UK: RADIO",Nation: 00s
+http://listen-nation.sharp-stream.com/nationradio00s.aac?ref=RF
+#EXTINF:0 tvg-type=ignore tvg-id="ca21fe70-6069-45ab-9626-5923d0980c45" CUID="7583496" tvg-name="Nation: 60s"  group-title="UK: RADIO",Nation: 60s
+https://listen-nation.sharp-stream.com/nation60s.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="da3357e1-443b-41ac-b438-da6ed56d4b32" CUID="7583497" tvg-name="Nation: 80s"  group-title="UK: RADIO",Nation: 80s
+http://listen-nation.sharp-stream.com/nationradio80s.aac
+#EXTINF:0 tvg-type=ignore tvg-id="febb0fe1-0140-4bfe-9b3a-65b2f21f7aef" CUID="7583498" tvg-name="Nation: 90s"  group-title="UK: RADIO",Nation: 90s
+http://listen-nation.sharp-stream.com/nationradio90s.aac
+#EXTINF:0 tvg-type=ignore tvg-id="bba645b7-5a04-4d11-b348-77ef8dc10775" CUID="7583499" tvg-name="Nation: Classic Hits"  group-title="UK: RADIO",Nation: Classic Hits
+https://listen-nation.sharp-stream.com/nationparty.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="2ad0e4fd-e4d7-43de-b8f7-ce51f8eeec0e" CUID="7583500" tvg-name="Nation: Love"  group-title="UK: RADIO",Nation: Love
+http://listen-nation.sharp-stream.com/lovenation.aac?ref=RF
+#EXTINF:0 tvg-type=ignore tvg-id="2ad0e4fd-e4d7-43de-b8f7-ce51f8eeec0e" CUID="7583504" tvg-name="Nation: Love"  group-title="UK: RADIO",Nation: Love
+https://listen-nation.sharp-stream.com/lovenation.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="d093240e-2d14-42d4-b663-44620b9a3228" CUID="7583513" tvg-name="Nation: Xmas"  group-title="UK: RADIO",Nation: Xmas
+https://listen-nation.sharp-stream.com/nationxmas.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6a5a1b81-2ae1-4338-a189-4b1738714da1" CUID="7583515" tvg-name="Nations Easy Radio South UK"  group-title="UK: RADIO",Nations Easy Radio South UK
+http://listen-nation.sharp-stream.com/breeze_soton.mp3?direct=false&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+#EXTINF:0 tvg-type=ignore tvg-id="259d4a95-9881-448e-94a4-33e91cae0dc6" CUID="7583516" tvg-name="New KizzFM UK 90.9"  group-title="UK: RADIO",New KizzFM UK 90.9
+https://azura.kizzfmuk90-9.com/listen/kizzfmuk/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="afdf3de9-2ff1-47ea-98ac-1b002a4b1d61" CUID="7583517" tvg-name="New Life Radio UK"  group-title="UK: RADIO",New Life Radio UK
+http://newliferadiouk.ice.infomaniak.ch/newliferadiouk-64.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="16a0312a-bd6a-4e84-9c63-40084f710788" CUID="7583518" tvg-name="Newcastle Live Radio"  group-title="UK: RADIO",Newcastle Live Radio
+https://stream.radio.co/s5b0496933/listen
+#EXTINF:0 tvg-type=ignore tvg-id="f172ddad-0873-4259-a813-3ac47a7e684d" CUID="7583519" tvg-name="Newport City Radio"  group-title="UK: RADIO",Newport City Radio
+http://stream3.themediasite.co.uk/stream/newportcityradio
+#EXTINF:0 tvg-type=ignore tvg-id="5ce59563-f71c-48fb-9912-9f75b1f78944" CUID="7583520" tvg-name="Newstalk Ireland"  group-title="UK: RADIO",Newstalk Ireland
+https://live-bauerie.sharp-stream.com/NTAAC
+#EXTINF:0 tvg-type=ignore tvg-id="8891e92a-311c-4b54-8da5-c47702deb471" CUID="7583521" tvg-name="Nifty UK Radio"  group-title="UK: RADIO",Nifty UK Radio
+https://edge.clrmedia.co.uk/niftyuksecure
+#EXTINF:0 tvg-type=ignore tvg-id="7e8e4351-4866-4e1f-9a1f-ed6a2f44c8a1" CUID="7583522" tvg-name="Night Fever Radio UK"  group-title="UK: RADIO",Night Fever Radio UK
+https://servidor27.brlogic.com:7270/live
+#EXTINF:0 tvg-type=ignore tvg-id="4e3d9b9b-56bf-4174-884a-c64aba8987b2" CUID="7583523" tvg-name="North Cotswold Community Radio"  group-title="UK: RADIO",North Cotswold Community Radio
+https://streamingv2.shoutcast.com/nccr?ver=954702
+#EXTINF:0 tvg-type=ignore tvg-id="e8d641ad-0f8a-437f-9c16-cbc5e890be20" CUID="7583524" tvg-name="North Derbyshire Radio"  group-title="UK: RADIO",North Derbyshire Radio
+http://s5.themediasite.co.uk:8064/stream%22
+#EXTINF:0 tvg-type=ignore tvg-id="b44c3fe3-ac81-40d4-ac44-a4650f9e17db" CUID="7583525" tvg-name="North Manchester FM"  group-title="UK: RADIO",North Manchester FM
+https://radio.canstream.co.uk:8061/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6aba21d8-9900-4d2c-8d63-9d908038f3b1" CUID="7583526" tvg-name="Ocean FM Sligo"  group-title="UK: RADIO",Ocean FM Sligo
+https://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_SLIGO.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="caf9e579-f3a8-48e8-925a-94ece1ae5683" CUID="7583527" tvg-name="Oldskool UK"  group-title="UK: RADIO",Oldskool UK
+https://usa10.fastcast4u.com:8880/;
+#EXTINF:0 tvg-type=ignore tvg-id="1bfe5492-66ca-4e9d-a1ee-ffbdf7136bb2" CUID="7583528" tvg-name="Original 106"  group-title="UK: RADIO",Original 106
+https://listen-original.sharp-stream.com/original106.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="b77cf2d2-e2d7-4ccd-b948-6c30b018807f" CUID="7583529" tvg-name="PA Planchar London"  group-title="UK: RADIO",PA Planchar London
+https://stream.zeno.fm/kiadbzyef6svv
+#EXTINF:0 tvg-type=ignore tvg-id="87d01752-bf4b-4c1e-81c1-c65ef4a410f5" CUID="7583530" tvg-name="Paisley Radio"  group-title="UK: RADIO",Paisley Radio
+https://s3.radio.co/s9d3c6b911/listen
+#EXTINF:0 tvg-type=ignore tvg-id="d637f2df-ce60-433d-ae46-6e322b574e79" CUID="7583531" tvg-name="Panjab Radio UK"  group-title="UK: RADIO",Panjab Radio UK
+http://s1.voscast.com:7918/;
+#EXTINF:0 tvg-type=ignore tvg-id="d53f6b46-bdfd-4cc8-bd0f-1156580e1213" CUID="7583532" tvg-name="Peoples Choice Radio (Birmingham)"  group-title="UK: RADIO",Peoples Choice Radio (Birmingham)
+http://stream.zeno.fm/2va3wsfqmkhvv
+#EXTINF:0 tvg-type=ignore tvg-id="d2481b02-9a52-4aec-957f-2ff88e82cc78" CUID="7583533" tvg-name="Peterborough Youth Radio"  group-title="UK: RADIO",Peterborough Youth Radio
+http://eu1.fastcast4u.com:2596/
+#EXTINF:0 tvg-type=ignore tvg-id="624ffe83-9c1d-470f-8dc3-87aed36358f9" CUID="7583534" tvg-name="Phantom Radio Ireland"  group-title="UK: RADIO",Phantom Radio Ireland
+https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206
+#EXTINF:0 tvg-type=ignore tvg-id="52c7c28c-93de-4b77-a0f1-a92386032416" CUID="7583535" tvg-name="Phoenix Radio Wales"  group-title="UK: RADIO",Phoenix Radio Wales
+https://listen.radioking.com/radio/432101/stream/485900
+#EXTINF:0 tvg-type=ignore tvg-id="56c1a79b-16b3-45f3-8bd4-a0c5e896ec1b" CUID="7583536" tvg-name="Planet Radio"  group-title="UK: RADIO",Planet Radio
+https://media.planetradio.ie/radio/8000/ACC
+#EXTINF:0 tvg-type=ignore tvg-id="30f4f5e3-d388-497f-8d2e-803e1b2171b7" CUID="7583537" tvg-name="Planet Rock"  group-title="UK: RADIO",Planet Rock
+https://stream-mz.hellorayo.co.uk/planetrock.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933
+#EXTINF:0 tvg-type=ignore tvg-id="14944818-a6ed-4797-86bf-07b7a0d736b5" CUID="7583538" tvg-name="Platinum Radio London"  group-title="UK: RADIO",Platinum Radio London
+https://s4.radio.co/sb82ac17db/listen
+#EXTINF:0 tvg-type=ignore tvg-id="f1ca2aa7-6122-4b23-a65f-a2c860202f8d" CUID="7583539" tvg-name="PlayFm Dublin"  group-title="UK: RADIO",PlayFm Dublin
+https://stream.playfmdublin.com/radio192.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="dc348650-bcbb-41c8-900f-f0681dffed35" CUID="7583540" tvg-name="Polish Radio London"  group-title="UK: RADIO",Polish Radio London
+https://stream.rcs.revma.com/prfmwmwy768uv
+#EXTINF:0 tvg-type=ignore tvg-id="952c9e24-6d23-48cc-92dd-e6be2ead6be4" CUID="7583541" tvg-name="Pop Radio UK"  group-title="UK: RADIO",Pop Radio UK
+https://popradiouk.out.airtime.pro/popradiouk_b
+#EXTINF:0 tvg-type=ignore tvg-id="d3f4d277-b600-4158-aba2-15377a61640f" CUID="7583542" tvg-name="Positively Sound Bath"  group-title="UK: RADIO",Positively Sound Bath
+https://streaming.positivity.radio/pr/posisoundbath/icecast.audio
+#EXTINF:0 tvg-type=ignore tvg-id="cfc5a222-eea0-4763-8fc1-1ed6d136c9cc" CUID="7583543" tvg-name="PowerFM Dublin"  group-title="UK: RADIO",PowerFM Dublin
+https://www.powerfm.org:8443/powerfm.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c0084242-a2c3-4f77-a1af-5da86ad190b1" CUID="7583544" tvg-name="Prince Bishops Hospital Radio"  group-title="UK: RADIO",Prince Bishops Hospital Radio
+https://pbhr.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="78c53d1c-98d8-4843-8032-7a68bbc086b6" CUID="7583545" tvg-name="PsyMusic UK - PieStream"  group-title="UK: RADIO",PsyMusic UK - PieStream
+http://radio.psymusic.co.uk:8050/hifi.mp3?
+#EXTINF:0 tvg-type=ignore tvg-id="eb507027-6935-4c72-8002-e4460f8e156c" CUID="7583546" tvg-name="PsyMusic UK - PsyStream"  group-title="UK: RADIO",PsyMusic UK - PsyStream
+https://radio.psymusic.co.uk/radio/8040/radio1_192k.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="4ed3a49a-432f-45ec-8b8f-8df7001ea5f7" CUID="7583547" tvg-name="PulsRadio UK Hits"  group-title="UK: RADIO",PulsRadio UK Hits
+https://str3.openstream.co/2143
+#EXTINF:0 tvg-type=ignore tvg-id="490ba365-653c-4843-8bfe-a1ee91456627" CUID="7583548" tvg-name="Pure FM UK"  group-title="UK: RADIO",Pure FM UK
+http://phoebe.streamerr.co:1140/stream
+#EXTINF:0 tvg-type=ignore tvg-id="66beae79-98e9-4429-a5ec-08fac78184a7" CUID="7583549" tvg-name="Pure Radio Scotland"  group-title="UK: RADIO",Pure Radio Scotland
+https://listen-pureradio.sharp-stream.com/pure_radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="337d2f2d-dcbe-4e01-baeb-76195fefed6b" CUID="7583550" tvg-name="Pure Radio UK"  group-title="UK: RADIO",Pure Radio UK
+https://kathy.torontocast.com:4825/stream
+#EXTINF:0 tvg-type=ignore tvg-id="af51ac6e-2904-4f06-bada-b6b66f1b4224" CUID="7583551" tvg-name="Q Mid Ulster 106"  group-title="UK: RADIO",Q Mid Ulster 106
+https://edge-audio-03-gos2.sharp-stream.com/qr1060.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6c740351-4c5d-4671-bb4c-26b44ac30152" CUID="7583552" tvg-name="Q Radio (Antrim)"  group-title="UK: RADIO",Q Radio (Antrim)
+http://edge-audio-03-gos2.sharp-stream.com/qr1070.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="b3ed0a17-4d79-444d-ac3c-7911e0a4abda" CUID="7583553" tvg-name="Q Radio (Belfast)"  group-title="UK: RADIO",Q Radio (Belfast)
+http://edge-audio-02-gos1.sharp-stream.com/qr967.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6f73eb66-bce6-4b32-961e-6366660e63be" CUID="7583554" tvg-name="Q Radio (Mid Antrim)"  group-title="UK: RADIO",Q Radio (Mid Antrim)
+http://edge-audio-02-gos1.sharp-stream.com/qr1070.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="41882250-29dd-4886-bbb5-be77c1b2c7d7" CUID="7583555" tvg-name="Q Radio (Mid Ulster)"  group-title="UK: RADIO",Q Radio (Mid Ulster)
+http://edge-audio-02-gos1.sharp-stream.com/qr1060.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="1fce7e1d-5489-4ff9-8676-f8f5cadc494e" CUID="7583556" tvg-name="Q Radio (Newry & Mourne)"  group-title="UK: RADIO",Q Radio (Newry & Mourne)
+http://icy-e-03-boh.sharp-stream.com/qr1005.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="03d4f0c0-36bc-47ce-b659-686760cb8bb9" CUID="7583557" tvg-name="Q Radio (North West)"  group-title="UK: RADIO",Q Radio (North West)
+http://edge-audio-01-cr.sharp-stream.com/qr1029.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="957e4a4a-8bc0-4c30-9e09-dd10324e40c1" CUID="7583558" tvg-name="Q Radio (Tyrone & Fermanagh)"  group-title="UK: RADIO",Q Radio (Tyrone & Fermanagh)
+http://icy-e-03-boh.sharp-stream.com/qr1012.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c8dde5fc-8e8b-449b-9ba2-f01bfb58ac27" CUID="7583559" tvg-name="Q Radio (Tyrone and Fermanagh)"  group-title="UK: RADIO",Q Radio (Tyrone and Fermanagh)
+http://edge-audio-02-gos1.sharp-stream.com/qr1012.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="67381a71-1daf-46ea-968d-c684018248d1" CUID="7583560" tvg-name="QMR London"  group-title="UK: RADIO",QMR London
+https://play10.tikast.com/proxy/qualitymusic?mp=/1/stream
+#EXTINF:0 tvg-type=ignore tvg-id="df8b17e4-138f-4397-849b-070416bcb18e" CUID="7583561" tvg-name="Radio 16 Newcastle"  group-title="UK: RADIO",Radio 16 Newcastle
+http://www.theradio.eu:9000/radio16.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="357b599e-e388-4e5f-aedb-b5fe1f8a3ab5" CUID="7583562" tvg-name="Radio Brent"  group-title="UK: RADIO",Radio Brent
+https://patmos.cdnstream.com/proxy/radiobr3/?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="90d6986c-035a-47c1-a5b5-a6f27536dc66" CUID="7583563" tvg-name="Radio Bristol"  group-title="UK: RADIO",Radio Bristol
+http://bocm.streamguys1.com/wbcm.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="d4fb9d8b-9f96-4d7f-a9ed-e650d97591c9" CUID="7583564" tvg-name="Radio Cardiff"  group-title="UK: RADIO",Radio Cardiff
+https://radiocardiff.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="36a591f4-6751-4173-b243-45eb9f812bcc" CUID="7583565" tvg-name="Radio Carmarthenshire"  group-title="UK: RADIO",Radio Carmarthenshire
+https://listen-nation.sharp-stream.com/tccarmarthenshire.aac
+#EXTINF:0 tvg-type=ignore tvg-id="3ce6202f-f15f-4133-a5ca-4dc506470fab" CUID="7583566" tvg-name="Radio Caroline UK"  group-title="UK: RADIO",Radio Caroline UK
+https://stream.radiocaroline.net/rc128/;
+#EXTINF:0 tvg-type=ignore tvg-id="d28228c8-12e1-417b-8a39-74c2d232af2f" CUID="7583567" tvg-name="Radio Chelsea and Westminster"  group-title="UK: RADIO",Radio Chelsea and Westminster
+https://m1rebsd5.r.eu-west-1.awstrack.me/L0/https:%2F%2Fstream1.hippynet.co.uk%2Fstream%2Fradiochelwest/1/0102018f2a8c27a0-cc946853-9abb-4cd8-af5e-3990b815600e-000000/CKOQvt8DIhoZUyrS8cinRY22jYc=371
+#EXTINF:0 tvg-type=ignore tvg-id="eb90a500-2a88-457c-853d-341058594b05" CUID="7583568" tvg-name="Radio Country UK"  group-title="UK: RADIO",Radio Country UK
+https://ctrl.radio-connected.co.uk/listen/radio_country/radio.mp3/;
+#EXTINF:0 tvg-type=ignore tvg-id="54503153-4421-420b-8bb4-395dc3864942" CUID="7583569" tvg-name="Radio Emigrantes em uk"  group-title="UK: RADIO",Radio Emigrantes em uk
+http://sp0.redeaudio.com:9868/stream/;
+#EXTINF:0 tvg-type=ignore tvg-id="f547ee7e-bf05-4224-8374-a6809605d0ac" CUID="7583570" tvg-name="Radio Essex"  group-title="UK: RADIO",Radio Essex
+https://stream.aiir.com/ujzy590c3stvv
+#EXTINF:0 tvg-type=ignore tvg-id="0f2bedbc-9cb9-4145-8a11-687fcd93b312" CUID="7583571" tvg-name="Radio Exe Devon"  group-title="UK: RADIO",Radio Exe Devon
+https://stream.rcs.revma.com/rkefvzqakm3vv
+#EXTINF:0 tvg-type=ignore tvg-id="8bc90f53-f8de-45a1-91cb-f40c8a60216d" CUID="7583572" tvg-name="Radio Fuego Latino London"  group-title="UK: RADIO",Radio Fuego Latino London
+https://radio15.servidorderadio.net/8002/stream/;
+#EXTINF:0 tvg-type=ignore tvg-id="083ffc2f-6d1b-4847-a3d8-36fa4219e86b" CUID="7583573" tvg-name="Radio General - Warrington Hospital Radio"  group-title="UK: RADIO",Radio General - Warrington Hospital Radio
+https://radiogeneral.radioca.st/;
+#EXTINF:0 tvg-type=ignore tvg-id="db7698e8-df55-4be1-b2a4-d5c0dd4a67b5" CUID="7583574" tvg-name="Radio Hartlepool"  group-title="UK: RADIO",Radio Hartlepool
+https://server.radiohartlepool.co.uk:8443/hartlepool-mp3
+#EXTINF:0 tvg-type=ignore tvg-id="304dd909-637b-4d8b-b475-00e644eb8219" CUID="7583575" tvg-name="Radio Kerry"  group-title="UK: RADIO",Radio Kerry
+https://edge.audioxi.com/KERRY
+#EXTINF:0 tvg-type=ignore tvg-id="d3f0fc02-1aee-4edb-b06d-36b061243337" CUID="7583576" tvg-name="Radio Lisburn Live"  group-title="UK: RADIO",Radio Lisburn Live
+https://ais-sa2.cdnstream1.com/2372_128.aac
+#EXTINF:0 tvg-type=ignore tvg-id="9c25ff30-1c39-4105-8b56-355fdec41d40" CUID="7583577" tvg-name="Radio liveIRELAND"  group-title="UK: RADIO",Radio liveIRELAND
+http://192.111.140.11:8058/;
+#EXTINF:0 tvg-type=ignore tvg-id="9f789ea0-0954-4038-a64b-ac6f5c02aacc" CUID="7583578" tvg-name="RADIO MARIA IRELAND"  group-title="UK: RADIO",RADIO MARIA IRELAND
+https://dreamsiteradiocp2.com/proxy/rmirlanda2
+#EXTINF:0 tvg-type=ignore tvg-id="b3b85e8c-80ce-4c32-8ece-39a6753761a8" CUID="7583579" tvg-name="Radio Neptune UK"  group-title="UK: RADIO",Radio Neptune UK
+https://streams.radio.co/sb2011eedc/listen
+#EXTINF:0 tvg-type=ignore tvg-id="6eb8d4e8-1a87-401a-94ba-1ae27d24c4f8" CUID="7583580" tvg-name="Radio Newark"  group-title="UK: RADIO",Radio Newark
+https://streamer.radionewark.com/
+#EXTINF:0 tvg-type=ignore tvg-id="2fcb3b10-751e-4700-91e9-ac5f2f1c6dfc" CUID="7583581" tvg-name="Radio Newquay"  group-title="UK: RADIO",Radio Newquay
+https://s46.myradiostream.com/8816/listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="44cde738-facd-4581-9985-2591348a9bee" CUID="7583582" tvg-name="Radio North Angus"  group-title="UK: RADIO",Radio North Angus
+https://uk3-vn.mixstream.net/8192/listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6a7bc110-b7b0-4cb5-9e9f-af12177df939" CUID="7583583" tvg-name="Radio Northsea UK"  group-title="UK: RADIO",Radio Northsea UK
+https://listentomystream.com:8008/;
+#EXTINF:0 tvg-type=ignore tvg-id="b7fad420-78fb-4ae4-92b3-73493e989497" CUID="7583584" tvg-name="Radio Northumberland"  group-title="UK: RADIO",Radio Northumberland
+https://northumberland.radioca.st/;
+#EXTINF:0 tvg-type=ignore tvg-id="000410fe-ed51-4da0-960f-540472113244" CUID="7583585" tvg-name="Radio Northwich"  group-title="UK: RADIO",Radio Northwich
+https://stream.radio.co/s98163f694/listen
+#EXTINF:0 tvg-type=ignore tvg-id="b4405a98-cfe3-4c6d-a382-58fbc680007b" CUID="7583586" tvg-name="Radio Pembrokeshire"  group-title="UK: RADIO",Radio Pembrokeshire
+https://listen-nation.sharp-stream.com/tcpembrokeshire.aac
+#EXTINF:0 tvg-type=ignore tvg-id="75483e67-c674-49ab-b57f-244a68ab62ce" CUID="7583587" tvg-name="Radio Plus Coventry 101.5FM"  group-title="UK: RADIO",Radio Plus Coventry 101.5FM
+https://stream.radioplus.org.uk/plus128kaac
+#EXTINF:0 tvg-type=ignore tvg-id="30dcfa73-5613-4309-8184-9b0473223e75" CUID="7583588" tvg-name="Radio POP UK"  group-title="UK: RADIO",Radio POP UK
+https://visual.shoutca.st:8076/stream
+#EXTINF:0 tvg-type=ignore tvg-id="ec1fdf72-fd7f-4acb-be65-0c9a3f0b64a1" CUID="7583589" tvg-name="Radio Preston Air"  group-title="UK: RADIO",Radio Preston Air
+https://www.radioking.com/play/prestonair/422581
+#EXTINF:0 tvg-type=ignore tvg-id="02bd046f-23c8-46ba-a9eb-84437d281790" CUID="7583590" tvg-name="Radio Roadhouse UK"  group-title="UK: RADIO",Radio Roadhouse UK
+https://stream.radiojar.com/q644msaan8tvv
+#EXTINF:0 tvg-type=ignore tvg-id="00e93c57-8ae0-4ced-aa90-c85f73f393f4" CUID="7583591" tvg-name="Radio Rock UK"  group-title="UK: RADIO",Radio Rock UK
+http://n05.radiojar.com/5exb2mtkunhvv
+#EXTINF:0 tvg-type=ignore tvg-id="b050461b-000f-426d-8d96-de58ae8a2536" CUID="7583592" tvg-name="Radio Royal Bradford"  group-title="UK: RADIO",Radio Royal Bradford
+https://listen2.radioroyal.co.uk/live
+#EXTINF:0 tvg-type=ignore tvg-id="9b635770-66d2-45ca-a502-e7beac1ab266" CUID="7583593" tvg-name="Radio Scarborough"  group-title="UK: RADIO",Radio Scarborough
+https://s3.radio.co/s201b7a9d0/listen
+#EXTINF:0 tvg-type=ignore tvg-id="4a9f36a5-d59c-4a5d-bb2b-fd15e95536ab" CUID="7583594" tvg-name="Radio Seren North Wales"  group-title="UK: RADIO",Radio Seren North Wales
+https://s6.citrus3.com/stream/radioseren
+#EXTINF:0 tvg-type=ignore tvg-id="2eb04fcf-eba9-44f7-a367-1e1a06ae82d5" CUID="7583595" tvg-name="Radio Skye"  group-title="UK: RADIO",Radio Skye
+http://comet.shoutca.st:8338/live
+#EXTINF:0 tvg-type=ignore tvg-id="7b819a77-316d-4575-8e85-55e209216f68" CUID="7583596" tvg-name="Radio Valerie Ireland"  group-title="UK: RADIO",Radio Valerie Ireland
+https://radiovalleri.radioca.st
+#EXTINF:0 tvg-type=ignore tvg-id="efb44fbc-d8cf-46e0-8ec2-c3564ef8261b" CUID="7583597" tvg-name="Radio Warrington"  group-title="UK: RADIO",Radio Warrington
+https://stream.rcs.revma.com/zfkwftp52wuvv
+#EXTINF:0 tvg-type=ignore tvg-id="81878a39-7022-44f2-ba70-a0f2a3bbfa96" CUID="7583598" tvg-name="Radio West Fife"  group-title="UK: RADIO",Radio West Fife
+https://stream4.themediasite.co.uk:8108/stream
+#EXTINF:0 tvg-type=ignore tvg-id="b8d928d7-236e-4e9f-82f5-b4c18ac218c9" CUID="7583599" tvg-name="Radio West Middlesex"  group-title="UK: RADIO",Radio West Middlesex
+https://uk6.internet-radio.com/proxy/radiowestmiddlesex?mp=/stream;
+#EXTINF:0 tvg-type=ignore tvg-id="589597b3-67d0-4637-bc05-f7a40cf0a3ea" CUID="7583600" tvg-name="Radio West Norfolk"  group-title="UK: RADIO",Radio West Norfolk
+https://securestreams6.autopo.st:2201/RWN
+#EXTINF:0 tvg-type=ignore tvg-id="45aa4f2e-a689-4216-851f-e0dce69ec4b1" CUID="7583601" tvg-name="Radio Wester Ross"  group-title="UK: RADIO",Radio Wester Ross
+https://stream.rcs.revma.com/96z3d1qs5bcwv
+#EXTINF:0 tvg-type=ignore tvg-id="2b2cc151-3b09-460a-91d9-c8becee3bbf3" CUID="7583602" tvg-name="Radio Wey"  group-title="UK: RADIO",Radio Wey
+http://streaming.techiserver.com:8000/radiowey128
+#EXTINF:0 tvg-type=ignore tvg-id="5faa7f30-d79a-4c3d-9813-f9757264925a" CUID="7583603" tvg-name="Radio Wigwam"  group-title="UK: RADIO",Radio Wigwam
+https://streaming.broadcast.radio/radio-wigwam
+#EXTINF:0 tvg-type=ignore tvg-id="f2d6d16a-bb2e-49ed-b924-abb9ce65078a" CUID="7583604" tvg-name="Radio Wimborne"  group-title="UK: RADIO",Radio Wimborne
+https://radio.canstream.co.uk:8057/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="2a32d859-b70b-424f-a5ab-859b45dc7fab" CUID="7583605" tvg-name="Radio Woking"  group-title="UK: RADIO",Radio Woking
+http://hyades.shoutca.st:8034/stream
+#EXTINF:0 tvg-type=ignore tvg-id="2ce661eb-5cc5-4534-af68-e37958847790" CUID="7583610" tvg-name="Radio X (London)"  group-title="UK: RADIO",Radio X (London)
+http://media-the.musicradio.com/RadioXLondonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="d1b3fc6a-5f10-4fe1-b585-baa515e762ec" CUID="7583611" tvg-name="Radio X (Manchester)"  group-title="UK: RADIO",Radio X (Manchester)
+http://media-the.musicradio.com/RadioXManchester
+#EXTINF:0 tvg-type=ignore tvg-id="58ba0cae-9ed7-4657-87fd-0b3f563b06d8" CUID="7583612" tvg-name="Radio X (Scotland)"  group-title="UK: RADIO",Radio X (Scotland)
+https://media-ice.musicradio.com/RadioXLondonMP3?.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="ab693296-0ccc-43ef-9f79-a68df48c461e" CUID="7583613" tvg-name="Radio X (UK)"  group-title="UK: RADIO",Radio X (UK)
+https://media-ssl.musicradio.com/RadioXUKMP3
+#EXTINF:0 tvg-type=ignore tvg-id="9f7f305f-3429-43a3-ac15-3b0ab9a62351" CUID="7583606" tvg-name="Radio X: 00s"  group-title="UK: RADIO",Radio X: 00s
+https://media-ice.musicradio.com/RadioX00sMP3
+#EXTINF:0 tvg-type=ignore tvg-id="e95e824d-236b-4157-80d3-19648bf56028" CUID="7583607" tvg-name="Radio X: 90s"  group-title="UK: RADIO",Radio X: 90s
+https://media-ice.musicradio.com/RadioX90sMP3
+#EXTINF:0 tvg-type=ignore tvg-id="72011b53-1302-4c87-8c1b-bb827a1f8fe9" CUID="7583608" tvg-name="Radio X: Chilled"  group-title="UK: RADIO",Radio X: Chilled
+http://media-ice.musicradio.com/RadioXChilledMP3
+#EXTINF:0 tvg-type=ignore tvg-id="66ed40bf-8c65-474a-889d-0332d8ee2921" CUID="7583609" tvg-name="Radio X: Classic Rock"  group-title="UK: RADIO",Radio X: Classic Rock
+https://media-ice.musicradio.com/RadioXClassicRockMP3
+#EXTINF:0 tvg-type=ignore tvg-id="4505c560-8957-4ec7-9960-f3bbb10e548e" CUID="7583614" tvg-name="Radio Xtra UK"  group-title="UK: RADIO",Radio Xtra UK
+https://stream.rcs.revma.com/nye22yatz42vv
+#EXTINF:0 tvg-type=ignore tvg-id="cee79141-2a0e-4a36-87b6-62a4e0fd203a" CUID="7583615" tvg-name="Radio Zodiac - Dublin, Ireland"  group-title="UK: RADIO",Radio Zodiac - Dublin, Ireland
+https://listen.radioking.com/radio/124966/stream/164656
+#EXTINF:0 tvg-type=ignore tvg-id="c1af8d4e-afbc-41d4-8cb2-58d03d43aafa" CUID="7583616" tvg-name="Rainbow Radio UK"  group-title="UK: RADIO",Rainbow Radio UK
+http://usa6.fastcast4u.com:5374/
+#EXTINF:0 tvg-type=ignore tvg-id="81b41820-c08b-48bc-b4bc-cc406ff94288" CUID="7583617" tvg-name="Ramadan Radio Leicester"  group-title="UK: RADIO",Ramadan Radio Leicester
+https://streams.radio.co/s184506ded/listen
+#EXTINF:0 tvg-type=ignore tvg-id="33a34056-51ad-4506-8608-e417135fd815" CUID="7583618" tvg-name="React Radio Uk"  group-title="UK: RADIO",React Radio Uk
+http://eu6.fastcast4u.com:5308/;
+#EXTINF:0 tvg-type=ignore tvg-id="8727a32c-cf29-4a07-ab4c-d60367692cf1" CUID="7583620" tvg-name="Real Radio (Ireland)"  group-title="UK: RADIO",Real Radio (Ireland)
+http://stream.zeno.fm/6g19fr9psnhvv
+#EXTINF:0 tvg-type=ignore tvg-id="6d321997-75ad-43d8-b7f2-31e427550f8a" CUID="7583619" tvg-name="Real Radio (Yorkshire)"  group-title="UK: RADIO",Real Radio (Yorkshire)
+https://media-ice.musicradio.com/HeartYorkshireMP3?.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="0fdf5c98-cd55-4479-b3e3-e34eca3f98a1" CUID="7583621" tvg-name="Redrock Radio Carlow"  group-title="UK: RADIO",Redrock Radio Carlow
+https://stream.zeno.fm/6wkae5vugtzuv
+#EXTINF:0 tvg-type=ignore tvg-id="0469c1f5-3c97-4167-ac24-0b2805dd3d1a" CUID="7583622" tvg-name="Reiver FM (Scottish Borders)"  group-title="UK: RADIO",Reiver FM (Scottish Borders)
+https://s10.myradiostream.com/35820/listen.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="041a6f55-8c34-4414-ba3d-e984b597c633" CUID="7583623" tvg-name="Resonance FM 104.4 (London)"  group-title="UK: RADIO",Resonance FM 104.4 (London)
+http://stream.resonance.fm:8000/resonance
+#EXTINF:0 tvg-type=ignore tvg-id="2c3962d5-d0e5-401b-90b1-4f8c9dc65ebe" CUID="7583624" tvg-name="Retro Radio Ireland"  group-title="UK: RADIO",Retro Radio Ireland
+https://kissfmdublin.radioca.st/
+#EXTINF:0 tvg-type=ignore tvg-id="c013bbb1-bf67-423d-95c7-6dc83e8874ee" CUID="7583625" tvg-name="Retro Soul Radio London"  group-title="UK: RADIO",Retro Soul Radio London
+https://stream.galaxywebsolutions.com/proxy/retrosoul?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="321d01a0-a948-482c-9467-9cba457853ba" CUID="7583626" tvg-name="Retrosounds Classic Hits Radio UK"  group-title="UK: RADIO",Retrosounds Classic Hits Radio UK
+http://hello.citrus3.com:8566/stream
+#EXTINF:0 tvg-type=ignore tvg-id="6bfdae2f-21a4-4685-9a22-a127620cd981" CUID="7583627" tvg-name="Reverse FM UK"  group-title="UK: RADIO",Reverse FM UK
+https://streaming.live365.com/a20311
+#EXTINF:0 tvg-type=ignore tvg-id="9df508d0-3b44-46b8-9f46-d0ad27d52de4" CUID="7583628" tvg-name="Rewind Radio Cornwall"  group-title="UK: RADIO",Rewind Radio Cornwall
+https://s4.radio.co/s2eaa194f6/listen
+#EXTINF:0 tvg-type=ignore tvg-id="2c6685e6-d8ae-4de4-b98f-9dc4f49c85bf" CUID="7583629" tvg-name="Rinse UK"  group-title="UK: RADIO",Rinse UK
+https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+#EXTINF:0 tvg-type=ignore tvg-id="ae21d73f-a669-4667-be13-472b4bffd717" CUID="7583630" tvg-name="Rotary Radio UK"  group-title="UK: RADIO",Rotary Radio UK
+https://rotraduk.radioca.st/mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6b0bd7f2-669b-4966-9f25-a7d2f51b4cf5" CUID="7583631" tvg-name="Rotherham Radio"  group-title="UK: RADIO",Rotherham Radio
+https://stream3.themediasite.co.uk:8004/stream
+#EXTINF:0 tvg-type=ignore tvg-id="0af76ad8-b2a6-46d3-960e-e14e42c5cb65" CUID="7583632" tvg-name="RTE 2 FM"  group-title="UK: RADIO",RTE 2 FM
+https://icecast.rte.ie/2fm
+#EXTINF:0 tvg-type=ignore tvg-id="03764984-233f-4196-9591-e50a9067b4f3" CUID="7583633" tvg-name="RTE Gold"  group-title="UK: RADIO",RTE Gold
+https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8
+#EXTINF:0 tvg-type=ignore tvg-id="360d49fb-b5bb-40c9-b784-4a1aa0718c3d" CUID="7583634" tvg-name="RTE Lyric FM"  group-title="UK: RADIO",RTE Lyric FM
+http://icecast.rte.ie/lyric
+#EXTINF:0 tvg-type=ignore tvg-id="c7aa0dac-31b5-4731-8339-337c1417963d" CUID="7583635" tvg-name="RTE Pulse"  group-title="UK: RADIO",RTE Pulse
+https://liveaudio.rte.ie/hls-radio/pulse/chunklist.m3u8
+#EXTINF:0 tvg-type=ignore tvg-id="3c9e0e36-44f5-4dbc-a8ac-144c17fac9f0" CUID="7583636" tvg-name="RTE Radio 1"  group-title="UK: RADIO",RTE Radio 1
+http://icecast.rte.ie/ieradio1
+#EXTINF:0 tvg-type=ignore tvg-id="d9a1d2c5-43f9-425e-93eb-eafd81efc0f9" CUID="7583637" tvg-name="RTE Radio 1 Extra"  group-title="UK: RADIO",RTE Radio 1 Extra
+https://liveaudio.rte.ie/hls-radio/radio1extra/chunklist.m3u8
+#EXTINF:0 tvg-type=ignore tvg-id="612da2dc-1e05-4a68-b8d8-3977b97f4ba0" CUID="7583638" tvg-name="Rutland and Stamford Sound"  group-title="UK: RADIO",Rutland and Stamford Sound
+https://stream.aiir.com/lqeblzjduoduv
+#EXTINF:0 tvg-type=ignore tvg-id="33fb510b-2015-4277-bc5a-ea2bef768212" CUID="7583639" tvg-name="Sahara Radio UK"  group-title="UK: RADIO",Sahara Radio UK
+http://stream.zeno.fm/1f4pjrk4swnuv
+#EXTINF:0 tvg-type=ignore tvg-id="73f2eb4d-9296-4926-a43b-576f83a3073a" CUID="7583640" tvg-name="Salford City Radio"  group-title="UK: RADIO",Salford City Radio
+http://radio.canstream.co.uk:8154/live.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="dc0e3118-26e4-4636-a5b4-f6a7126cd310" CUID="7583641" tvg-name="Salisbury Radio"  group-title="UK: RADIO",Salisbury Radio
+https://securestreams6.autopo.st:2139/stream.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="c2566b55-691e-4f6d-8efd-aea37b9a41a8" CUID="7583642" tvg-name="Salt FM UK"  group-title="UK: RADIO",Salt FM UK
+http://phoebe.streamerr.co:3030/stream
+#EXTINF:0 tvg-type=ignore tvg-id="b0593ced-0005-4d78-8156-ef89f44fad9e" CUID="7583643" tvg-name="SAM FM Hampshire"  group-title="UK: RADIO",SAM FM Hampshire
+https://listen-nation.sharp-stream.com/samfmhampshire.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="5ac83f76-c59c-4dde-9dc2-c7b70bd61e6a" CUID="7583644" tvg-name="Scariff Bay Community Radio"  group-title="UK: RADIO",Scariff Bay Community Radio
+https://s4.radio.co/s87ac5cf5a/listen
+#EXTINF:0 tvg-type=ignore tvg-id="845a12e0-f362-4876-ad40-138301fad355" CUID="7583645" tvg-name="Scottish Highlands Radio"  group-title="UK: RADIO",Scottish Highlands Radio
+https://stream.zeno.fm/a6ch8s4et0hvv
+#EXTINF:0 tvg-type=ignore tvg-id="276f61d9-af4d-4cf1-8edd-ca1cc5cb5805" CUID="7583646" tvg-name="Seahaven FM - Eastbourne"  group-title="UK: RADIO",Seahaven FM - Eastbourne
+https://stream4.hippynet.co.uk:8002/stream?_=201701
+#EXTINF:0 tvg-type=ignore tvg-id="276e1cba-d149-4951-b4e5-f543d70422f5" CUID="7583647" tvg-name="SF Radio UK"  group-title="UK: RADIO",SF Radio UK
+http://135.181.213.240:8029/autodj
+#EXTINF:0 tvg-type=ignore tvg-id="2008bfd6-aa56-418f-9ecd-e299f394539b" CUID="7583648" tvg-name="Shalom Stereo UK"  group-title="UK: RADIO",Shalom Stereo UK
+https://stream.zeno.fm/xrlmqsvfjxcvv
+#EXTINF:0 tvg-type=ignore tvg-id="5e29589f-5397-414c-911a-c57ef0ef8014" CUID="7583649" tvg-name="Sheffield Live!"  group-title="UK: RADIO",Sheffield Live!
+http://live.sheffieldlive.org:8000/shefflive.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6c326f27-e015-4491-9873-964b5e9e6407" CUID="7583650" tvg-name="Shetland Islands Broadcasting Company (SIBC) 96.2 & 102.2"  group-title="UK: RADIO",Shetland Islands Broadcasting Company (SIBC) 96.2 & 102.2
+http://tx9.zetcast.net:8100/stream
+#EXTINF:0 tvg-type=ignore tvg-id="50a19ff5-4d35-425e-8f02-92eac06208b7" CUID="7583651" tvg-name="Signal Mix Radio UK"  group-title="UK: RADIO",Signal Mix Radio UK
+http://a8.asurahosting.com:7410/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="bd50f2c9-712c-4c88-806f-6b9329d33bd4" CUID="7583652" tvg-name="Signature Radio UK"  group-title="UK: RADIO",Signature Radio UK
+https://centova87.shoutcastservices.com/proxy/reid/stream
+#EXTINF:0 tvg-type=ignore tvg-id="bd8b743b-ef3f-4cfb-9094-be0d6361dfde" CUID="7583653" tvg-name="Sky News Radio"  group-title="UK: RADIO",Sky News Radio
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="f3d94a27-f2e6-4a2e-80de-c3c575ff8b38" CUID="7583654" tvg-name="Slam Radio UK"  group-title="UK: RADIO",Slam Radio UK
+http://s6.myradiostream.com:49724/;
+#EXTINF:0 tvg-type=ignore tvg-id="7612ec7c-faa3-4f81-99c6-f43d591fc58a" CUID="7583657" tvg-name="Smooth (Berkshire and North Hampshire)"  group-title="UK: RADIO",Smooth (Berkshire and North Hampshire)
+https://media-ssl.musicradio.com/SmoothBerkshireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="dbace926-5dd8-4ce5-9f49-bebe6c443448" CUID="7583658" tvg-name="Smooth (Bristol and Bath)"  group-title="UK: RADIO",Smooth (Bristol and Bath)
+https://media-the.musicradio.com/SmoothBristolMP3
+#EXTINF:0 tvg-type=ignore tvg-id="dca86443-73ad-404c-89c7-9f702f76bba4" CUID="7583663" tvg-name="Smooth (Derbyshire)"  group-title="UK: RADIO",Smooth (Derbyshire)
+https://media-ssl.musicradio.com/SmoothDerby
+#EXTINF:0 tvg-type=ignore tvg-id="e93e48f1-c321-42e3-8e10-589f7d9c283b" CUID="7583664" tvg-name="Smooth (Devon)"  group-title="UK: RADIO",Smooth (Devon)
+https://media-ssl.musicradio.com/SmoothPlymouth
+#EXTINF:0 tvg-type=ignore tvg-id="a138d6f8-50b8-4c8c-a064-0fd07f4776cb" CUID="7583665" tvg-name="Smooth (Dorset and Hampshire)"  group-title="UK: RADIO",Smooth (Dorset and Hampshire)
+https://media-ssl.musicradio.com/SmoothHampshire
+#EXTINF:0 tvg-type=ignore tvg-id="016ad7a3-cc4a-46a5-b23e-68fa666e15a4" CUID="7583666" tvg-name="Smooth (East Midlands)"  group-title="UK: RADIO",Smooth (East Midlands)
+https://media-ice.musicradio.com/SmoothEastMidsMP3
+#EXTINF:0 tvg-type=ignore tvg-id="19d4b9e8-f7f0-4c35-aa79-9741b0e3536c" CUID="7583667" tvg-name="Smooth (Essex)"  group-title="UK: RADIO",Smooth (Essex)
+https://media-ssl.musicradio.com/SmoothEssex
+#EXTINF:0 tvg-type=ignore tvg-id="0798a7ff-0857-4367-8d3b-1e5d809b30a6" CUID="7583668" tvg-name="Smooth (Gloucester)"  group-title="UK: RADIO",Smooth (Gloucester)
+https://media-ssl.musicradio.com/SmoothGloucester
+#EXTINF:0 tvg-type=ignore tvg-id="7596abe1-a7e1-4640-b684-07ddc028180d" CUID="7583669" tvg-name="Smooth (Grooving Radio)"  group-title="UK: RADIO",Smooth (Grooving Radio)
+https://sgr.lucasmultimedia.com/stream.ogg
+#EXTINF:0 tvg-type=ignore tvg-id="beb3207d-c3ea-47b8-aaa9-33da1781342f" CUID="7583670" tvg-name="Smooth (Hampshire)"  group-title="UK: RADIO",Smooth (Hampshire)
+http://media-ice.musicradio.com/SmoothHampshireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="b9981345-d162-4d1a-91ff-b40c337124f3" CUID="7583671" tvg-name="Smooth (Herts, Beds and Bucks)"  group-title="UK: RADIO",Smooth (Herts, Beds and Bucks)
+https://media-ssl.musicradio.com/SmoothHerts
+#EXTINF:0 tvg-type=ignore tvg-id="73c0ff61-913b-4a43-b06b-a74e3354d6e5" CUID="7583672" tvg-name="Smooth (Kent)"  group-title="UK: RADIO",Smooth (Kent)
+https://media-ssl.musicradio.com/SmoothKent
+#EXTINF:0 tvg-type=ignore tvg-id="e4902dc4-73ca-4344-a3e8-effa2ed6ea56" CUID="7583673" tvg-name="Smooth (Lake District)"  group-title="UK: RADIO",Smooth (Lake District)
+https://media-ssl.musicradio.com/SmoothLakeDistrict
+#EXTINF:0 tvg-type=ignore tvg-id="dafb6e5a-9d5c-4075-9d4b-f6b074884d11" CUID="7583674" tvg-name="Smooth (London)"  group-title="UK: RADIO",Smooth (London)
+https://media-ice.musicradio.com/SmoothLondonMP3
+#EXTINF:0 tvg-type=ignore tvg-id="fe515cb6-ae1c-45e6-af62-0c8ea527f207" CUID="7583675" tvg-name="Smooth (Norfolk)"  group-title="UK: RADIO",Smooth (Norfolk)
+https://media-ssl.musicradio.com/SmoothNorfolk
+#EXTINF:0 tvg-type=ignore tvg-id="0fe28508-69e6-442b-9d07-4bd1ef55f296" CUID="7583676" tvg-name="Smooth (North East)"  group-title="UK: RADIO",Smooth (North East)
+https://media-ssl.musicradio.com/SmoothNorthEastN
+#EXTINF:0 tvg-type=ignore tvg-id="9c364b0d-3b47-4f77-8bdb-67d456cd9fa2" CUID="7583677" tvg-name="Smooth (North Wales)"  group-title="UK: RADIO",Smooth (North Wales)
+https://media-ice.musicradio.com/SmoothNorthWalesMP3
+#EXTINF:0 tvg-type=ignore tvg-id="2c95dadc-7edc-47ae-ad5e-c4bba075d5ba" CUID="7583678" tvg-name="Smooth (North West)"  group-title="UK: RADIO",Smooth (North West)
+https://media-ssl.musicradio.com/SmoothNorthWest
+#EXTINF:0 tvg-type=ignore tvg-id="1daa150c-6cd3-4168-9fbc-7bd9b5754e7c" CUID="7583679" tvg-name="Smooth (Northamptonshire)"  group-title="UK: RADIO",Smooth (Northamptonshire)
+https://media-ssl.musicradio.com/SmoothNorthants
+#EXTINF:0 tvg-type=ignore tvg-id="d8c131b4-496a-46bf-b83e-49d167fb6096" CUID="7583680" tvg-name="Smooth (Plymouth)"  group-title="UK: RADIO",Smooth (Plymouth)
+https://media-ssl.musicradio.com/SmoothPlymouthMP3
+#EXTINF:0 tvg-type=ignore tvg-id="8a69d500-24a7-4edc-82c4-79e6c699d273" CUID="7583682" tvg-name="Smooth (Scotland)"  group-title="UK: RADIO",Smooth (Scotland)
+https://media-ice.musicradio.com/SmoothScotlandMP3
+#EXTINF:0 tvg-type=ignore tvg-id="3b4c0916-9ce3-4dad-be14-a9b15e09d4e7" CUID="7583684" tvg-name="Smooth (South Wales)"  group-title="UK: RADIO",Smooth (South Wales)
+https://media-ssl.musicradio.com/SmoothSouthWales
+#EXTINF:0 tvg-type=ignore tvg-id="57086e14-c7f2-4da5-8fe1-baee0ad0d9a8" CUID="7583685" tvg-name="Smooth (Suffolk)"  group-title="UK: RADIO",Smooth (Suffolk)
+https://media-ssl.musicradio.com/SmoothSuffolk
+#EXTINF:0 tvg-type=ignore tvg-id="d858e01d-17f5-496e-8e6a-b5a785cea557" CUID="7583686" tvg-name="Smooth (Sussex)"  group-title="UK: RADIO",Smooth (Sussex)
+http://media-ice.musicradio.com/SmoothSussexMP3
+#EXTINF:0 tvg-type=ignore tvg-id="ca5ed189-d091-452b-a5e8-5338ec5eb11d" CUID="7583687" tvg-name="Smooth (Thames Valley)"  group-title="UK: RADIO",Smooth (Thames Valley)
+https://media-ssl.musicradio.com/SmoothBerkshire
+#EXTINF:0 tvg-type=ignore tvg-id="8893aa4a-d823-480d-81a3-f0e0933b742f" CUID="7583688" tvg-name="Smooth (Tyne & Wear)"  group-title="UK: RADIO",Smooth (Tyne & Wear)
+https://media-ice.musicradio.com/SmoothNorthEastNMP3
+#EXTINF:0 tvg-type=ignore tvg-id="5fde0aae-2294-4bed-b041-b9b5267907d1" CUID="7583689" tvg-name="Smooth (UK)"  group-title="UK: RADIO",Smooth (UK)
+https://media-ssl.musicradio.com/SmoothUKMP3
+#EXTINF:0 tvg-type=ignore tvg-id="8206f3db-7e37-4486-a609-d6534df6dff0" CUID="7583690" tvg-name="Smooth (West Midlands)"  group-title="UK: RADIO",Smooth (West Midlands)
+https://media-ice.musicradio.com/SmoothWestMidsMP3
+#EXTINF:0 tvg-type=ignore tvg-id="6a673412-dc29-4985-8aa9-744622e506aa" CUID="7583691" tvg-name="Smooth (Wiltshire)"  group-title="UK: RADIO",Smooth (Wiltshire)
+https://media-the.musicradio.com/SmoothWiltshireMP3
+#EXTINF:0 tvg-type=ignore tvg-id="d6bd02f4-52ee-4254-8757-898e63ea4c33" CUID="7583655" tvg-name="Smooth: 70s"  group-title="UK: RADIO",Smooth: 70s
+https://media-ssl.musicradio.com/Smooth70s
+#EXTINF:0 tvg-type=ignore tvg-id="7fb8f028-de02-4bad-8b5d-952f02f2055f" CUID="7583656" tvg-name="Smooth: 80s"  group-title="UK: RADIO",Smooth: 80s
+https://media-ice.musicradio.com/Smooth80sMP3
+#EXTINF:0 tvg-type=ignore tvg-id="1b870423-003d-4750-9733-20932eb79f0b" CUID="7583659" tvg-name="Smooth: Chill"  group-title="UK: RADIO",Smooth: Chill
+https://media-ssl.musicradio.com/ChillMP3
+#EXTINF:0 tvg-type=ignore tvg-id="1597ffc0-ba0d-4d62-b7e6-cecab10fddc0" CUID="7583660" tvg-name="Smooth: Chill Focus"  group-title="UK: RADIO",Smooth: Chill Focus
+https://media-ssl.musicradio.com/SmoothChill-M-Concentration
+#EXTINF:0 tvg-type=ignore tvg-id="7e30d3cf-b72d-4c12-843a-b371b22001d4" CUID="7583661" tvg-name="Smooth: Christmas"  group-title="UK: RADIO",Smooth: Christmas
+https://media-ice.musicradio.com/SmoothXmasMP3
+#EXTINF:0 tvg-type=ignore tvg-id="d4c2d0ad-2241-4741-8335-5b5e9a03bfa6" CUID="7583662" tvg-name="Smooth: Country"  group-title="UK: RADIO",Smooth: Country
+https://media-ice.musicradio.com/SmoothCountryMP3
+#EXTINF:0 tvg-type=ignore tvg-id="916a75f1-7f26-403e-a94d-68085e9107b6" CUID="7583681" tvg-name="Smooth: Relax"  group-title="UK: RADIO",Smooth: Relax
+https://icecast.thisisdax.com/SmoothRelaxMP3
+#EXTINF:0 tvg-type=ignore tvg-id="cabfbcba-b281-49af-aef7-59e0a71287dc" CUID="7583683" tvg-name="Smooth: Soul"  group-title="UK: RADIO",Smooth: Soul
+https://media-ice.musicradio.com/SmoothSoulMP3
+#EXTINF:0 tvg-type=ignore tvg-id="62d2e8c3-9c52-467a-aebd-fcfac8ff839e" CUID="7583692" tvg-name="SOLID GOLD RADIO IRELAND"  group-title="UK: RADIO",SOLID GOLD RADIO IRELAND
+https://a1.asurahosting.com:10000/radio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="4a4fe5ed-d256-41f3-8482-f74d9e0ce0bb" CUID="7583693" tvg-name="Solid Gold Radio Ireland - Emerald Isle Radio"  group-title="UK: RADIO",Solid Gold Radio Ireland - Emerald Isle Radio
+https://a4.asurahosting.com/listen/emerald_isle_radio/radio.mp3/;
+#EXTINF:0 tvg-type=ignore tvg-id="7e34850f-9abd-44cc-928f-4da886514295" CUID="7583694" tvg-name="Solid Gold Radio Ireland - Smooth Gold Radio Ireland"  group-title="UK: RADIO",Solid Gold Radio Ireland - Smooth Gold Radio Ireland
+https://a4.asurahosting.com/listen/smooth_gold_hits_radio_ireland/radio.mp3/;
+#EXTINF:0 tvg-type=ignore tvg-id="890f7ace-0b52-48c4-a72e-fc60b5e7197c" CUID="7583695" tvg-name="Solid Gold Radio Ireland - Solid Gold 1"  group-title="UK: RADIO",Solid Gold Radio Ireland - Solid Gold 1
+http://a1.asurahosting.com:10000/radio.mp3/;
+#EXTINF:0 tvg-type=ignore tvg-id="3a30d898-f944-40a5-af11-aa9125e9bdfa" CUID="7583696" tvg-name="Solid Gold Radio Ireland - Solid Gold 2"  group-title="UK: RADIO",Solid Gold Radio Ireland - Solid Gold 2
+http://a4.asurahosting.com:6650/radio.mp3/;
+#EXTINF:0 tvg-type=ignore tvg-id="fe54dd4c-7ac9-4caa-a2da-5bb2b6a2cc3d" CUID="7583697" tvg-name="Somerset Radio Greatest Hits"  group-title="UK: RADIO",Somerset Radio Greatest Hits
+http://node-13.zeno.fm/gquhxnrq01zuv
+#EXTINF:0 tvg-type=ignore tvg-id="fcd88fdd-f9d3-404f-ad98-5ccf146297d7" CUID="7583698" tvg-name="Sound Radio Wales"  group-title="UK: RADIO",Sound Radio Wales
+https://listen.streamaudio.co/proxy/soundradiowales/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c40c1371-1090-4231-87bf-31170a175b01" CUID="7583699" tvg-name="Source FM 96.1  Falmouth"  group-title="UK: RADIO",Source FM 96.1  Falmouth
+http://live.canstream.co.uk:8000/sourcefm.mp3?.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="6492a534-b1e6-4517-91db-b93fef995378" CUID="7583700" tvg-name="Sout al Khaleej from London"  group-title="UK: RADIO",Sout al Khaleej from London
+https://icy-e-04.sharp-stream.com/spectrum4.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="124acbda-7bfd-4176-a874-42cbff2a5d37" CUID="7583701" tvg-name="South Coast Radio - Christmas UK"  group-title="UK: RADIO",South Coast Radio - Christmas UK
+http://s48.myradiostream.com:11756/;,https://s48.myradiostream.com/11756/listen.mp3/;
+#EXTINF:0 tvg-type=ignore tvg-id="7bb341ac-73d2-40fd-b8e2-ed8c5d153719" CUID="7583702" tvg-name="South Devon Radio"  group-title="UK: RADIO",South Devon Radio
+http://stream.cotswoldgrp.com:8012/sdr-dab
+#EXTINF:0 tvg-type=ignore tvg-id="3ff8569c-78d0-4610-bdf1-34f49e6a9bab" CUID="7583703" tvg-name="Southampton Hospital Radio"  group-title="UK: RADIO",Southampton Hospital Radio
+https://s6.autopo.st/proxy/shrinternet?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="25263fc1-0ed6-4e07-a322-2f8406d5d048" CUID="7583704" tvg-name="Southend Hospital Radio"  group-title="UK: RADIO",Southend Hospital Radio
+https://southendhr.radioca.st/stream
+#EXTINF:0 tvg-type=ignore tvg-id="95acfbcc-fafd-41c8-b697-58d944503dfa" CUID="7583705" tvg-name="SPARKS 108 FM London"  group-title="UK: RADIO",SPARKS 108 FM London
+https://servidor14.brlogic.com:7098/live
+#EXTINF:0 tvg-type=ignore tvg-id="e523255b-2300-43e5-ba5b-eddf312367d0" CUID="7583706" tvg-name="Spotlight on Lancaster"  group-title="UK: RADIO",Spotlight on Lancaster
+http://streaming.live365.com/a61451?player_id=streema
+#EXTINF:0 tvg-type=ignore tvg-id="2aa2140d-7295-4be2-bc40-91212036f44f" CUID="7583707" tvg-name="St. Ita's Hospital Radio"  group-title="UK: RADIO",St. Ita's Hospital Radio
+http://uk2.streamingpulse.com:8042/stream
+#EXTINF:0 tvg-type=ignore tvg-id="a353ef9c-3f01-43b6-80cb-185ff2135756" CUID="7583708" tvg-name="Stirling Community Radio"  group-title="UK: RADIO",Stirling Community Radio
+https://streaming.broadcastradio.com:11855/castlesound?8852
+#EXTINF:0 tvg-type=ignore tvg-id="d98fac18-2a97-4db7-9c73-3e416f5fbee9" CUID="7583709" tvg-name="Stirling FM Scotland"  group-title="UK: RADIO",Stirling FM Scotland
+https://streaming.live365.com/a16401
+#EXTINF:0 tvg-type=ignore tvg-id="9e27c495-a1b4-46a8-b038-029575288dea" CUID="7583710" tvg-name="Stoke Mandeville Hospital Radio"  group-title="UK: RADIO",Stoke Mandeville Hospital Radio
+https://ukwesta.streaming.broadcast.radio/stoke?1692976686054=
+#EXTINF:0 tvg-type=ignore tvg-id="201dd20b-3484-4f90-a062-44d2c9db8b68" CUID="7583711" tvg-name="Sunrise Radio"  group-title="UK: RADIO",Sunrise Radio
+https://direct.sharp-stream.com/sunriseradio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="2c1b9337-ebb1-4cdb-9d20-1087dbd404bd" CUID="7583712" tvg-name="Sunrise Radio (Yorkshire)"  group-title="UK: RADIO",Sunrise Radio (Yorkshire)
+http://stream1.themediasite.co.uk:8070/stream
+#EXTINF:0 tvg-type=ignore tvg-id="a41deee4-7d16-430a-9370-6c87d613c369" CUID="7583713" tvg-name="Sunshine FM Hereford"  group-title="UK: RADIO",Sunshine FM Hereford
+http://icecast.easystream.co.uk:8000/herefordFM
+#EXTINF:0 tvg-type=ignore tvg-id="47efcbce-ab1a-4f90-8519-aa987ec6c9ea" CUID="7583714" tvg-name="Sunshine Radio Monmouth"  group-title="UK: RADIO",Sunshine Radio Monmouth
+https://icecast.easystream.co.uk:8000/herefordFM
+#EXTINF:0 tvg-type=ignore tvg-id="0ad6e827-2dfb-48d7-97a8-9648177bc243" CUID="7583715" tvg-name="Surrey Hills Community Radio"  group-title="UK: RADIO",Surrey Hills Community Radio
+http://138.201.52.248:9035/stream
+#EXTINF:0 tvg-type=ignore tvg-id="9618e8ad-11f6-4ba7-b249-18b1d8309883" CUID="7583716" tvg-name="Swansea Bay Radio"  group-title="UK: RADIO",Swansea Bay Radio
+https://listen-nation.sharp-stream.com/tcbay.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="78002928-f5f0-477a-ae37-9726b3e569e0" CUID="7583717" tvg-name="Swindon 105.5"  group-title="UK: RADIO",Swindon 105.5
+https://streaming.broadcastradio.com:10695/swindon1055
+#EXTINF:0 tvg-type=ignore tvg-id="62d66d16-c22c-4366-84f9-6da94055a220" CUID="7583718" tvg-name="Swinging Radio (England)"  group-title="UK: RADIO",Swinging Radio (England)
+https://jenny.torontocast.com:9004/stream
+#EXTINF:0 tvg-type=ignore tvg-id="b80fc9f7-5da8-47d8-a1b0-7be211e7d7c5" CUID="7583719" tvg-name="Switch FM London"  group-title="UK: RADIO",Switch FM London
+https://stream.switchfm.co.uk/listen/switchfm/switchfm.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="f992563f-10ee-4e30-b19a-6b64b18d183f" CUID="7583720" tvg-name="Sword Radio UK"  group-title="UK: RADIO",Sword Radio UK
+https://carina.streamerr.co/stream/station2022
+#EXTINF:0 tvg-type=ignore tvg-id="a1fd865c-e137-49f8-b325-952de0f2da5f" CUID="7583721" tvg-name="Takeover UK"  group-title="UK: RADIO",Takeover UK
+https://listen.openstream.co/4802
+#EXTINF:0 tvg-type=ignore tvg-id="2bb78281-e79b-4136-a98b-8f42cbd05258" CUID="7583722" tvg-name="Talk Radio"  group-title="UK: RADIO",Talk Radio
+https://talk.live.stream.broadcasting.news/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c91989cc-62ae-44d4-b499-bdef2a2139c2" CUID="7583723" tvg-name="talkSPORT"  group-title="UK: RADIO",talkSPORT
+https://radio.talksport.com/stream
+#EXTINF:0 tvg-type=ignore tvg-id="1ff3bc17-b403-4bb6-86e1-1318d72c7aa0" CUID="7583724" tvg-name="talkSPORT 2"  group-title="UK: RADIO",talkSPORT 2
+https://radio.talksport.com/stream2
+#EXTINF:0 tvg-type=ignore tvg-id="9d02d9ef-b675-48dc-b24e-9f09a28a7816" CUID="7583725" tvg-name="Tameside Radio"  group-title="UK: RADIO",Tameside Radio
+http://edge-audio-04-thn.sharp-stream.com/tamesideradio.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="e80a0031-4b22-4830-bad4-43ff65f513c8" CUID="7583726" tvg-name="Tay Bridges Radio"  group-title="UK: RADIO",Tay Bridges Radio
+http://23.81.33.82:11142/stream
+#EXTINF:0 tvg-type=ignore tvg-id="2030396a-fee0-434d-982d-6bd3d7ff59b0" CUID="7583727" tvg-name="Thames FM London Soul Radio"  group-title="UK: RADIO",Thames FM London Soul Radio
+https://streamer.radio.co/s7379f3184/low
+#EXTINF:0 tvg-type=ignore tvg-id="a82ca1b7-0747-41a9-b334-d17a9018cce7" CUID="7583728" tvg-name="The Beat London 103.6 FM"  group-title="UK: RADIO",The Beat London 103.6 FM
+https://stream.zeno.fm/x59sz6hkev8uv
+#EXTINF:0 tvg-type=ignore tvg-id="9388a389-81f5-46a3-8508-e044387a6152" CUID="7583729" tvg-name="The Breeze Hampshire"  group-title="UK: RADIO",The Breeze Hampshire
+https://ec5.yesstreaming.net:2535/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c914afcf-6ec2-4e11-a684-b6c2170de115" CUID="7583730" tvg-name="The Breeze Wiltshire and Avon"  group-title="UK: RADIO",The Breeze Wiltshire and Avon
+https://ec5.yesstreaming.net:2925/stream
+#EXTINF:0 tvg-type=ignore tvg-id="fabd98a0-0d28-4180-937a-2e672e63e36f" CUID="7583731" tvg-name="The London Christian Radio"  group-title="UK: RADIO",The London Christian Radio
+https://stream.radio.co/s2010fca08/listen
+#EXTINF:0 tvg-type=ignore tvg-id="c5dcf4b6-bb3e-4c66-acce-7930db014731" CUID="7583732" tvg-name="The Soul of London"  group-title="UK: RADIO",The Soul of London
+https://londonsoulradio.out.airtime.pro/londonsoulradio_a
+#EXTINF:0 tvg-type=ignore tvg-id="04e51275-5b66-4b81-9b4c-721b9b4911a9" CUID="7583733" tvg-name="The Wave Scotland"  group-title="UK: RADIO",The Wave Scotland
+https://stream1.hippynet.co.uk/stream/thewavescotland
+#EXTINF:0 tvg-type=ignore tvg-id="e280dafa-9250-4f7f-b833-21436adbed1a" CUID="7583734" tvg-name="Time Traveller Radio UK"  group-title="UK: RADIO",Time Traveller Radio UK
+http://streaming.live365.com/a98212?player_id=streema
+#EXTINF:0 tvg-type=ignore tvg-id="bea5524d-aa74-46e8-a84b-190a1b1e844e" CUID="7583735" tvg-name="Times Radio"  group-title="UK: RADIO",Times Radio
+https://timesradio.wireless.radio/stream
+#EXTINF:0 tvg-type=ignore tvg-id="800b4ad5-93cf-4d63-a032-548bc836e8af" CUID="7583736" tvg-name="Timewarp Ireland"  group-title="UK: RADIO",Timewarp Ireland
+http://broadcast.shoutstream.co.uk:8052/stream
+#EXTINF:0 tvg-type=ignore tvg-id="f39cc746-0b69-4fe6-aa2f-052092946811" CUID="7583737" tvg-name="Tipperary Mid West Radio"  group-title="UK: RADIO",Tipperary Mid West Radio
+http://rsstreaming.com:9161/stream
+#EXTINF:0 tvg-type=ignore tvg-id="3a6e67a9-3920-4402-8367-c92acb4ed983" CUID="7583738" tvg-name="Tomorrowland One World Radio UK"  group-title="UK: RADIO",Tomorrowland One World Radio UK
+https://stream.rcs.revma.com/n43bp6uppp3vv
+#EXTINF:0 tvg-type=ignore tvg-id="f4389e93-d1f7-4b74-9ced-80ebba36c64f" CUID="7583739" tvg-name="Torbay Hospital Radio"  group-title="UK: RADIO",Torbay Hospital Radio
+http://s29.myradiostream.com:15188/;
+#EXTINF:0 tvg-type=ignore tvg-id="fc1c4c10-a989-4045-a7de-712f05bfcb00" CUID="7583740" tvg-name="Tower Radio Blackpool"  group-title="UK: RADIO",Tower Radio Blackpool
+https://sonic24.instainternet.com/8308/stream
+#EXTINF:0 tvg-type=ignore tvg-id="9d6daa90-8605-4ac1-a40d-9b9b117015f1" CUID="7583741" tvg-name="TrancePulse Dublin"  group-title="UK: RADIO",TrancePulse Dublin
+https://stream.trance.ie:8443/stream
+#EXTINF:0 tvg-type=ignore tvg-id="0cacd181-b3b2-48a1-a7e0-1b8b6effbbca" CUID="7583742" tvg-name="Trancetechnique UK Radio"  group-title="UK: RADIO",Trancetechnique UK Radio
+http://s11.ssl-stream.com:8034/stream
+#EXTINF:0 tvg-type=ignore tvg-id="6d55023f-5bd6-4ef6-9d9f-9b248a0e4910" CUID="7583743" tvg-name="Trans Radio UK"  group-title="UK: RADIO",Trans Radio UK
+http://streamer.radio.co/s85ebb74c4/listen
+#EXTINF:0 tvg-type=ignore tvg-id="470ce204-6cc5-43cd-9a37-4a0c3e74d849" CUID="7583744" tvg-name="Trax Radio UK"  group-title="UK: RADIO",Trax Radio UK
+https://hello.citrus3.com:2020/stream/traxradiouk-1
+#EXTINF:0 tvg-type=ignore tvg-id="5f0dd144-e45b-47ac-8f24-2c2d36b1cc18" CUID="7583745" tvg-name="True Radio Birmingham"  group-title="UK: RADIO",True Radio Birmingham
+https://streams.radio.co/s8b36c3c56/listen
+#EXTINF:0 tvg-type=ignore tvg-id="0f79d335-8c18-4a04-a91c-833a2b6ec9c7" CUID="7583746" tvg-name="Truelove and Harmony London Radio"  group-title="UK: RADIO",Truelove and Harmony London Radio
+http://eu10.fastcast4u.com:17870/;
+#EXTINF:0 tvg-type=ignore tvg-id="6f58cd62-2828-4dfe-9c62-24f368539c0f" CUID="7583747" tvg-name="UCB Ireland"  group-title="UK: RADIO",UCB Ireland
+https://stream.btsstream.com:8022/ucbireland
+#EXTINF:0 tvg-type=ignore tvg-id="05459422-700b-43b9-a76f-fabbc701ea6c" CUID="7583748" tvg-name="Unity FM Global UK"  group-title="UK: RADIO",Unity FM Global UK
+https://centova12.instainternet.com/proxy/unityfmglobal?mp=/stream/;
+#EXTINF:0 tvg-type=ignore tvg-id="a9ddf58c-a087-40b9-8008-6f70cdc7c96a" CUID="7583749" tvg-name="University College Cork"  group-title="UK: RADIO",University College Cork
+https://stream.btsstream.com:8060/ucc.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="1467e333-1386-44c2-828d-bb664e45946a" CUID="7583750" tvg-name="University Radio Bath"  group-title="UK: RADIO",University Radio Bath
+https://urb-ice.bath.ac.uk/urb/128.mp3
+#EXTINF:0 tvg-type=ignore tvg-id="996a652a-8051-4a59-a47f-f6bb2d5c4a33" CUID="7583751" tvg-name="University Radio Falmer"  group-title="UK: RADIO",University Radio Falmer
+https://listen-urfonline.sharp-stream.com/urfonline.mp3?nocache=0.1868666957825399
+#EXTINF:0 tvg-type=ignore tvg-id="3833dc1d-3a10-4023-9536-cb1cda20eb0a" CUID="7583752" tvg-name="University Radio York"  group-title="UK: RADIO",University Radio York
+https://audio.ury.org.uk/live-high
+#EXTINF:0 tvg-type=ignore tvg-id="2f05011e-67da-4762-9f21-33de576bc826" CUID="7583753" tvg-name="Veterans Radio UK"  group-title="UK: RADIO",Veterans Radio UK
+http://centova.fabricahost.com.br:7623/stream
+#EXTINF:0 tvg-type=ignore tvg-id="9284d480-f53b-4d81-bd19-27925028a2f2" CUID="7583754" tvg-name="Vintage Radio Birkenhead"  group-title="UK: RADIO",Vintage Radio Birkenhead
+https://streaming04.liveboxstream.uk/proxy/vintager/stream
+#EXTINF:0 tvg-type=ignore tvg-id="4fae40cb-915e-419f-99e7-ed78221b97ce" CUID="7583755" tvg-name="Vintage Radio Wirral"  group-title="UK: RADIO",Vintage Radio Wirral
+https://streaming04.liveboxstream.uk/proxy/vintager?mp=/stream
+#EXTINF:0 tvg-type=ignore tvg-id="db715a85-15c0-417c-ae86-4730dbd0b097" CUID="7583756" tvg-name="VIP Radio Birmingham"  group-title="UK: RADIO",VIP Radio Birmingham
+http://stream.zeno.fm/3pj93ecmhuouv
+#EXTINF:0 tvg-type=ignore tvg-id="3a73cba3-cb52-4df4-b462-a2cb8a0f15f6" CUID="7583757" tvg-name="Virgin Radio"  group-title="UK: RADIO",Virgin Radio
+https://radio.virginradio.co.uk/stream
+#EXTINF:0 tvg-type=ignore tvg-id="c4ca75ad-757e-4fc7-b273-95bc13ff21af" CUID="7583758" tvg-name="Virgin Radio: 80s Plus"  group-title="UK: RADIO",Virgin Radio: 80s Plus
+https://radio.virginradio.co.uk/stream-virginradio4
+#EXTINF:0 tvg-type=ignore tvg-id="7ab34f1a-e563-411e-a16a-8e7ca24ea6c2" CUID="7583759" tvg-name="Virgin Radio: Anthems"  group-title="UK: RADIO",Virgin Radio: Anthems
+https://radio.virginradio.co.uk/stream-anthems
+#EXTINF:0 tvg-type=ignore tvg-id="8b5e00fb-d7f7-443d-8545-14ede3b2f705" CUID="7583760" tvg-name="Virgin Radio: Chilled"  group-title="UK: RADIO",Virgin Radio: Chilled
+https://radio.virginradio.co.uk/stream-chilled
+#EXTINF:0 tvg-type=ignore tvg-id="878494a4-d053-482d-a1de-bd97b50163ce" CUID="7583761" tvg-name="Voice FM Southampton"  group-title="UK: RADIO",Voice FM Southampton
+https://stream.aiir.com/kod3i59r2nltv?_=959328
+#EXTINF:0 tvg-type=ignore tvg-id="241c5dec-1bd8-4547-aa7d-7f0eed8598e4" CUID="7583762" tvg-name="Welwyn Hatfield Radio"  group-title="UK: RADIO",Welwyn Hatfield Radio
+http://s5.themediasite.co.uk:8194/stream
+#EXTINF:0 tvg-type=ignore tvg-id="72da48e5-879d-417d-a513-509b22fa92ee" CUID="7583763" tvg-name="West Cork FM"  group-title="UK: RADIO",West Cork FM
+http://lyra.shoutca.st:8147/live
+#EXTINF:0 tvg-type=ignore tvg-id="5987a305-1e53-449a-8323-af85048bf970" CUID="7583764" tvg-name="West Kent Radio"  group-title="UK: RADIO",West Kent Radio
+https://ukwesta.streaming.broadcast.radio/wkcr
+#EXTINF:0 tvg-type=ignore tvg-id="2aa4b05f-5cea-48e5-88f4-91aa2ce060cc" CUID="7583765" tvg-name="West Limerick 102"  group-title="UK: RADIO",West Limerick 102
+http://5.135.158.214:17796/;
+#EXTINF:0 tvg-type=ignore tvg-id="a6cd10e0-972a-42c8-a3ad-6cada4ebbdf6" CUID="7583766" tvg-name="West Norfolk Radio"  group-title="UK: RADIO",West Norfolk Radio
+http://178.33.135.246:5930/stream
+#EXTINF:0 tvg-type=ignore tvg-id="6b68ed3d-8747-460c-b13a-b4fb4e9a87b0" CUID="7583767" tvg-name="Weymouth Rocks"  group-title="UK: RADIO",Weymouth Rocks
+http://cast1.asurahosting.com:8621/med
+#EXTINF:0 tvg-type=ignore tvg-id="7415df53-d47b-4cba-830b-9db81bcde928" CUID="7583768" tvg-name="Winchester Radio"  group-title="UK: RADIO",Winchester Radio
+https://winchest.radioca.st/stream?rp_source=1&=&&___cb=427101946874329
+#EXTINF:0 tvg-type=ignore tvg-id="d25e4e6a-a325-46dc-a90f-58cf86d247cd" CUID="7583769" tvg-name="WNBC London"  group-title="UK: RADIO",WNBC London
+http://148.251.43.231:8120/stream
+#EXTINF:0 tvg-type=ignore tvg-id="5b6a5aad-5230-4ea9-9150-12d378ff4d4c" CUID="7583770" tvg-name="Wrexham Premier Radio"  group-title="UK: RADIO",Wrexham Premier Radio
+https://uksoutha.streaming.broadcast.radio/premier?1709519917408=
+#EXTINF:0 tvg-type=ignore tvg-id="f3ff3781-33b6-422a-90d9-1a4bf15ee5a0" CUID="7583771" tvg-name="XS Manchester"  group-title="UK: RADIO",XS Manchester
+https://media-ssl.musicradio.com/RadioXManchester
+#EXTINF:0 tvg-type=ignore tvg-id="23d7aa68-99f7-4a5a-bee5-5ef72c398d07" CUID="7583772" tvg-name="York Hospital Radio"  group-title="UK: RADIO",York Hospital Radio
+https://stream1.superstreaming.co.uk/proxy/yorkhospradio/stream
+#EXTINF:0 tvg-type=ignore tvg-id="857c6672-d7bf-4248-8e68-d4c46f8c6e18" CUID="7583773" tvg-name="Your Harrogate"  group-title="UK: RADIO",Your Harrogate
+https://stream.aiir.com/gxs0oxyllbqtv
+#EXTINF:0 tvg-type=ignore tvg-id="b222216f-e743-40f2-8bad-2dc299c6af3d" CUID="7583774" tvg-name="Zest Liverpool"  group-title="UK: RADIO",Zest Liverpool
+https://stream.rcs.revma.com/71d8zn0s8guvv
