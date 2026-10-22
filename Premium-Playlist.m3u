@@ -1,0 +1,118 @@
+#EXTM3U
+
+# NATIONAL
+
+#EXTINF:-1 group-title="National",BBC Radio 2
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+
+#EXTINF:-1 group-title="National",BBC Radio 6 Music
+https://stream.live.vc.bbcmedia.co.uk/bbc_6music
+
+#EXTINF:-1 group-title="National",Classic FM
+https://media-ssl.musicradio.com/ClassicFMMP3
+
+#EXTINF:-1 group-title="National",Gold
+https://media-ssl.musicradio.com/GoldMP3
+
+#EXTINF:-1 group-title="National",Heart UK
+https://media-ssl.musicradio.com/HeartUKMP3
+
+#EXTINF:-1 group-title="National",Capital UK
+http://icecast.thisisdax.com/CapitalUKMP3
+
+#EXTINF:-1 group-title="National",Smooth UK
+https://media-ssl.musicradio.com/SmoothUKMP3
+
+#EXTINF:-1 group-title="National",Radio X UK
+https://media-ssl.musicradio.com/RadioXUKMP3
+
+# TALK & NEWS
+
+#EXTINF:-1 group-title="Talk",LBC London
+https://media-ssl.musicradio.com/LBCLondonMP3
+
+#EXTINF:-1 group-title="Talk",Times Radio
+https://timesradio.wireless.radio/stream
+
+#EXTINF:-1 group-title="Talk",Talk Radio
+https://talk.live.stream.broadcasting.news/stream
+
+#EXTINF:-1 group-title="Talk",talkSPORT
+https://radio.talksport.com/stream
+
+#EXTINF:-1 group-title="Talk",talkSPORT 2
+https://radio.talksport.com/stream2
+
+#EXTINF:-1 group-title="Talk",GB News
+http://listen-gbnews.sharp-stream.com/gbnews.aac
+
+# BAUER
+
+#EXTINF:-1 group-title="Bauer",Absolute Radio
+http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac
+
+#EXTINF:-1 group-title="Bauer",Absolute 90s
+http://stream-ar.planetradio.co.uk/absolute90shigh.aac
+
+#EXTINF:-1 group-title="Bauer",Greatest Hits Radio
+https://stream-mz.hellorayo.co.uk/net2westmidlands.aac
+
+#EXTINF:-1 group-title="Bauer",Hits Radio Manchester
+https://stream-al.hellorayo.co.uk/key.mp3
+
+#EXTINF:-1 group-title="Bauer",KISS
+https://live-bauerkiss.sharp-stream.com/kissnational.aac
+
+#EXTINF:-1 group-title="Bauer",Kisstory
+http://stream-kiss.planetradio.co.uk/kisstory.mp3
+
+#EXTINF:-1 group-title="Bauer",Magic Radio
+https://stream-mz.hellorayo.co.uk/magicnational.mp3
+
+#EXTINF:-1 group-title="Bauer",Planet Rock
+https://stream-mz.hellorayo.co.uk/planetrock.mp3
+
+# SPECIALIST
+
+#EXTINF:-1 group-title="Specialist",Jazz FM
+https://stream-mz.hellorayo.co.uk/jazzfm.mp3
+
+#EXTINF:-1 group-title="Specialist",BFBS Radio
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+
+#EXTINF:-1 group-title="Specialist",Radio Caroline
+https://stream.radiocaroline.net/rc128/
+
+# DANCE
+
+#EXTINF:-1 group-title="Dance",Capital Dance
+https://icecast.thisisdax.com/CapitalDanceMP3
+
+#EXTINF:-1 group-title="Dance",Heart Dance
+https://media-ssl.musicradio.com/HeartDanceMP3
+
+#EXTINF:-1 group-title="Dance",KISS Dance
+https://stream-kiss.hellorayo.co.uk/kissdance.aac
+
+# EXTENSIONS
+
+#EXTINF:-1 group-title="Extensions",Heart 80s
+http://media-ice.musicradio.com/Heart80sMP3
+
+#EXTINF:-1 group-title="Extensions",Heart 90s
+https://media-ssl.musicradio.com/Heart90sMP3
+
+#EXTINF:-1 group-title="Extensions",Smooth Chill
+https://media-ssl.musicradio.com/ChillMP3
+
+#EXTINF:-1 group-title="Extensions",Smooth Country
+https://media-ice.musicradio.com/SmoothCountryMP3
+
+#EXTINF:-1 group-title="Extensions",Virgin Radio
+https://radio.virginradio.co.uk/stream
+
+#EXTINF:-1 group-title="Extensions",Virgin Radio Anthems
+https://radio.virginradio.co.uk/stream-anthems
+
+#EXTINF:-1 group-title="Extensions",Virgin Radio Chilled
+https://radio.virginradio.co.uk/stream-chilled
